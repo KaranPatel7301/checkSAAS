@@ -50,14 +50,22 @@ jobs:
           SAAS_SCOUT_SEEN: seen.json
         run: python saas_scout.py
 
-      - name: Persist dedup memory
+      # Dormancy heartbeat: GitHub auto-disables scheduled workflows after 60
+      # days with NO repo commits. A dry spell (or a silently broken scraper)
+      # produces zero hits -> no seen.json change -> no commit -> eventual
+      # dormancy, with no warning. Writing a timestamp EVERY run guarantees a
+      # commit 3x/day, so the schedule can never go dark. It also persists the
+      # dedup memory in the same commit when there are new hits.
+      - name: Heartbeat + persist dedup memory
         run: |
-          if [[ -n "$(git status --porcelain seen.json)" ]]; then
-            git config user.name "saas-scout-bot"
-            git config user.email "actions@github.com"
-            git add seen.json
-            git commit -m "update seen listings [skip ci]"
-            git push
-          else
-            echo "No new listings this run; nothing to persist."
-          fi
+          mkdir -p .github
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/last_run.txt
+          git config user.name "saas-scout-bot"
+          git config user.email "actions@github.com"
+          git add .github/last_run.txt seen.json
+          # last_run.txt always changes, so this commit always succeeds ->
+          # a commit lands on main on every single run.
+          git commit -m "heartbeat $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+          # Rebase in case a manual push moved main since checkout, then push.
+          git pull --rebase --autostash origin main || true
+          git push

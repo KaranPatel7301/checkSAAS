@@ -20,17 +20,28 @@ hand.
 
 | Source | How it filters | Notes |
 |---|---|---|
-| **Flippa** | Full playbook filter on real profit / price / multiple | Public JSON endpoint |
+| **Flippa** | Full playbook filter on real profit / price / multiple | Public JSON endpoint; also shows business age + listing date |
 | **Empire Flippers** | SaaS-only (`?monetization=saas`) + full playbook filter | Vetted, larger deals; business name hidden until you unlock |
+| **TrustMRR** | "For sale" cards, annual-revenue floor | Revenue is **third-party verified** (Stripe/LemonSqueezy/RevenueCat); confirm profit on the listing page |
 | **Acquire.com** | SaaS whose public sitemap slug reveals ARR/MRR/profit ≥ floor | Exact price on the listing page (free login); smallest-first, capped 25/run |
 | **Microns** | SaaS/Web-app categories, annual-revenue floor | Profit is paywalled — confirm on the listing page |
-| **Reddit** | 15 subreddits, sale-intent keyword match | Freeform posts, surfaced for you to eyeball |
+| **Buy Sell Startups** | Listing cards, MRR/annual-revenue floor | Asking price often behind a free login — confirm on the listing page |
+| **Reddit** | 15 subreddits, sale-intent keyword match | Freeform posts, surfaced for you to eyeball; shows post date |
+
+Every digest starts with a **source-tally line** (raw counts fetched per source
+before dedup/filter, e.g. `Flippa 200 | Empire Flippers 9 | TrustMRR 26 | …`). A
+`0` where a number is expected is the fastest way to spot a silently broken
+scraper.
 
 **Not included and why:**
 - **SideProjectors** — protected by a Cloudflare challenge (needs a headless
   browser, too heavy/fragile for a cron job).
 - **IndieMaker** — site is unreliable / times out.
 - **BizBuySell** — blocks bots (403).
+- **Long-tail micro sites** (Dwarf, TinySoko, Transferslot, Borderline.biz,
+  FundNAcquire) — heavy cross-listing overlap with sources already covered, no
+  revenue verification, more breakage surface.
+- **Shopify Exchange Marketplace** — shut down.
 
 ---
 
@@ -49,6 +60,11 @@ Enforced automatically (in `CRITERIA`):
   source.
 - **Bad Problems:** trendy AI toys, novelty, one-time/entertainment
   (games, dating, astrology, etc.) are excluded by keyword.
+
+**Displayed, not filtered:** where Flippa exposes it, the digest shows the
+**business age** (with a "young, scrutinize" flag under 12 months — a young
+product claiming strong revenue hasn't proven durability/churn) and the listing
+date. These are scrutiny signals, never auto-rejections.
 
 Must still be verified BY HAND (not in any listing's structured data):
 
@@ -99,6 +115,13 @@ on:
 Each run installs deps, runs `saas_scout.py`, and commits the dedup file
 (`seen.json`) back to the repo so it remembers what it already emailed.
 
+**Dormancy protection:** GitHub auto-disables a scheduled workflow after 60 days
+with no repo commits. A dry spell — or a silently broken scraper — produces zero
+hits, zero commits, and eventual silence. To prevent that, every run also writes
+a timestamp to `.github/last_run.txt` and commits it **regardless of hits**, so a
+commit lands 3x/day and the schedule can never go dark. No more manual re-arming
+from the Actions tab.
+
 Run it on demand anytime from the repo's **Actions** tab → *saas-scout* →
 **Run workflow**.
 
@@ -146,7 +169,8 @@ testing.
 | File | Purpose |
 |---|---|
 | `saas_scout.py` | The scanner (sources, filters, email) |
-| `.github/workflows/scout.yml` | Cloud cron schedule |
+| `.github/workflows/scout.yml` | Cloud cron schedule + heartbeat commit |
+| `.github/last_run.txt` | Heartbeat timestamp (auto-updated every run) |
 | `requirements.txt` | Python deps (`requests`, `beautifulsoup4`, `python-dotenv`) |
 | `seen.json` | Dedup memory (auto-updated) |
 | `.env` | Local secrets (gitignored) |

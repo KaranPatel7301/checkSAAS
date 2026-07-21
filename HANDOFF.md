@@ -44,7 +44,8 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
 | File | Purpose |
 |---|---|
 | `saas_scout.py` | Entire scanner: sources, normalizers, filters, email, main() |
-| `.github/workflows/scout.yml` | Cloud cron schedule + secrets wiring + seen.json commit-back |
+| `.github/workflows/scout.yml` | Cloud cron schedule + secrets wiring + heartbeat/seen.json commit-back |
+| `.github/last_run.txt` | Heartbeat timestamp; rewritten & committed EVERY run (dormancy protection) |
 | `requirements.txt` | `requests`, `beautifulsoup4`, `python-dotenv` |
 | `seen.json` | Dedup memory; auto-updated and committed back by the workflow |
 | `README.md` | User-facing overview |
@@ -76,6 +77,25 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
   $200K price cap; the few in-budget SaaS are the point.
 - Only page 1 is scraped (~9 SaaS cards). No pagination — see risks.
 
+### TrustMRR  (`fetch_trustmrr` / `normalize_trustmrr` / `passes_trustmrr`)
+- HTML scrape of the homepage `https://trustmrr.com/`. The "for sale" tiles are
+  rendered server-side as `<a href="/startup/...">` cards whose flat text reads
+  e.g. `FOR SALE ReddGrow AI Marketing Revenue $17k Price $1M Multiple 4.7x`.
+  (The dedicated `/acquire` marketplace page is JS-rendered → 0 links to a bot,
+  so we parse the homepage cards, which include a good recent set, ~26.)
+- Only cards containing `FOR SALE` are kept; deduped by href within the fetch.
+- **Revenue shown is MONTHLY and third-party VERIFIED** (Stripe/LemonSqueezy/
+  RevenueCat) — the reason this source is worth trusting. Cards show revenue not
+  profit, so `passes_trustmrr` gates on annual revenue (`>= min_monthly_profit*12`)
+  like Microns and the email says to confirm profit on the listing page. If a
+  card ever exposes profit, the profit floor is applied directly.
+- Price cap + `exclude_keywords` + a light non-SaaS drop (`TRUSTMRR_NON_SAAS`,
+  e-commerce) apply. The card's "Multiple" is a revenue multiple (not the
+  playbook's profit multiple), so it is NOT filtered on.
+- Money parsing (`_money`) requires the k/m unit to be ADJACENT to the number
+  with a `(?![a-z])` lookahead — otherwise `$67 Multiple` misreads the "M" of
+  "Multiple" as millions. Don't regress this.
+
 ### Microns  (`fetch_microns` / `normalize_microns` / `passes_microns`)
 - HTML scrape of the homepage `https://www.microns.io/` (Webflow).
   NOTE: `/categories/saas` only shows SOLD items — do not use it.
@@ -104,6 +124,19 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
 - Eyeball source: exact PRICE is not in the sitemap (it's on the login-gated
   page), so no price/multiple filter -- the email says to confirm on Acquire.
 
+### Buy Sell Startups  (`fetch_buysellstartups` / `normalize_bss` / `passes_buysellstartups`)
+- HTML scrape of the homepage `https://buysellstartups.com/`. Listing tiles are
+  `<a href="/listings/...">` cards reading e.g.
+  `SaaS Featured Mentioned ... Asking Sign in -> MRR $1.0k Multiple 0.8x`.
+  (`/browse` and `/listings` are client-side → 404 to a bot, so we use the ~6
+  homepage cards.)
+- Thin, low-value source in practice: asking price is usually behind a login
+  ("Sign in"), and some listings are "Confidential" with masked MRR (`••••`).
+  We gate on MRR (annual `>= min_monthly_profit*12`); listings with no numeric
+  MRR are dropped (can't verify the floor). Most cards are tiny and won't pass —
+  that's expected and honest. Included per the brief for completeness.
+- Same adjacent-unit money parsing fix as TrustMRR.
+
 ### Reddit  (`fetch_reddit`)
 - **No API keys / no Reddit app.** Reddit gates app creation and blocks
   anonymous `.json`, but the RSS feed works with a browser UA.
@@ -114,6 +147,23 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
 - Freeform posts → no numeric filter; kept only if title/body contains a
   sale-intent phrase from `REDDIT_SIGNALS`. Surfaced for manual eyeballing.
 - 15 subs in `REDDIT_SUBS` (see README for the list).
+- Posting date is captured for free from the RSS `<published>` and shown in the
+  digest (display only — never filtered on).
+
+### Digest extras (in `build_body` / `main`)
+- **Source-tally line** at the top of every digest: raw counts fetched per
+  source BEFORE dedup/filter, collected in `raw_counts` in `main()` and passed
+  to `build_body`. A `0` where a number is expected = a silently broken scraper
+  (this is exactly how the old Flippa profit-key regression would have been
+  caught). Also printed to stdout on no-hit runs.
+- **Business age (Flippa):** `established_at` (business creation date) →
+  `business_age_months` via `_months_since()`. Shown in the digest with a
+  "young, scrutinize churn/durability" flag under 12 months. Display only —
+  NOT hard-filtered (a young product claiming strong revenue is a "scrutinize
+  harder" flag, not an auto-no). Microns cards don't expose age, so it's skipped
+  there rather than fetching every detail page.
+- **Listing/posting date:** Flippa `starts_at` and Reddit RSS `<published>`,
+  both shown, both display-only. No scraper fragility added for dates.
 
 ---
 
@@ -123,9 +173,9 @@ Defined in the `CRITERIA` dict in `saas_scout.py`:
 
 | Playbook rule | Code | Enforced on |
 |---|---|---|
-| $2K+/mo profit, prefer $3K+ | `min_monthly_profit=2000`, `prefer_monthly_profit=3000` (starred) | Flippa, EF |
-| $20K–$150K+ capital | `max_price=200_000` | Flippa, EF, Microns |
-| Capital efficiency / ROIC | `max_multiple=2.5` (price ÷ annual profit; top of playbook's own examples) | Flippa, EF |
+| $2K+/mo profit, prefer $3K+ | `min_monthly_profit=2000`, `prefer_monthly_profit=3000` (starred) | Flippa, EF (direct profit); TrustMRR/Microns/BSS/Acquire via annual-revenue necessary-condition gate |
+| $20K–$150K+ capital | `max_price=200_000` | Flippa, EF, Microns, TrustMRR, BSS |
+| Capital efficiency / ROIC | `max_multiple=2.5` (price ÷ annual profit; top of playbook's own examples) | Flippa, EF (profit-multiple sources only) |
 | Recurring subscription revenue | SaaS category filters per source | all |
 | Avoid "Bad Problems" (AI toys, novelty, games, entertainment) | `exclude_keywords` | all |
 
@@ -184,11 +234,14 @@ script prints the digest instead of sending (useful for local dry-runs).
    (logged in the run). Regenerate at myaccount.google.com/apppasswords and
    update the `SMTP_PASS` secret. Consider a transactional provider (Resend/
    SendGrid) if deliverability becomes an issue.
-5. **GitHub Actions scheduled-workflow dormancy.** GitHub disables scheduled
-   workflows after ~60 days of NO repository activity. The workflow commits
-   `seen.json` on runs with hits, which counts as activity, but a long dry
-   spell could let it go dormant. Fallback: any manual run or commit re-arms
-   it. Consider a keepalive.
+5. **GitHub Actions scheduled-workflow dormancy — SOLVED.** GitHub disables
+   scheduled workflows after ~60 days of NO repository activity. Previously the
+   workflow only committed `seen.json` on runs with hits, so a dry spell (or a
+   silently broken scraper returning 0 everywhere) meant no commits → eventual
+   dormancy with no warning. **Fixed:** the `Heartbeat + persist dedup memory`
+   step in `scout.yml` rewrites `.github/last_run.txt` with a UTC timestamp and
+   commits it on EVERY run, regardless of hits — guaranteeing a commit 3x/day.
+   Keep the concurrency group. Do not revert this to "only commit on hits".
 6. **seen.json growth.** Grows unbounded (one id per listing ever seen). Fine
    for years at this volume, but could be pruned by date if it ever bloats.
 7. **Concurrency.** `scout.yml` uses a concurrency group so overlapping runs
@@ -224,15 +277,21 @@ Test a single source, e.g.:
 | SideProjectors | Cloudflare challenge; needs a headless browser (too heavy for CI). |
 | IndieMaker | Site unreliable / times out. |
 | BizBuySell | Blocks bots (403). |
+| Dwarf / TinySoko / Transferslot / Borderline.biz / FundNAcquire | Long-tail micro sites: heavy cross-listing overlap with covered sources, no revenue verification, more breakage surface. Revisit only if real misses observed. |
+| Shopify Exchange Marketplace | Shut down. |
 
 ---
 
 ## 10. Quick verification checklist for the next agent
 
 - [ ] `git log origin/main` shows the latest code commit + periodic
-      `update seen listings [skip ci]` bot commits (proves runs are firing).
+      `heartbeat ... [skip ci]` bot commits on EVERY run (proves runs are firing
+      AND dormancy protection works, even with zero hits).
 - [ ] Actions tab shows green runs at ~7am/1pm/7pm ET.
-- [ ] A dry run (`SMTP_HOST="" ... python saas_scout.py`) prints a digest with
-      FLIPPA / EMPIRE FLIPPERS / ACQUIRE.COM / MICRONS / REDDIT sections and
-      clickable links (Acquire capped at 25).
+- [ ] A dry run (`SMTP_HOST="" ... python saas_scout.py`) prints the
+      `Sources fetched:` tally line plus FLIPPA / EMPIRE FLIPPERS / TRUSTMRR /
+      ACQUIRE.COM / MICRONS / BUY SELL STARTUPS / REDDIT sections with clickable
+      links (Acquire capped at 25).
+- [ ] Flippa entries show business age (+ "young" flag under 12 mo) and listing
+      date; Reddit entries show the post date.
 - [ ] `CRITERIA` still matches `Acquistion Critera.md`.

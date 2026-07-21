@@ -204,6 +204,9 @@ def normalize_flippa(raw: dict) -> dict:
     lid = str(raw.get("id") or first("id", default=""))
     annual = profit * 12
     url = first("html_url", default="") or (f"https://flippa.com/{lid}" if lid else "")
+    # established_at = when the BUSINESS was created (business age -> durability
+    # signal); starts_at = when the LISTING was posted. Both display-only.
+    established = first("established_at", default=None)
     return {
         "source": "flippa",
         "id": f"flippa:{lid}",
@@ -217,8 +220,22 @@ def normalize_flippa(raw: dict) -> dict:
         "monetization": (first("business_model", default="") or "").lower(),
         "verified_revenue": bool(a.get("has_verified_revenue")),
         "multiple": (price / annual) if annual else None,
+        "business_age_months": _months_since(established),
+        "posted_date": (first("starts_at", default="") or "")[:10] or None,
         "url": url,
     }
+
+
+def _months_since(iso: str | None):
+    """Whole months between an ISO date and now, or None. Display-only signal."""
+    if not iso:
+        return None
+    try:
+        dt = datetime.datetime.fromisoformat(iso)
+    except ValueError:
+        return None
+    now = datetime.datetime.now(dt.tzinfo)
+    return max(0, (now.year - dt.year) * 12 + (now.month - dt.month))
 
 
 def passes_flippa(x: dict) -> bool:
@@ -290,6 +307,7 @@ def fetch_reddit() -> list[dict]:
         link_el = entry.find("a:link", _ATOM)
         content_el = entry.find("a:content", _ATOM)
         cat_el = entry.find("a:category", _ATOM)
+        pub_el = entry.find("a:published", _ATOM)
         title = (title_el.text if title_el is not None else "") or ""
         body = (content_el.text if content_el is not None else "") or ""
         # content is HTML-escaped; strip tags for keyword matching only.
@@ -300,6 +318,8 @@ def fetch_reddit() -> list[dict]:
         sub = (cat_el.get("label") if cat_el is not None else "") or "reddit"
         pid = (id_el.text if id_el is not None else "") or title
         url = link_el.get("href") if link_el is not None else ""
+        # Posting date is free in the RSS feed; display only, never filter on it.
+        posted = (pub_el.text[:10] if pub_el is not None and pub_el.text else None)
         hits.append({
             "source": f"reddit/{sub.lstrip('r/')}",
             "id": f"reddit:{pid}",
@@ -309,6 +329,7 @@ def fetch_reddit() -> list[dict]:
             "profit_monthly": None,
             "monetization": "",
             "multiple": None,
+            "posted_date": posted,
             "url": url,
         })
     return hits
@@ -570,6 +591,185 @@ def fetch_acquire() -> list[dict]:
     return out
 
 
+# ====================================================================
+# SOURCE 6: TRUSTMRR  (revenue verified via Stripe/LemonSqueezy/RevenueCat)
+# ====================================================================
+# TrustMRR's "for sale" cards are rendered server-side on the homepage as
+# <a href="/startup/..."> tiles reading e.g.:
+#   "FOR SALE ReddGrow AI | Marketing | Revenue $17k Price $1M Multiple 4.7x"
+# Revenue is MONTHLY and third-party VERIFIED, which is why it's worth trust.
+# Cards show revenue (not profit), so we gate on annual revenue like Microns
+# and tell the owner to confirm profit on the listing page.
+TRUSTMRR_URL = "https://trustmrr.com/"
+TRUSTMRR_NON_SAAS = ["e-commerce", "ecommerce"]
+
+
+def _money(text: str):
+    import re
+    # Unit must be ADJACENT to the number (no space) and not the first letter
+    # of a following word -- otherwise "$67 Multiple" would read the "M" of
+    # "Multiple" as millions.
+    m = re.search(r"\$\s*([\d.,]+)(k|m|b)?(?![a-z])", text, re.I)
+    if not m:
+        return None
+    v = float(m.group(1).replace(",", ""))
+    u = (m.group(2) or "").lower()
+    return v * (1000 if u == "k" else 1_000_000 if u == "m"
+               else 1_000_000_000 if u == "b" else 1)
+
+
+def fetch_trustmrr() -> list[dict]:
+    from bs4 import BeautifulSoup
+    ua = {"User-Agent": HEADERS["User-Agent"]}
+    try:
+        resp = requests.get(TRUSTMRR_URL, headers=ua, timeout=30)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"[trustmrr] request failed: {e}", file=sys.stderr)
+        return []
+    soup = BeautifulSoup(resp.text, "html.parser")
+    seen_href, out = set(), []
+    for a in soup.find_all("a", href=lambda h: h and h.startswith("/startup/")):
+        text = a.get_text(" ", strip=True)
+        if "FOR SALE" not in text.upper():
+            continue
+        href = a["href"]
+        if href in seen_href:
+            continue
+        seen_href.add(href)
+        h = normalize_trustmrr(text, href)
+        if h:
+            out.append(h)
+    if not out:
+        print("[trustmrr] no FOR SALE cards found; markup may have changed.",
+              file=sys.stderr)
+    return out
+
+
+def normalize_trustmrr(text: str, href: str) -> dict | None:
+    import re
+    slug = href.rstrip("/").split("/startup/")[-1]
+    body = re.sub(r"^\s*FOR SALE\s*", "", text, flags=re.I)
+    title = re.split(r"\b(Revenue|Price|Profit|Multiple)\b", body)[0].strip()
+
+    def field(label):
+        m = re.search(label + r"\s*(\$[\d.,]+[km]?)", text, re.I)
+        return _money(m.group(1)) if m else None
+
+    rev = field("Revenue")
+    price = field("Price")
+    profit = field("Profit")
+    return {
+        "source": "trustmrr",
+        "id": f"trustmrr:{slug}",
+        "title": title[:80] or slug.replace("-", " ").title(),
+        "summary": body[:200],
+        "revenue_monthly": rev,
+        "annual_revenue": int(rev * 12) if rev else None,
+        "profit_monthly": profit,
+        "price": price or 0,
+        "url": f"https://trustmrr.com{href}",
+    }
+
+
+def passes_trustmrr(x: dict) -> bool:
+    text = x["summary"].lower()
+    if any(k in text for k in TRUSTMRR_NON_SAAS):
+        return False
+    if any(kw in text for kw in CRITERIA["exclude_keywords"]):
+        return False
+    if CRITERIA["max_price"] and x["price"] and x["price"] > CRITERIA["max_price"]:
+        return False
+    if x.get("profit_monthly"):
+        return x["profit_monthly"] >= CRITERIA["min_monthly_profit"]
+    rev = x.get("annual_revenue")
+    if rev is None:
+        return False  # revenue masked/confidential -> can't verify the floor
+    return rev >= CRITERIA["min_monthly_profit"] * 12
+
+
+# ====================================================================
+# SOURCE 7: BUY SELL STARTUPS
+# ====================================================================
+# buysellstartups.com renders a handful of listing cards server-side on the
+# homepage as <a href="/listings/..."> tiles reading e.g.:
+#   "SaaS Featured Mentioned ... Asking Sign in -> MRR $1.0k Multiple 0.8x"
+# Asking price is often gated behind login ("Sign in"); MRR is shown when the
+# seller isn't confidential. We gate on MRR (annual) like the other
+# revenue-only sources and note to confirm profit/price on the listing.
+BSS_URL = "https://buysellstartups.com/"
+
+
+def fetch_buysellstartups() -> list[dict]:
+    from bs4 import BeautifulSoup
+    import re
+    ua = {"User-Agent": HEADERS["User-Agent"]}
+    try:
+        resp = requests.get(BSS_URL, headers=ua, timeout=30)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"[buysellstartups] request failed: {e}", file=sys.stderr)
+        return []
+    soup = BeautifulSoup(resp.text, "html.parser")
+    seen_href, out = set(), []
+    for a in soup.find_all("a", href=True):
+        if not re.match(r"/listings/[\w-]+", a["href"]):
+            continue
+        href = a["href"]
+        if href in seen_href:
+            continue
+        seen_href.add(href)
+        h = normalize_bss(a.get_text(" ", strip=True), href)
+        if h:
+            out.append(h)
+    if not out:
+        print("[buysellstartups] no /listings/ cards found; markup may have "
+              "changed.", file=sys.stderr)
+    return out
+
+
+def normalize_bss(text: str, href: str) -> dict | None:
+    import re
+    slug = href.rstrip("/").split("/listings/")[-1]
+
+    def field(label):
+        # Unit adjacent to the number only; "MRR $67 Multiple" must read 67,
+        # not 67 million from the "M" in "Multiple".
+        m = re.search(label + r"\s*\$([\d.,]+)(k|m)?(?![a-z])", text, re.I)
+        if not m:
+            return None
+        u = (m.group(2) or "").lower()
+        return float(m.group(1).replace(",", "")) * (
+            1000 if u == "k" else 1_000_000 if u == "m" else 1)
+
+    mrr = field("MRR")
+    asking = field("Asking")
+    title = re.split(r"\bAsking\b", text)[0]
+    title = re.sub(r"^(SaaS|Featured|Confidential|↗|\s)+", "", title, flags=re.I).strip()
+    return {
+        "source": "buysellstartups",
+        "id": f"bss:{slug}",
+        "title": title[:80] or slug,
+        "summary": text[:200],
+        "revenue_monthly": mrr,
+        "annual_revenue": int(mrr * 12) if mrr else None,
+        "price": asking or 0,
+        "url": f"https://buysellstartups.com{href}",
+    }
+
+
+def passes_buysellstartups(x: dict) -> bool:
+    text = x["summary"].lower()
+    if any(kw in text for kw in CRITERIA["exclude_keywords"]):
+        return False
+    if CRITERIA["max_price"] and x["price"] and x["price"] > CRITERIA["max_price"]:
+        return False
+    rev = x.get("annual_revenue")
+    if rev is None:
+        return False  # MRR masked/confidential -> can't verify the floor
+    return rev >= CRITERIA["min_monthly_profit"] * 12
+
+
 def load_seen() -> set[str]:
     return set(json.loads(SEEN_FILE.read_text())) if SEEN_FILE.exists() else set()
 
@@ -581,14 +781,25 @@ def save_seen(seen: set[str]) -> None:
 # ====================================================================
 # EMAIL
 # ====================================================================
-def build_body(hits: list[dict]) -> str:
+def build_body(hits: list[dict], raw_counts: dict | None = None) -> str:
     stamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     lines = [f"SaaS Scout digest  {stamp}", ""]
+    # Source tally: raw counts fetched from each source BEFORE dedup/filter.
+    # A 0 where a number is expected = a silently broken scraper (this is how
+    # the old Flippa profit-key regression would have been caught instantly).
+    if raw_counts:
+        tally = " | ".join(f"{name} {n}" for name, n in raw_counts.items())
+        lines.append(f"Sources fetched: {tally}")
+        lines.append("(raw counts before dedup/filter; a 0 may mean a broken "
+                     "scraper -- investigate.)")
+        lines.append("")
     flippa = [h for h in hits if h["source"] == "flippa"]
     reddit = [h for h in hits if h["source"].startswith("reddit")]
     microns = [h for h in hits if h["source"] == "microns"]
     ef = [h for h in hits if h["source"] == "empireflippers"]
     acquire = [h for h in hits if h["source"] == "acquire"]
+    trustmrr = [h for h in hits if h["source"] == "trustmrr"]
+    bss = [h for h in hits if h["source"] == "buysellstartups"]
 
     if flippa:
         lines.append(f"FLIPPA -- {len(flippa)} passed the machine filter:")
@@ -602,12 +813,22 @@ def build_body(hits: list[dict]) -> str:
             rev = f" | ${h['revenue_monthly']:,}/mo rev" if h.get("revenue_monthly") else ""
             lines.append(f"  {h['title'][:70]}{star}{vrf}")
             lines.append(f"    ${h['profit_monthly']:,}/mo profit{rev} | ask ${h['price']:,} | {mult}")
+            age = h.get("business_age_months")
+            if age is not None:
+                flag = "  <- young, scrutinize churn/durability" if age < 12 else ""
+                meta = f"    business age {age} mo{flag}"
+                if h.get("posted_date"):
+                    meta += f" | listed {h['posted_date']}"
+                lines.append(meta)
+            elif h.get("posted_date"):
+                lines.append(f"    listed {h['posted_date']}")
             lines.append(f"    {h['url']}")
         lines.append("")
     if reddit:
         lines.append(f"REDDIT -- {len(reddit)} posts to eyeball (no auto-filter):")
         for h in reddit:
-            lines.append(f"  [{h['source']}] {h['title'][:80]}")
+            posted = f"  ({h['posted_date']})" if h.get("posted_date") else ""
+            lines.append(f"  [{h['source']}] {h['title'][:80]}{posted}")
             lines.append(f"    {h['url']}")
         lines.append("")
     if microns:
@@ -642,6 +863,29 @@ def build_body(hits: list[dict]) -> str:
         for h in sorted(acquire, key=lambda x: x.get("monthly_est", 0)):
             lines.append(f"  {h['title'][:70]}")
             lines.append(f"    {h['summary']}")
+            lines.append(f"    {h['url']}")
+        lines.append("")
+    if trustmrr:
+        lines.append(f"TRUSTMRR -- {len(trustmrr)} passed the revenue floor:")
+        lines.append("(revenue is third-party VERIFIED via Stripe/LemonSqueezy/"
+                     "RevenueCat, but it's revenue not profit -- confirm profit "
+                     "and margin on the listing page.)")
+        for h in sorted(trustmrr, key=lambda x: x.get("annual_revenue") or 0):
+            rev = f"${h['annual_revenue']:,}/yr rev" if h.get("annual_revenue") else "rev n/a"
+            price = f"ask ${h['price']:,.0f}" if h["price"] else "ask n/a"
+            lines.append(f"  {h['title'][:70]}")
+            lines.append(f"    {rev} | {price}")
+            lines.append(f"    {h['url']}")
+        lines.append("")
+    if bss:
+        lines.append(f"BUY SELL STARTUPS -- {len(bss)} passed the revenue floor:")
+        lines.append("(shows MRR; asking price is often behind a free login -- "
+                     "confirm profit, margin and price on the listing page.)")
+        for h in sorted(bss, key=lambda x: x.get("annual_revenue") or 0):
+            rev = f"${h['annual_revenue']:,}/yr rev" if h.get("annual_revenue") else "rev n/a"
+            price = f"ask ${h['price']:,.0f}" if h["price"] else "ask (login)"
+            lines.append(f"  {h['title'][:70]}")
+            lines.append(f"    {rev} | {price}")
             lines.append(f"    {h['url']}")
         lines.append("")
     if not hits:
@@ -682,38 +926,69 @@ def send_email(body: str) -> None:
 def main() -> None:
     seen = load_seen()
     new_hits = []
+    raw_counts = {}
 
-    for h in fetch_flippa():
+    # Each source: fetch once (record the raw count for the tally line), then
+    # dedup against seen.json and apply that source's filter.
+    flippa = fetch_flippa()
+    raw_counts["Flippa"] = len(flippa)
+    for h in flippa:
         if h["id"] in seen:
             continue
         seen.add(h["id"])
         if passes_flippa(h):
             new_hits.append(h)
 
-    for h in fetch_reddit():
-        if h["id"] in seen:
-            continue
-        seen.add(h["id"])
-        new_hits.append(h)  # reddit already keyword-filtered
-
-    for h in fetch_microns():
-        if h["id"] in seen:
-            continue
-        seen.add(h["id"])
-        if passes_microns(h):
-            new_hits.append(h)
-
-    for h in fetch_empireflippers():
+    ef = fetch_empireflippers()
+    raw_counts["Empire Flippers"] = len(ef)
+    for h in ef:
         if h["id"] in seen:
             continue
         seen.add(h["id"])
         if passes_ef(h):
             new_hits.append(h)
 
+    trustmrr = fetch_trustmrr()
+    raw_counts["TrustMRR"] = len(trustmrr)
+    for h in trustmrr:
+        if h["id"] in seen:
+            continue
+        seen.add(h["id"])
+        if passes_trustmrr(h):
+            new_hits.append(h)
+
+    bss = fetch_buysellstartups()
+    raw_counts["Buy Sell Startups"] = len(bss)
+    for h in bss:
+        if h["id"] in seen:
+            continue
+        seen.add(h["id"])
+        if passes_buysellstartups(h):
+            new_hits.append(h)
+
+    microns = fetch_microns()
+    raw_counts["Microns"] = len(microns)
+    for h in microns:
+        if h["id"] in seen:
+            continue
+        seen.add(h["id"])
+        if passes_microns(h):
+            new_hits.append(h)
+
+    reddit = fetch_reddit()
+    raw_counts["Reddit"] = len(reddit)
+    for h in reddit:
+        if h["id"] in seen:
+            continue
+        seen.add(h["id"])
+        new_hits.append(h)  # reddit already keyword-filtered
+
     # Acquire.com: cap per run and only mark the ones we actually surface as
     # seen, so the backlog drips out over a few runs instead of flooding.
+    acquire = fetch_acquire()
+    raw_counts["Acquire"] = len(acquire)
     acquire_count = 0
-    for h in fetch_acquire():
+    for h in acquire:
         if h["id"] in seen:
             continue
         if acquire_count >= ACQUIRE_MAX_PER_RUN:
@@ -728,10 +1003,12 @@ def main() -> None:
     # new cleared the filters; otherwise just log it for the run output.
     force = os.environ.get("SAAS_SCOUT_ALWAYS_EMAIL") == "1"
     if new_hits or force:
-        send_email(build_body(new_hits))
+        send_email(build_body(new_hits, raw_counts))
     else:
         print("[scout] no new listings cleared the filters this run; "
               "no email sent.")
+        print("[scout] tally: " +
+              " | ".join(f"{k} {v}" for k, v in raw_counts.items()))
 
 
 if __name__ == "__main__":
