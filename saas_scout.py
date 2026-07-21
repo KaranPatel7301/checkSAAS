@@ -7,6 +7,8 @@ Sources it checks each run (all free, no paid API, no auth required):
                profit floor, price cap, multiple cap, bad-problem keywords)
   * Microns -- micro-SaaS marketplace homepage (annual-revenue floor;
                profit is paywalled so you confirm it on the listing page)
+  * Empire Flippers -- public marketplace filtered to SaaS (full playbook
+               filter; larger vetted businesses, name hidden until unlock)
   * Reddit  -- free public RSS feed, no app/keys (keyword signal, eyeball)
 
 Pipeline:
@@ -96,12 +98,16 @@ CRITERIA = {
 REDDIT_SUBS = [
     "microsaas",              # highest signal: tiny SaaS, frequent sale posts
     "SaaS",                   # general SaaS, some "selling my app" posts
+    "SaaSSales",              # SaaS-specific deal talk
     "EntrepreneurRideAlong",  # founders offloading side projects
     "SideProject",            # launches + occasional sales
     "AppBusiness",            # buying/selling apps & SaaS
     "juststart",              # website/app flipping community
-    "Entrepreneur",           # large; keyword filter keeps it relevant
     "flipping",               # asset flipping, incl. digital
+    "Entrepreneur",           # large; keyword filter keeps it relevant
+    "Entrepreneurs",          # sister sub, more sale/exit chatter
+    "growmybusiness",         # owners looking to sell/partner
+    "advancedentrepreneur",   # smaller, higher-quality operator posts
 ]
 # Sale-intent phrases only, to keep the Reddit noise down. "acqui" covers
 # acquire / acquisition / acquirer. Revenue mentions (mrr/arr) alone are too
@@ -394,6 +400,88 @@ def passes_microns(x: dict) -> bool:
     if CRITERIA["max_price"] and x["price"] and x["price"] > CRITERIA["max_price"]:
         return False
     return True
+
+
+# ====================================================================
+# SOURCE 4: EMPIRE FLIPPERS  (public marketplace, SaaS filter)
+# ====================================================================
+# EF renders listing cards server-side, and supports ?monetization=saas
+# to return only SaaS/subscription businesses -- one clean request. Full
+# profit/price/multiple data is public, so the normal playbook filter
+# applies exactly like Flippa. EF deals skew large, so most will exceed
+# your max_price; the few in-budget SaaS assets are the point.
+EF_URL = "https://empireflippers.com/marketplace/?monetization=saas"
+
+
+def fetch_empireflippers() -> list[dict]:
+    from bs4 import BeautifulSoup
+    ua = {"User-Agent": HEADERS["User-Agent"]}
+    try:
+        resp = requests.get(EF_URL, headers=ua, timeout=30)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"[empireflippers] request failed: {e}", file=sys.stderr)
+        return []
+    soup = BeautifulSoup(resp.text, "html.parser")
+    cards = soup.select(".listing-item")
+    if not cards:
+        print("[empireflippers] no .listing-item cards; markup may have changed.",
+              file=sys.stderr)
+        return []
+    return [h for h in (normalize_ef(c) for c in cards) if h]
+
+
+def normalize_ef(card) -> dict | None:
+    import re
+
+    def val(sel):
+        el = card.select_one(sel)
+        return el.get_text(strip=True) if el else ""
+
+    def money(sel):
+        m = re.search(r"\$([\d,]+)", val(sel))
+        return int(m.group(1).replace(",", "")) if m else 0
+
+    num_el = card.select_one(".listing-number")
+    num = (num_el.get_text(strip=True).lstrip("#") if num_el else "")
+    if not num:
+        return None
+    price = money(".metric-item.price .value")
+    profit = money(".metric-item.profit .value")
+    revenue = money(".metric-item.revenue .value")
+    monetization = val(".metric-item.monetization .value")
+    niche = val(".niches") or val(".top-info-niches")
+    annual = profit * 12
+    title = f"{niche} — {monetization}".strip(" —") or f"EF listing {num}"
+    return {
+        "source": "empireflippers",
+        "id": f"ef:{num}",
+        "title": title,
+        "summary": monetization,
+        "price": price,
+        "profit_monthly": profit,
+        "revenue_monthly": revenue,
+        "monetization": monetization.lower(),
+        "multiple": (price / annual) if annual else None,
+        "url": f"https://empireflippers.com/listing/{num}/",
+    }
+
+
+def passes_ef(x: dict) -> bool:
+    c = CRITERIA
+    text = f"{x['title']} {x['summary']}".lower()
+    if x["profit_monthly"] < c["min_monthly_profit"]:
+        return False
+    if c["max_price"] is not None and x["price"] and x["price"] > c["max_price"]:
+        return False
+    if c["max_multiple"] is not None:
+        if x["multiple"] is None or x["multiple"] > c["max_multiple"]:
+            return False
+    if any(kw in text for kw in c["exclude_keywords"]):
+        return False
+    return True
+
+
 def load_seen() -> set[str]:
     return set(json.loads(SEEN_FILE.read_text())) if SEEN_FILE.exists() else set()
 
@@ -411,6 +499,7 @@ def build_body(hits: list[dict]) -> str:
     flippa = [h for h in hits if h["source"] == "flippa"]
     reddit = [h for h in hits if h["source"].startswith("reddit")]
     microns = [h for h in hits if h["source"] == "microns"]
+    ef = [h for h in hits if h["source"] == "empireflippers"]
 
     if flippa:
         lines.append(f"FLIPPA -- {len(flippa)} passed the machine filter:")
@@ -442,6 +531,18 @@ def build_body(hits: list[dict]) -> str:
             cat = f" [{h['category']}]" if h.get("category") else ""
             lines.append(f"  {h['title'][:70]}{cat}")
             lines.append(f"    {rev} | {price}")
+            lines.append(f"    {h['url']}")
+        lines.append("")
+    if ef:
+        lines.append(f"EMPIRE FLIPPERS -- {len(ef)} SaaS passed the machine filter:")
+        lines.append("(bigger, vetted businesses; EF verifies financials. "
+                     "Actual business name is hidden until you unlock it.)")
+        for h in sorted(ef, key=lambda x: x["multiple"] or 99):
+            mult = f"{h['multiple']:.1f}x" if h["multiple"] else "n/a"
+            star = " *" if (h["profit_monthly"] or 0) >= CRITERIA["prefer_monthly_profit"] else ""
+            rev = f" | ${h['revenue_monthly']:,}/mo rev" if h.get("revenue_monthly") else ""
+            lines.append(f"  {h['title'][:70]}{star}")
+            lines.append(f"    ${h['profit_monthly']:,}/mo profit{rev} | ask ${h['price']:,} | {mult}")
             lines.append(f"    {h['url']}")
         lines.append("")
     if not hits:
@@ -501,6 +602,13 @@ def main() -> None:
             continue
         seen.add(h["id"])
         if passes_microns(h):
+            new_hits.append(h)
+
+    for h in fetch_empireflippers():
+        if h["id"] in seen:
+            continue
+        seen.add(h["id"])
+        if passes_ef(h):
             new_hits.append(h)
 
     save_seen(seen)
