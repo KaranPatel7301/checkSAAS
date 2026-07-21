@@ -9,6 +9,8 @@ Sources it checks each run (all free, no paid API, no auth required):
                profit is paywalled so you confirm it on the listing page)
   * Empire Flippers -- public marketplace filtered to SaaS (full playbook
                filter; larger vetted businesses, name hidden until unlock)
+  * Acquire.com -- public sitemap; surfaces SaaS whose slug reveals ARR/MRR/
+               profit at/above your floor (exact price behind free login)
   * Reddit  -- free public RSS feed, no app/keys (keyword signal, eyeball)
 
 Pipeline:
@@ -489,6 +491,85 @@ def passes_ef(x: dict) -> bool:
     return True
 
 
+# ====================================================================
+# SOURCE 5: ACQUIRE.COM  (public sitemap; full data behind free login)
+# ====================================================================
+# Acquire.com (ex-MicroAcquire) hides the full listing behind a free login,
+# BUT its public sitemap (app.acquire.com/sitemap.xml) exposes every listing
+# URL, and the slug embeds the title plus -- for a good chunk of them -- real
+# financials (ARR / MRR / TTM profit). We surface ONLY listings whose slug
+# reveals a revenue/profit signal at or above your floor, so you get concrete
+# leads even though the exact price is on the (free) listing page.
+#
+# The whole catalog (~1000+) carries today's date, so we can't detect "new"
+# by date -- dedup via seen.json does that. To avoid flooding the first email,
+# main() surfaces at most ACQUIRE_MAX_PER_RUN, smallest-revenue (most likely
+# in your budget) first, and only marks the ones it actually emails as seen.
+ACQUIRE_SITEMAP = "https://app.acquire.com/sitemap.xml"
+ACQUIRE_MAX_PER_RUN = 25
+ACQUIRE_NON_SAAS = [
+    "shopify", "ecommerce", "e-commerce", "dtc", "amazon", "fba", "-store",
+    "brand", "hemp", "toys", "newsletter", "agency", "dropship", "wellness-e",
+]
+
+
+def _acquire_financials(slug: str) -> dict:
+    import re
+    out = {}
+    for kind in ("arr", "mrr", "profit", "revenue"):
+        m = re.search(r"(\d+(?:-\d+)?)(k|m)-(?:ttm-|usd-yr-|yoy-|net-)?" + kind, slug)
+        if m and not (kind == "profit" and "profit-margin" in slug):
+            num = m.group(1).replace("-", ".")
+            out[kind] = float(num) * (1000 if m.group(2) == "k" else 1_000_000)
+    return out
+
+
+def fetch_acquire() -> list[dict]:
+    import re
+    ua = {"User-Agent": HEADERS["User-Agent"]}
+    try:
+        resp = requests.get(ACQUIRE_SITEMAP, headers=ua, timeout=30)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        print(f"[acquire] request failed: {e}", file=sys.stderr)
+        return []
+    locs = [l for l in re.findall(r"<loc>(.*?)</loc>", resp.text) if "/startup/" in l]
+    out = []
+    for loc in locs:
+        slug = loc.split("/startup/")[-1]
+        # first 10 chars are the listing id, then a dash, then the title slug.
+        code = slug[:10]
+        rest = slug[11:] if len(slug) > 11 else slug
+        low = rest.lower()
+        if any(k in low for k in ACQUIRE_NON_SAAS):
+            continue
+        if any(kw in low for kw in CRITERIA["exclude_keywords"]):
+            continue
+        fin = _acquire_financials(low)
+        if not fin:
+            continue  # no readable financials -> can't assess, skip
+        monthly = max([fin.get("arr", 0) / 12, fin.get("mrr", 0),
+                       fin.get("revenue", 0) / 12, fin.get("profit", 0) / 12])
+        if monthly < CRITERIA["min_monthly_profit"]:
+            continue
+        parts = []
+        if "arr" in fin: parts.append(f"${int(fin['arr']):,} ARR")
+        if "mrr" in fin: parts.append(f"${int(fin['mrr']):,} MRR")
+        if "profit" in fin: parts.append(f"${int(fin['profit']):,} profit")
+        if "revenue" in fin: parts.append(f"${int(fin['revenue']):,} rev")
+        out.append({
+            "source": "acquire",
+            "id": f"acquire:{code}",
+            "title": rest.replace("-", " ").strip(),
+            "summary": ", ".join(parts),
+            "monthly_est": monthly,
+            "url": loc,
+        })
+    # smallest revenue first == most likely inside your $20K-$150K budget.
+    out.sort(key=lambda x: x["monthly_est"])
+    return out
+
+
 def load_seen() -> set[str]:
     return set(json.loads(SEEN_FILE.read_text())) if SEEN_FILE.exists() else set()
 
@@ -507,6 +588,7 @@ def build_body(hits: list[dict]) -> str:
     reddit = [h for h in hits if h["source"].startswith("reddit")]
     microns = [h for h in hits if h["source"] == "microns"]
     ef = [h for h in hits if h["source"] == "empireflippers"]
+    acquire = [h for h in hits if h["source"] == "acquire"]
 
     if flippa:
         lines.append(f"FLIPPA -- {len(flippa)} passed the machine filter:")
@@ -550,6 +632,16 @@ def build_body(hits: list[dict]) -> str:
             rev = f" | ${h['revenue_monthly']:,}/mo rev" if h.get("revenue_monthly") else ""
             lines.append(f"  {h['title'][:70]}{star}")
             lines.append(f"    ${h['profit_monthly']:,}/mo profit{rev} | ask ${h['price']:,} | {mult}")
+            lines.append(f"    {h['url']}")
+        lines.append("")
+    if acquire:
+        lines.append(f"ACQUIRE.COM -- {len(acquire)} SaaS with revenue signals:")
+        lines.append("(financials parsed from the listing title; exact price is "
+                     "on the listing page behind a free Acquire login. Smallest "
+                     "first = most likely in your budget.)")
+        for h in sorted(acquire, key=lambda x: x.get("monthly_est", 0)):
+            lines.append(f"  {h['title'][:70]}")
+            lines.append(f"    {h['summary']}")
             lines.append(f"    {h['url']}")
         lines.append("")
     if not hits:
@@ -617,6 +709,18 @@ def main() -> None:
         seen.add(h["id"])
         if passes_ef(h):
             new_hits.append(h)
+
+    # Acquire.com: cap per run and only mark the ones we actually surface as
+    # seen, so the backlog drips out over a few runs instead of flooding.
+    acquire_count = 0
+    for h in fetch_acquire():
+        if h["id"] in seen:
+            continue
+        if acquire_count >= ACQUIRE_MAX_PER_RUN:
+            break
+        seen.add(h["id"])
+        new_hits.append(h)
+        acquire_count += 1
 
     save_seen(seen)
 

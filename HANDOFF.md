@@ -86,6 +86,24 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
   necessary condition (`MICRONS_MIN_ANNUAL_REVENUE = min_monthly_profit*12`)
   and the email tells the owner to confirm profit on the listing page.
 
+### Acquire.com  (`fetch_acquire` / `_acquire_financials`)
+- Full listings are behind a free login, BUT the public sitemap
+  `https://app.acquire.com/sitemap.xml` exposes ~1000+ listing URLs. The slug
+  is `<10charID>-<title-with-metrics>`, and for a good chunk the title embeds
+  real financials (ARR/MRR/TTM profit, e.g. `...-400k-arr`, `...-137k-ttm-profit`).
+- We keep only listings whose slug reveals a revenue/profit signal >= the
+  monthly floor, drop non-SaaS (ecommerce/agency/etc via `ACQUIRE_NON_SAAS`)
+  and `exclude_keywords`. Financial parse requires a k/m suffix (avoids
+  matching "profit-margin %").
+- The whole catalog carries today's date (sitemap restamps daily), so date
+  can't detect "new". Dedup via seen.json does. To avoid a first-run flood,
+  `main()` surfaces at most `ACQUIRE_MAX_PER_RUN=25`, **smallest-revenue
+  first** (most likely in the $20-150K budget), and only marks the ones it
+  emails as seen -- so the backlog drips out over several runs, then
+  steady-state new-only.
+- Eyeball source: exact PRICE is not in the sitemap (it's on the login-gated
+  page), so no price/multiple filter -- the email says to confirm on Acquire.
+
 ### Reddit  (`fetch_reddit`)
 - **No API keys / no Reddit app.** Reddit gates app creation and blocks
   anonymous `.json`, but the RSS feed works with a browser UA.
@@ -203,7 +221,6 @@ Test a single source, e.g.:
 
 | Marketplace | Why not |
 |---|---|
-| Acquire.com (ex-MicroAcquire) | Listings behind a free login wall; would need the owner's rotating session token — fragile. Revisit only if the owner supplies a token. |
 | SideProjectors | Cloudflare challenge; needs a headless browser (too heavy for CI). |
 | IndieMaker | Site unreliable / times out. |
 | BizBuySell | Blocks bots (403). |
@@ -216,5 +233,6 @@ Test a single source, e.g.:
       `update seen listings [skip ci]` bot commits (proves runs are firing).
 - [ ] Actions tab shows green runs at ~7am/1pm/7pm ET.
 - [ ] A dry run (`SMTP_HOST="" ... python saas_scout.py`) prints a digest with
-      FLIPPA / EMPIRE FLIPPERS / MICRONS / REDDIT sections and clickable links.
+      FLIPPA / EMPIRE FLIPPERS / ACQUIRE.COM / MICRONS / REDDIT sections and
+      clickable links (Acquire capped at 25).
 - [ ] `CRITERIA` still matches `Acquistion Critera.md`.

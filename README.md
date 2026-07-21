@@ -22,12 +22,11 @@ hand.
 |---|---|---|
 | **Flippa** | Full playbook filter on real profit / price / multiple | Public JSON endpoint |
 | **Empire Flippers** | SaaS-only (`?monetization=saas`) + full playbook filter | Vetted, larger deals; business name hidden until you unlock |
+| **Acquire.com** | SaaS whose public sitemap slug reveals ARR/MRR/profit ≥ floor | Exact price on the listing page (free login); smallest-first, capped 25/run |
 | **Microns** | SaaS/Web-app categories, annual-revenue floor | Profit is paywalled — confirm on the listing page |
 | **Reddit** | 15 subreddits, sale-intent keyword match | Freeform posts, surfaced for you to eyeball |
 
 **Not included and why:**
-- **Acquire.com** — listings are behind a free login wall (no public access).
-  Would require your logged-in session token, which is fragile and rotates.
 - **SideProjectors** — protected by a Cloudflare challenge (needs a headless
   browser, too heavy/fragile for a cron job).
 - **IndieMaker** — site is unreliable / times out.
