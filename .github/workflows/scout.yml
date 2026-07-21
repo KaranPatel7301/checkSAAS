@@ -54,8 +54,11 @@ jobs:
       # days with NO repo commits. A dry spell (or a silently broken scraper)
       # produces zero hits -> no seen.json change -> no commit -> eventual
       # dormancy, with no warning. Writing a timestamp EVERY run guarantees a
-      # commit 3x/day, so the schedule can never go dark. It also persists the
-      # dedup memory in the same commit when there are new hits.
+      # commit 3x/day, so the schedule can never go dark.
+      #
+      # ONE commit per run: fold last_run.txt + seen.json into the SAME commit
+      # and push once. Two separate pushes in one run can race the concurrency
+      # guard (group: saas-scout) and corrupt / miss the dedup update.
       - name: Heartbeat + persist dedup memory
         run: |
           mkdir -p .github
@@ -64,7 +67,7 @@ jobs:
           git config user.email "actions@github.com"
           git add .github/last_run.txt seen.json
           # last_run.txt always changes, so this commit always succeeds ->
-          # a commit lands on main on every single run.
+          # a commit lands on main on every single run (one commit, one push).
           git commit -m "heartbeat $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
           # Rebase in case a manual push moved main since checkout, then push.
           git pull --rebase --autostash origin main || true

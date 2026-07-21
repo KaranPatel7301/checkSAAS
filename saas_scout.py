@@ -594,12 +594,20 @@ def fetch_acquire() -> list[dict]:
 # ====================================================================
 # SOURCE 6: TRUSTMRR  (revenue verified via Stripe/LemonSqueezy/RevenueCat)
 # ====================================================================
-# TrustMRR's "for sale" cards are rendered server-side on the homepage as
+# TrustMRR's "for sale" cards are currently in the homepage HTML as
 # <a href="/startup/..."> tiles reading e.g.:
 #   "FOR SALE ReddGrow AI | Marketing | Revenue $17k Price $1M Multiple 4.7x"
 # Revenue is MONTHLY and third-party VERIFIED, which is why it's worth trust.
 # Cards show revenue (not profit), so we gate on annual revenue like Microns
 # and tell the owner to confirm profit on the listing page.
+#
+# JS-SPA warning: modern marketplaces often hydrate listings client-side. If
+# this fetch suddenly returns 0 FOR SALE cards, do NOT assume the selectors
+# are wrong first -- the page may have gone fully JS-rendered (the dedicated
+# /acquire route already is). Tell: raw HTML has no /startup/ FOR SALE links.
+# Fix: find a JSON endpoint in DevTools Network (like Flippa) or fall back to
+# a headless browser. Microns worked with plain requests only because it is
+# server-rendered Webflow; that is not guaranteed here.
 TRUSTMRR_URL = "https://trustmrr.com/"
 TRUSTMRR_NON_SAAS = ["e-commerce", "ecommerce"]
 
@@ -691,12 +699,17 @@ def passes_trustmrr(x: dict) -> bool:
 # ====================================================================
 # SOURCE 7: BUY SELL STARTUPS
 # ====================================================================
-# buysellstartups.com renders a handful of listing cards server-side on the
-# homepage as <a href="/listings/..."> tiles reading e.g.:
+# buysellstartups.com currently ships a handful of listing cards in the
+# homepage HTML as <a href="/listings/..."> tiles reading e.g.:
 #   "SaaS Featured Mentioned ... Asking Sign in -> MRR $1.0k Multiple 0.8x"
 # Asking price is often gated behind login ("Sign in"); MRR is shown when the
 # seller isn't confidential. We gate on MRR (annual) like the other
 # revenue-only sources and note to confirm profit/price on the listing.
+#
+# JS-SPA warning: /browse and /listings are already client-side (404/empty to
+# a bot). If the homepage fetch returns 0 /listings/ cards, treat that as a
+# JS-render regression first, not a bad selector. Fix: JSON endpoint from the
+# Network tab (like Flippa) or a headless browser -- same playbook as TrustMRR.
 BSS_URL = "https://buysellstartups.com/"
 
 

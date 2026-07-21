@@ -79,10 +79,16 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
 
 ### TrustMRR  (`fetch_trustmrr` / `normalize_trustmrr` / `passes_trustmrr`)
 - HTML scrape of the homepage `https://trustmrr.com/`. The "for sale" tiles are
-  rendered server-side as `<a href="/startup/...">` cards whose flat text reads
+  currently in the HTML as `<a href="/startup/...">` cards whose flat text reads
   e.g. `FOR SALE ReddGrow AI Marketing Revenue $17k Price $1M Multiple 4.7x`.
   (The dedicated `/acquire` marketplace page is JS-rendered → 0 links to a bot,
   so we parse the homepage cards, which include a good recent set, ~26.)
+- **JS-SPA warning:** if a future fetch returns 0 FOR SALE cards, do NOT assume
+  the selectors are wrong first — the homepage may have gone fully JS-rendered
+  (like `/acquire` already is). Tell: raw HTML has no `/startup/` FOR SALE
+  links. Fix: find a JSON endpoint in DevTools Network (like Flippa) or fall
+  back to a headless browser. Microns worked with plain `requests` only because
+  it is server-rendered Webflow; that is not guaranteed for TrustMRR.
 - Only cards containing `FOR SALE` are kept; deduped by href within the fetch.
 - **Revenue shown is MONTHLY and third-party VERIFIED** (Stripe/LemonSqueezy/
   RevenueCat) — the reason this source is worth trusting. Cards show revenue not
@@ -128,8 +134,12 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
 - HTML scrape of the homepage `https://buysellstartups.com/`. Listing tiles are
   `<a href="/listings/...">` cards reading e.g.
   `SaaS Featured Mentioned ... Asking Sign in -> MRR $1.0k Multiple 0.8x`.
-  (`/browse` and `/listings` are client-side → 404 to a bot, so we use the ~6
-  homepage cards.)
+  (`/browse` and `/listings` are already client-side → 404 to a bot, so we use
+  the ~6 homepage cards.)
+- **JS-SPA warning:** same as TrustMRR. If the homepage fetch returns 0
+  `/listings/` cards, treat that as a JS-render regression first, not a bad
+  selector. Fix: JSON endpoint from the Network tab (like Flippa) or a headless
+  browser.
 - Thin, low-value source in practice: asking price is usually behind a login
   ("Sign in"), and some listings are "Confidential" with masked MRR (`••••`).
   We gate on MRR (annual `>= min_monthly_profit*12`); listings with no numeric
@@ -241,7 +251,9 @@ script prints the digest instead of sending (useful for local dry-runs).
    dormancy with no warning. **Fixed:** the `Heartbeat + persist dedup memory`
    step in `scout.yml` rewrites `.github/last_run.txt` with a UTC timestamp and
    commits it on EVERY run, regardless of hits — guaranteeing a commit 3x/day.
-   Keep the concurrency group. Do not revert this to "only commit on hits".
+   **One commit per run:** `last_run.txt` and `seen.json` are folded into the
+   SAME commit and pushed once. Do not split into two pushes — that can race
+   the concurrency guard (`group: saas-scout`). Keep the concurrency group.
 6. **seen.json growth.** Grows unbounded (one id per listing ever seen). Fine
    for years at this volume, but could be pruned by date if it ever bloats.
 7. **Concurrency.** `scout.yml` uses a concurrency group so overlapping runs
