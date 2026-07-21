@@ -68,13 +68,15 @@ CRITERIA = {
     "min_monthly_profit": 2000,
     "prefer_monthly_profit": 3000,
 
-    # NOT from your playbook. Your doc specifies ROIC / cash-flow-to-price,
-    # not a fixed multiple. Your own examples run ~0.8x (the $30k/$3k deal)
-    # to 2.5x (the $150k/$5k deal). 4.0x is a loose ceiling I picked just
-    # to drop obviously overpriced listings. Tighten it toward your examples.
-    "max_multiple": 4.0,
+    # Capital Efficiency Principle: maximize cash flow relative to price.
+    # The playbook's own worked examples run 0.8x annual profit (the
+    # $30k/$3k-mo deal) up to 2.5x (the $150k/$5k-mo deal). 2.5x is the
+    # top of what your doc treats as acceptable, so we cap there -- any
+    # richer than your most expensive example gets dropped.
+    "max_multiple": 2.5,
 
-    # Guardrail near your $20K-$150K+ capital range.
+    # Acquisition capital range from the playbook: $20K-$150K+. We allow a
+    # little headroom above $150K for the "+", then hard-stop.
     "max_price": 200_000,
 
     "require_recurring": True,
@@ -96,14 +98,19 @@ CRITERIA = {
 # These subs have the highest hit-rate for people selling small SaaS /
 # side projects. Add or remove freely.
 REDDIT_SUBS = [
-    "microsaas",              # highest signal: tiny SaaS, frequent sale posts
+    # --- highest-signal "for sale" subs ---
+    "saasforsale",            # literally SaaS businesses listed for sale
+    "acquiresaas",            # SaaS acquisition marketplace sub
+    "AcquireStartup",         # startups/SaaS put up for acquisition
+    "microsaas",              # tiny SaaS, frequent sale posts
     "SaaS",                   # general SaaS, some "selling my app" posts
     "SaaSSales",              # SaaS-specific deal talk
+    "AppBusiness",            # buying/selling apps & SaaS
+    "flipping",               # asset flipping, incl. digital
+    "juststart",              # website/app flipping community
+    # --- founder/operator subs where exits get posted ---
     "EntrepreneurRideAlong",  # founders offloading side projects
     "SideProject",            # launches + occasional sales
-    "AppBusiness",            # buying/selling apps & SaaS
-    "juststart",              # website/app flipping community
-    "flipping",               # asset flipping, incl. digital
     "Entrepreneur",           # large; keyword filter keeps it relevant
     "Entrepreneurs",          # sister sub, more sale/exit chatter
     "growmybusiness",         # owners looking to sell/partner
