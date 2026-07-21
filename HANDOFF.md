@@ -185,7 +185,7 @@ Defined in the `CRITERIA` dict in `saas_scout.py`:
 | Playbook rule | Code | Enforced on |
 |---|---|---|
 | $2K+/mo profit, prefer $3K+ | `min_monthly_profit=2000`, `prefer_monthly_profit=3000` (starred) | Flippa, EF (direct profit); TrustMRR/Microns/BSS/Acquire via annual-revenue necessary-condition gate |
-| Asking price / capital range | `max_price=None` (disabled) | Not machine-filtered — sellers pad asks for negotiation; owner judges affordability |
+| Asking price / capital range | `max_price=250_000` | Flippa/EF/Microns/TrustMRR/BSS on listed ask. Acquire: no ask in sitemap — drop if annual ARR/profit signal > max_price/max_multiple (~$100K), which implies a typical ask > $250K |
 | Capital efficiency / ROIC | `max_multiple=2.5` (price ÷ annual profit; top of playbook's own examples) | Flippa, EF (profit-multiple sources only) |
 | Recurring subscription revenue | SaaS category filters per source | all |
 | Avoid "Bad Problems" (AI toys, novelty, games, entertainment) | `exclude_keywords` | all |

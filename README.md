@@ -51,12 +51,12 @@ Enforced automatically (in `CRITERIA`):
 
 - **Profit floor:** $2K/mo minimum; $3K+/mo gets a `*` in the email (your
   "prefer $3K+").
-- **Asking price:** not hard-filtered. Listings often ask high for negotiation;
-  you decide what you can actually pay.
+- **Asking price:** soft cap at **$250K** listed ask (Flippa, EF, Microns,
+  TrustMRR, BSS). Above that, don't bother — even with negotiation room.
+  Acquire has no public ask, so it drops listings whose ARR/profit already
+  imply a typical ask above ~$250K (annual signal > $250K / 2.5x ≈ $100K).
 - **Capital efficiency:** multiple capped at **2.5x** annual profit (ask ÷
-  annual profit) — the top of your playbook's own worked examples ($150K /
-  $5K-mo). Anything richer on the *listed* ask is dropped; if you want that
-  loosened too because asks are inflated, say so.
+  annual profit) — the top of your playbook's own worked examples.
 - **Recurring revenue:** guaranteed by the SaaS category filters on each
   source.
 - **Bad Problems:** trendy AI toys, novelty, one-time/entertainment

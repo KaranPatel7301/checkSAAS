@@ -77,10 +77,11 @@ CRITERIA = {
     # richer than your most expensive example gets dropped.
     "max_multiple": 2.5,
 
-    # Asking price is NOT hard-filtered. Sellers often list high for negotiation
-    # room; a $300K ask can still clear at $80K. You judge affordability by hand.
-    # (max_multiple still uses ask ÷ annual profit as a capital-efficiency screen.)
-    "max_price": None,
+    # Soft capital ceiling: ~$250K asking. Sellers pad asks for negotiation, so
+    # this is a "don't bother if the LISTED ask is already way above budget"
+    # screen, not a hard affordability rule. Sources without a public ask
+    # (Acquire) use a size proxy -- see fetch_acquire.
+    "max_price": 250_000,
 
     "require_recurring": True,
 
@@ -573,6 +574,16 @@ def fetch_acquire() -> list[dict]:
         monthly = max([fin.get("arr", 0) / 12, fin.get("mrr", 0),
                        fin.get("revenue", 0) / 12, fin.get("profit", 0) / 12])
         if monthly < CRITERIA["min_monthly_profit"]:
+            continue
+        # No public asking price on Acquire. Drop businesses whose financials
+        # already imply an ask well above budget: at our 2.5x multiple, annual
+        # profit/ARR above max_price/2.5 (~$100K) means a typical ask > $250K.
+        # This is what kept $6K MRR deals and dropped the $107K+ ARR / multi-
+        # million revenue listings.
+        annual = monthly * 12
+        price_cap = CRITERIA.get("max_price") or 0
+        mult = CRITERIA.get("max_multiple") or 1
+        if price_cap and annual > price_cap / mult:
             continue
         parts = []
         if "arr" in fin: parts.append(f"${int(fin['arr']):,} ARR")
