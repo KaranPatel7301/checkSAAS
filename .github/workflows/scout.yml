@@ -45,10 +45,7 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}   # Gmail App Password (16 chars)
           # OPTIONAL. Digest recipient defaults to karanpatel7301@gmail.com.
           DIGEST_TO: ${{ secrets.DIGEST_TO }}
-          # OPTIONAL. Enables the Reddit source; leave unset to skip it.
-          # Flippa works with no key at all, so no cookie is needed anymore.
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          # Flippa, Microns and Reddit all run with NO API keys at all.
           # Point the dedup memory at a repo file so it survives each run.
           SAAS_SCOUT_SEEN: seen.json
         run: python saas_scout.py

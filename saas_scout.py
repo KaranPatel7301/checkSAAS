@@ -7,7 +7,7 @@ Sources it checks each run (all free, no paid API, no auth required):
                profit floor, price cap, multiple cap, bad-problem keywords)
   * Microns -- micro-SaaS marketplace homepage (annual-revenue floor;
                profit is paywalled so you confirm it on the listing page)
-  * Reddit  -- free old.reddit.com .json feed (keyword signal, for eyeball)
+  * Reddit  -- free public RSS feed, no app/keys (keyword signal, eyeball)
 
 Pipeline:
   fetch each source -> normalize -> filter -> dedupe across runs ->
@@ -103,10 +103,13 @@ REDDIT_SUBS = [
     "Entrepreneur",           # large; keyword filter keeps it relevant
     "flipping",               # asset flipping, incl. digital
 ]
+# Sale-intent phrases only, to keep the Reddit noise down. "acqui" covers
+# acquire / acquisition / acquirer. Revenue mentions (mrr/arr) alone are too
+# noisy, so they're intentionally excluded.
 REDDIT_SIGNALS = [
-    "for sale", "selling my", "looking to sell", "acqui", "up for grabs",
-    "mrr", "arr", "$/mo", "/mo", "exit", "flippa", "acquire.com",
-    "valuation", "asking price",
+    "for sale", "selling my", "sell my", "looking to sell", "open to offers",
+    "make an offer", "up for grabs", "acqui", "for acquisition",
+    "asking price", "flippa", "acquire.com", "microacquire",
 ]
 
 
@@ -225,70 +228,74 @@ def passes_flippa(x: dict) -> bool:
 
 
 # ====================================================================
-# SOURCE 2: REDDIT  (free .json API, no auth, no Cloudflare)
+# SOURCE 2: REDDIT  (free public RSS feed -- NO app, NO keys needed)
 # ====================================================================
-def _reddit_token() -> str | None:
-    """App-only OAuth token. Returns None if creds aren't configured.
+# Reddit blocks anonymous .json and gates app creation, but the RSS/Atom
+# feed is still served to a browser UA with no auth. Hitting one sub at a
+# time gets you rate-limited (429) fast, so we combine ALL subs into a
+# SINGLE request via the /r/a+b+c/new.rss syntax -- one call, no throttling.
+import time
+import re as _re
+import xml.etree.ElementTree as _ET
 
-    Reddit now blocks unauthenticated .json access (returns an HTML
-    interstitial), so the free feed only works with an app token. Create a
-    'script' or 'web app' at https://www.reddit.com/prefs/apps, then set
-    REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET. This is OPTIONAL -- if unset,
-    the Reddit source is simply skipped and Flippa/Microns still run.
-    """
-    cid = os.environ.get("REDDIT_CLIENT_ID")
-    secret = os.environ.get("REDDIT_CLIENT_SECRET")
-    if not cid or not secret:
-        return None
-    try:
-        resp = requests.post(
-            "https://www.reddit.com/api/v1/access_token",
-            auth=(cid, secret),
-            data={"grant_type": "client_credentials"},
-            headers={"User-Agent": HEADERS["User-Agent"]},
-            timeout=30,
-        )
-        resp.raise_for_status()
-        return resp.json().get("access_token")
-    except (requests.RequestException, ValueError) as e:
-        print(f"[reddit] auth failed: {e}", file=sys.stderr)
-        return None
+_ATOM = {"a": "http://www.w3.org/2005/Atom"}
 
 
 def fetch_reddit() -> list[dict]:
     hits = []
-    token = _reddit_token()
-    if not token:
-        print("[reddit] skipped (set REDDIT_CLIENT_ID + REDDIT_CLIENT_SECRET "
-              "to enable this optional source).", file=sys.stderr)
-        return hits
-    ua = {"User-Agent": HEADERS["User-Agent"],
-          "Authorization": f"bearer {token}"}
-    for sub in REDDIT_SUBS:
-        url = f"https://oauth.reddit.com/r/{sub}/new?limit=50"
+    ua = {"User-Agent": HEADERS["User-Agent"]}
+    combined = "+".join(REDDIT_SUBS)
+    url = f"https://www.reddit.com/r/{combined}/new.rss?limit=100"
+
+    xml = None
+    for attempt in range(4):
         try:
             resp = requests.get(url, headers=ua, timeout=30)
-            resp.raise_for_status()
-            children = resp.json()["data"]["children"]
-        except (requests.RequestException, KeyError, ValueError) as e:
-            print(f"[reddit/{sub}] failed: {e}", file=sys.stderr)
+        except requests.RequestException as e:
+            print(f"[reddit] request failed: {e}", file=sys.stderr)
+            return hits
+        if resp.status_code == 200 and resp.text.strip():
+            xml = resp.text
+            break
+        time.sleep(5 * (attempt + 1))  # back off through any 429
+    if not xml:
+        print("[reddit] rate-limited/empty after retries; skipping this run.",
+              file=sys.stderr)
+        return hits
+
+    try:
+        root = _ET.fromstring(xml)
+    except _ET.ParseError as e:
+        print(f"[reddit] parse error: {e}", file=sys.stderr)
+        return hits
+
+    for entry in root.findall("a:entry", _ATOM):
+        title_el = entry.find("a:title", _ATOM)
+        id_el = entry.find("a:id", _ATOM)
+        link_el = entry.find("a:link", _ATOM)
+        content_el = entry.find("a:content", _ATOM)
+        cat_el = entry.find("a:category", _ATOM)
+        title = (title_el.text if title_el is not None else "") or ""
+        body = (content_el.text if content_el is not None else "") or ""
+        # content is HTML-escaped; strip tags for keyword matching only.
+        body_txt = _re.sub(r"<[^>]+>", " ", body)
+        text = f"{title} {body_txt}".lower()
+        if not any(sig in text for sig in REDDIT_SIGNALS):
             continue
-        for child in children:
-            p = child["data"]
-            text = f"{p.get('title','')} {p.get('selftext','')}".lower()
-            if not any(sig in text for sig in REDDIT_SIGNALS):
-                continue
-            hits.append({
-                "source": f"reddit/{sub}",
-                "id": f"reddit:{p['id']}",
-                "title": p.get("title", ""),
-                "summary": (p.get("selftext", "") or "")[:200],
-                "price": None,
-                "profit_monthly": None,
-                "monetization": "",
-                "multiple": None,
-                "url": f"https://reddit.com{p.get('permalink','')}",
-            })
+        sub = (cat_el.get("label") if cat_el is not None else "") or "reddit"
+        pid = (id_el.text if id_el is not None else "") or title
+        url = link_el.get("href") if link_el is not None else ""
+        hits.append({
+            "source": f"reddit/{sub.lstrip('r/')}",
+            "id": f"reddit:{pid}",
+            "title": title,
+            "summary": body_txt.strip()[:200],
+            "price": None,
+            "profit_monthly": None,
+            "monetization": "",
+            "multiple": None,
+            "url": url,
+        })
     return hits
 
 
