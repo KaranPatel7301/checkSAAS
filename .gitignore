@@ -1,0 +1,10 @@
+# Never commit secrets
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Runtime log
+scout.log

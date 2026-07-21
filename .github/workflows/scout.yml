@@ -1,0 +1,66 @@
+name: saas-scout
+
+# Runs the scanner on a schedule in the cloud, so it never depends on
+# your laptop being awake. Free: this repo's runs stay well under the
+# GitHub Actions free allowance.
+
+on:
+  schedule:
+    # GitHub cron is always UTC. These three map to ~7am / 1pm / 7pm
+    # US Eastern during summer (EDT). In winter they land an hour
+    # earlier, which is harmless for a deal scanner.
+    - cron: '0 11 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 23 * * *'
+  workflow_dispatch:   # adds a "Run workflow" button for on-demand runs
+
+concurrency:
+  group: saas-scout
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # lets the job commit the dedup file back to the repo
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          # REQUIRED secrets (repo Settings -> Secrets and variables -> Actions).
+          # These are all you need for email to work:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}   # smtp.gmail.com
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}   # 587
+          SMTP_USER: ${{ secrets.SMTP_USER }}   # karanpatel7301@gmail.com
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}   # Gmail App Password (16 chars)
+          # OPTIONAL. Digest recipient defaults to karanpatel7301@gmail.com.
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          # OPTIONAL. Enables the Reddit source; leave unset to skip it.
+          # Flippa works with no key at all, so no cookie is needed anymore.
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          # Point the dedup memory at a repo file so it survives each run.
+          SAAS_SCOUT_SEEN: seen.json
+        run: python saas_scout.py
+
+      - name: Persist dedup memory
+        run: |
+          if [[ -n "$(git status --porcelain seen.json)" ]]; then
+            git config user.name "saas-scout-bot"
+            git config user.email "actions@github.com"
+            git add seen.json
+            git commit -m "update seen listings [skip ci]"
+            git push
+          else
+            echo "No new listings this run; nothing to persist."
+          fi
