@@ -77,9 +77,10 @@ CRITERIA = {
     # richer than your most expensive example gets dropped.
     "max_multiple": 2.5,
 
-    # Acquisition capital range from the playbook: $20K-$150K+. We allow a
-    # little headroom above $150K for the "+", then hard-stop.
-    "max_price": 200_000,
+    # Asking price is NOT hard-filtered. Sellers often list high for negotiation
+    # room; a $300K ask can still clear at $80K. You judge affordability by hand.
+    # (max_multiple still uses ask ÷ annual profit as a capital-efficiency screen.)
+    "max_price": None,
 
     "require_recurring": True,
 

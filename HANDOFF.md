@@ -74,7 +74,8 @@ laptop.** The laptop can be off; runs happen on GitHub's servers.
   .monetization .value` and `.listing-number`. Business name is hidden by EF
   until unlock, so `title` = `"<niche> — <monetization>"`.
 - Full playbook filter applies. EF deals skew large, so most exceed the
-  $200K price cap; the few in-budget SaaS are the point.
+  price filter is off (asks are negotiable); the few that also clear the
+  2.5x multiple are the point.
 - Only page 1 is scraped (~9 SaaS cards). No pagination — see risks.
 
 ### TrustMRR  (`fetch_trustmrr` / `normalize_trustmrr` / `passes_trustmrr`)
@@ -184,7 +185,7 @@ Defined in the `CRITERIA` dict in `saas_scout.py`:
 | Playbook rule | Code | Enforced on |
 |---|---|---|
 | $2K+/mo profit, prefer $3K+ | `min_monthly_profit=2000`, `prefer_monthly_profit=3000` (starred) | Flippa, EF (direct profit); TrustMRR/Microns/BSS/Acquire via annual-revenue necessary-condition gate |
-| $20K–$150K+ capital | `max_price=200_000` | Flippa, EF, Microns, TrustMRR, BSS |
+| Asking price / capital range | `max_price=None` (disabled) | Not machine-filtered — sellers pad asks for negotiation; owner judges affordability |
 | Capital efficiency / ROIC | `max_multiple=2.5` (price ÷ annual profit; top of playbook's own examples) | Flippa, EF (profit-multiple sources only) |
 | Recurring subscription revenue | SaaS category filters per source | all |
 | Avoid "Bad Problems" (AI toys, novelty, games, entertainment) | `exclude_keywords` | all |

@@ -51,11 +51,12 @@ Enforced automatically (in `CRITERIA`):
 
 - **Profit floor:** $2K/mo minimum; $3K+/mo gets a `*` in the email (your
   "prefer $3K+").
-- **Capital range:** price capped at $200K (your $20K–$150K+ range, with a
-  little headroom for the "+").
-- **Capital efficiency:** multiple capped at **2.5x** annual profit — the top
-  of your playbook's own worked examples ($150K / $5K-mo). Anything richer is
-  dropped.
+- **Asking price:** not hard-filtered. Listings often ask high for negotiation;
+  you decide what you can actually pay.
+- **Capital efficiency:** multiple capped at **2.5x** annual profit (ask ÷
+  annual profit) — the top of your playbook's own worked examples ($150K /
+  $5K-mo). Anything richer on the *listed* ask is dropped; if you want that
+  loosened too because asks are inflated, say so.
 - **Recurring revenue:** guaranteed by the SaaS category filters on each
   source.
 - **Bad Problems:** trendy AI toys, novelty, one-time/entertainment
