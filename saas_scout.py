@@ -49,6 +49,7 @@ import sys
 from email.message import EmailMessage
 
 import requests
+from acquisition_intelligence import (evaluate, load_history, save_history, update_history, build_intelligence_digest)
 
 # Load SMTP + optional keys from a local .env file if present, so you never
 # have to export them by hand and cron/launchd picks them up automatically.
@@ -127,6 +128,8 @@ REDDIT_SIGNALS = [
     "for sale", "selling my", "sell my", "looking to sell", "open to offers",
     "make an offer", "up for grabs", "acqui", "for acquisition",
     "asking price", "flippa", "acquire.com", "microacquire",
+    # Partnership discovery (requires SaaS/MRR context, checked separately).
+    "looking for a growth partner", "need a growth partner",
 ]
 
 
@@ -315,7 +318,12 @@ def fetch_reddit() -> list[dict]:
         # content is HTML-escaped; strip tags for keyword matching only.
         body_txt = _re.sub(r"<[^>]+>", " ", body)
         text = f"{title} {body_txt}".lower()
-        if not any(sig in text for sig in REDDIT_SIGNALS):
+        sale_intent = any(sig in text for sig in REDDIT_SIGNALS)
+        equity_intent = (any(p in text for p in (
+            "plateaued", "stuck at", "growth partner", "looking for partner",
+            "struggling with churn", "cannot grow", "can't grow"))
+            and any(w in text for w in ("saas", "mrr", "arr", "subscription")))
+        if not sale_intent and not equity_intent:
             continue
         sub = (cat_el.get("label") if cat_el is not None else "") or "reddit"
         pid = (id_el.text if id_el is not None else "") or title
@@ -951,12 +959,14 @@ def send_email(body: str) -> None:
 def main() -> None:
     seen = load_seen()
     new_hits = []
+    all_deals = []
     raw_counts = {}
 
     # Each source: fetch once (record the raw count for the tally line), then
     # dedup against seen.json and apply that source's filter.
     flippa = fetch_flippa()
     raw_counts["Flippa"] = len(flippa)
+    all_deals.extend(flippa)
     for h in flippa:
         if h["id"] in seen:
             continue
@@ -966,6 +976,7 @@ def main() -> None:
 
     ef = fetch_empireflippers()
     raw_counts["Empire Flippers"] = len(ef)
+    all_deals.extend(ef)
     for h in ef:
         if h["id"] in seen:
             continue
@@ -975,6 +986,7 @@ def main() -> None:
 
     trustmrr = fetch_trustmrr()
     raw_counts["TrustMRR"] = len(trustmrr)
+    all_deals.extend(trustmrr)
     for h in trustmrr:
         if h["id"] in seen:
             continue
@@ -984,6 +996,7 @@ def main() -> None:
 
     bss = fetch_buysellstartups()
     raw_counts["Buy Sell Startups"] = len(bss)
+    all_deals.extend(bss)
     for h in bss:
         if h["id"] in seen:
             continue
@@ -993,6 +1006,7 @@ def main() -> None:
 
     microns = fetch_microns()
     raw_counts["Microns"] = len(microns)
+    all_deals.extend(microns)
     for h in microns:
         if h["id"] in seen:
             continue
@@ -1002,6 +1016,7 @@ def main() -> None:
 
     reddit = fetch_reddit()
     raw_counts["Reddit"] = len(reddit)
+    all_deals.extend(reddit)
     for h in reddit:
         if h["id"] in seen:
             continue
@@ -1012,6 +1027,7 @@ def main() -> None:
     # seen, so the backlog drips out over a few runs instead of flooding.
     acquire = fetch_acquire()
     raw_counts["Acquire"] = len(acquire)
+    all_deals.extend(acquire)
     acquire_count = 0
     for h in acquire:
         if h["id"] in seen:
@@ -1023,12 +1039,18 @@ def main() -> None:
         acquire_count += 1
 
     save_seen(seen)
+    history = load_history()
+    price_drops = update_history(all_deals, history)
+    save_history(history)
+    new_hits.sort(key=lambda d: max(evaluate(d)["acquisition_score"], evaluate(d)["operator_score"]), reverse=True)
 
     # Don't spam empty digests three times a day. Only email when something
     # new cleared the filters; otherwise just log it for the run output.
     force = os.environ.get("SAAS_SCOUT_ALWAYS_EMAIL") == "1"
-    if new_hits or force:
-        send_email(build_body(new_hits, raw_counts))
+    if new_hits or price_drops or force:
+        body = build_intelligence_digest(new_hits, price_drops)
+        body += "\n\n--- ORIGINAL SOURCE DIGEST ---\n" + build_body(new_hits, raw_counts)
+        send_email(body)
     else:
         print("[scout] no new listings cleared the filters this run; "
               "no email sent.")
