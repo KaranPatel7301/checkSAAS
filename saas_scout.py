@@ -77,6 +77,9 @@ CRITERIA = {
     # top of what your doc treats as acceptable, so we cap there -- any
     # richer than your most expensive example gets dropped.
     "max_multiple": 2.5,
+    # Discovery is wider than the ideal purchase multiple: negotiation may close the gap.
+    "discovery_max_multiple": 6.0,
+    "discovery_max_price": 750_000,
 
     # Soft capital ceiling: ~$250K asking. Sellers pad asks for negotiation, so
     # this is a "don't bother if the LISTED ask is already way above budget"
@@ -248,10 +251,10 @@ def passes_flippa(x: dict) -> bool:
     text = f"{x['title']} {x['summary']}".lower()
     if x["profit_monthly"] < c["min_monthly_profit"]:
         return False
-    if c["max_price"] is not None and x["price"] > c["max_price"]:
+    if c["discovery_max_price"] is not None and x["price"] > c["discovery_max_price"]:
         return False
-    if c["max_multiple"] is not None:
-        if x["multiple"] is None or x["multiple"] > c["max_multiple"]:
+    if c["discovery_max_multiple"] is not None:
+        if x["multiple"] is None or x["multiple"] > c["discovery_max_multiple"]:
             return False
     if c["require_recurring"] and x["monetization"]:
         if not any(w in x["monetization"]
@@ -437,7 +440,7 @@ def passes_microns(x: dict) -> bool:
     rev = x.get("annual_revenue")
     if rev is not None and rev < MICRONS_MIN_ANNUAL_REVENUE:
         return False  # can't possibly meet your monthly profit floor
-    if CRITERIA["max_price"] and x["price"] and x["price"] > CRITERIA["max_price"]:
+    if CRITERIA["discovery_max_price"] and x["price"] and x["price"] > CRITERIA["discovery_max_price"]:
         return False
     return True
 
@@ -512,10 +515,10 @@ def passes_ef(x: dict) -> bool:
     text = f"{x['title']} {x['summary']}".lower()
     if x["profit_monthly"] < c["min_monthly_profit"]:
         return False
-    if c["max_price"] is not None and x["price"] and x["price"] > c["max_price"]:
+    if c["discovery_max_price"] is not None and x["price"] and x["price"] > c["discovery_max_price"]:
         return False
-    if c["max_multiple"] is not None:
-        if x["multiple"] is None or x["multiple"] > c["max_multiple"]:
+    if c["discovery_max_multiple"] is not None:
+        if x["multiple"] is None or x["multiple"] > c["discovery_max_multiple"]:
             return False
     if any(kw in text for kw in c["exclude_keywords"]):
         return False
@@ -589,8 +592,8 @@ def fetch_acquire() -> list[dict]:
         # This is what kept $6K MRR deals and dropped the $107K+ ARR / multi-
         # million revenue listings.
         annual = monthly * 12
-        price_cap = CRITERIA.get("max_price") or 0
-        mult = CRITERIA.get("max_multiple") or 1
+        price_cap = CRITERIA.get("discovery_max_price") or 0
+        mult = CRITERIA.get("discovery_max_multiple") or 1
         if price_cap and annual > price_cap / mult:
             continue
         parts = []
@@ -706,7 +709,7 @@ def passes_trustmrr(x: dict) -> bool:
         return False
     if any(kw in text for kw in CRITERIA["exclude_keywords"]):
         return False
-    if CRITERIA["max_price"] and x["price"] and x["price"] > CRITERIA["max_price"]:
+    if CRITERIA["discovery_max_price"] and x["price"] and x["price"] > CRITERIA["discovery_max_price"]:
         return False
     if x.get("profit_monthly"):
         return x["profit_monthly"] >= CRITERIA["min_monthly_profit"]
@@ -795,7 +798,7 @@ def passes_buysellstartups(x: dict) -> bool:
     text = x["summary"].lower()
     if any(kw in text for kw in CRITERIA["exclude_keywords"]):
         return False
-    if CRITERIA["max_price"] and x["price"] and x["price"] > CRITERIA["max_price"]:
+    if CRITERIA["discovery_max_price"] and x["price"] and x["price"] > CRITERIA["discovery_max_price"]:
         return False
     rev = x.get("annual_revenue")
     if rev is None:
