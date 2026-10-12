@@ -86,7 +86,15 @@ def evaluate(deal: dict) -> dict:
     if equity_signals:
         notes.append("Potential operator constraint: " + ", ".join(equity_signals[:3]))
     confidence = "medium" if profit and price else "low"
-    return {"acquisition_score": min(100, score), "operator_score": operator,
+    # Attractive target is a negotiation ceiling, not a prediction of seller acceptance.
+    # 1.5x–2.5x profit range is intentionally explicit; diligence may justify less.
+    target_low = round(12 * profit * 1.5) if profit else None
+    target_high = round(12 * profit * 2.5) if profit else None
+    required_discount = round(max(0, (price - target_high) / price * 100), 1) if price and target_high else None
+    negotiation_candidate = bool(price and target_high and price > target_high)
+    return {"target_offer_low": target_low, "target_offer_high": target_high,
+            "discount_to_target_pct": required_discount, "negotiation_candidate": negotiation_candidate,
+            "acquisition_score": min(100, score), "operator_score": operator,
             "confidence": confidence, "profit_multiple": multiple,
             "payback_months": payback, "annual_cash_yield": return_yield,
             "flags": notes, "track": "operator" if operator >= 45 and operator > score else "acquisition"}
@@ -144,6 +152,7 @@ def build_intelligence_digest(deals: list[dict], price_drops: list[dict]) -> str
         lines.extend([f"{deal.get('title', 'Untitled')} [{deal.get('source', '?')}]",
             f"  Acquisition {v['acquisition_score']}/100 | Operator {v['operator_score']}/100 | confidence {v['confidence']}",
             f"  Profit multiple: {v['profit_multiple']:.2f}x | Payback: {v['payback_months']:.1f} months" if v["profit_multiple"] is not None else "  Profit multiple/payback: unknown",
+            (f"  Potential offer range: \${v['target_offer_low']:,.0f}–\${v['target_offer_high']:,.0f}; discount to upper target: {v['discount_to_target_pct']:.1f}% (negotiation only)" if v["target_offer_high"] is not None and v["discount_to_target_pct"] is not None else "  Target offer: cannot calculate without verified monthly profit and ask"),
             "  Check: " + "; ".join(v["flags"][:5]), f"  {deal.get('url', '')}", ""])
     if price_drops:
         lines.extend(["PRICE REDUCTIONS", ""])
