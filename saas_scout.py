@@ -128,6 +128,8 @@ REDDIT_SIGNALS = [
     "for sale", "selling my", "sell my", "looking to sell", "open to offers",
     "make an offer", "up for grabs", "acqui", "for acquisition",
     "asking price", "flippa", "acquire.com", "microacquire",
+    # Partnership discovery (requires SaaS/MRR context, checked separately).
+    "looking for a growth partner", "need a growth partner",
 ]
 
 
@@ -316,7 +318,12 @@ def fetch_reddit() -> list[dict]:
         # content is HTML-escaped; strip tags for keyword matching only.
         body_txt = _re.sub(r"<[^>]+>", " ", body)
         text = f"{title} {body_txt}".lower()
-        if not any(sig in text for sig in REDDIT_SIGNALS):
+        sale_intent = any(sig in text for sig in REDDIT_SIGNALS)
+        equity_intent = (any(p in text for p in (
+            "plateaued", "stuck at", "growth partner", "looking for partner",
+            "struggling with churn", "cannot grow", "can't grow"))
+            and any(w in text for w in ("saas", "mrr", "arr", "subscription")))
+        if not sale_intent and not equity_intent:
             continue
         sub = (cat_el.get("label") if cat_el is not None else "") or "reddit"
         pid = (id_el.text if id_el is not None else "") or title
@@ -1035,7 +1042,7 @@ def main() -> None:
     history = load_history()
     price_drops = update_history(all_deals, history)
     save_history(history)
-    new_hits.sort(key=lambda d: evaluate(d)["acquisition_score"], reverse=True)
+    new_hits.sort(key=lambda d: max(evaluate(d)["acquisition_score"], evaluate(d)["operator_score"]), reverse=True)
 
     # Don't spam empty digests three times a day. Only email when something
     # new cleared the filters; otherwise just log it for the run output.
