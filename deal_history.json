@@ -60,6 +60,10 @@
       {
         "amount": 260961.0,
         "date": "2026-10-12"
+      },
+      {
+        "amount": 239214.0,
+        "date": "2026-10-12"
       }
     ],
     "title": "News & Education, Travel \u2014 SaaS",
@@ -349,12 +353,66 @@
     "title": "Building my first app \u2013 What are the legal, technical, and business blind spots I need to watch out for?",
     "url": "https://www.reddit.com/r/AppBusiness/comments/1x4b1tw/building_my_first_app_what_are_the_legal/"
   },
+  "reddit:t3_1x4cdbc": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "prices": [],
+    "title": "[FOR SALE] YouTube Channel \u2013 Open to Offers (Not monetized) 3.5k Subs",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1x4cdbc/for_sale_youtube_channel_open_to_offers_not/"
+  },
+  "reddit:t3_1x4cgvp": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "prices": [],
+    "title": "Selling my saas",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1x4cgvp/selling_my_saas/"
+  },
+  "reddit:t3_1x4d66t": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "prices": [],
+    "title": "I\u2019m selling my first mobile app to someone. How do I even go about it?",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1x4d66t/im_selling_my_first_mobile_app_to_someone_how_do/"
+  },
+  "reddit:t3_1x4fmk7": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "prices": [],
+    "title": "Looking to sell my app",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1x4fmk7/looking_to_sell_my_app/"
+  },
+  "reddit:t3_1x4g84n": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "prices": [],
+    "title": "Anti Scroll - September Update (first sale!!)",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x4g84n/anti_scroll_september_update_first_sale/"
+  },
+  "reddit:t3_1x4gccf": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "prices": [],
+    "title": "Anti Scroll - September Update (first sale!!)",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1x4gccf/anti_scroll_september_update_first_sale/"
+  },
   "trustmrr:1lookup": {
     "first_seen": "2026-10-12",
     "last_seen": "2026-10-12",
     "prices": [],
     "title": "5 1Lookup FOR SALE The #1 tool for validating phone, email and IP data in real t",
     "url": "https://trustmrr.com/startup/1lookup"
+  },
+  "trustmrr:analyzeinsta": {
+    "first_seen": "2026-10-12",
+    "last_seen": "2026-10-12",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-10-12"
+      }
+    ],
+    "title": "AnalyzeInsta SaaS",
+    "url": "https://trustmrr.com/startup/analyzeinsta"
   },
   "trustmrr:boothie": {
     "first_seen": "2026-10-12",
