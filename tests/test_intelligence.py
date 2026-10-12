@@ -11,7 +11,15 @@ class IntelligenceTests(unittest.TestCase):
         self.assertEqual(v["profit_multiple"],1)
         self.assertEqual(v["payback_months"],12)
         self.assertEqual(v["annual_cash_yield"],1)
+        self.assertEqual(v["target_offer_low"],54000)
+        self.assertEqual(v["target_offer_high"],90000)
         self.assertGreaterEqual(v["acquisition_score"],70)
+
+    def test_high_ask_can_be_negotiated(self):
+        v = evaluate({"source":"flippa","title":"B2B SaaS","profit_monthly":3000,"price":180000})
+        self.assertTrue(v["negotiation_candidate"])
+        self.assertEqual(v["target_offer_high"],90000)
+        self.assertEqual(v["discount_to_target_pct"],50)
 
     def test_unknowns_not_invented(self):
         v = evaluate({"source":"reddit/SaaS","title":"Selling a SaaS","price":0})
