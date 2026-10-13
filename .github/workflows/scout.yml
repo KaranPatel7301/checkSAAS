@@ -5,6 +5,12 @@ name: saas-scout
 # GitHub Actions free allowance.
 
 on:
+  # Run immediately when this workflow definition is updated on main.
+  # Heartbeat and history commits do not match this path, preventing loops.
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/scout.yml'
   schedule:
     # GitHub cron is always UTC. These three map to ~7am / 1pm / 7pm
     # US Eastern during summer (EDT). In winter they land an hour
