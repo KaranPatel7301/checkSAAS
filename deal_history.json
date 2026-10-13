@@ -1561,6 +1561,44 @@
     "title": "I've been building a comic collection site that combines cataloging, collection values, and a marketplace. Looking for feedback.",
     "url": "https://www.reddit.com/r/SideProject/comments/1x4jm9v/ive_been_building_a_comic_collection_site_that/"
   },
+  "reddit:t3_1x4lg59": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/growmybusiness",
+    "title": "I\u2019m getting conversations but almost no paying customers for my niche eyewear styling service. What would you test next?",
+    "url": "https://www.reddit.com/r/growmybusiness/comments/1x4lg59/im_getting_conversations_but_almost_no_paying/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
