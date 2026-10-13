@@ -737,6 +737,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "microns:ai-multi-agent-development-toolkit": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 3975.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 37000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Multi-Agent Development Toolkit",
+      "url": "https://www.microns.io/startup-listings/ai-multi-agent-development-toolkit"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "microns:ai-powered-book-summaries": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -1359,6 +1411,58 @@
       "source": "microns",
       "title": "Mac Menu Bar Command Launcher",
       "url": "https://www.microns.io/startup-listings/mac-menu-bar-command-launcher"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "microns:macos-notch-app-for-music-files-and-clipboard": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 276.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 3000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "MacOS Notch App for Music, Files and Clipboard",
+      "url": "https://www.microns.io/startup-listings/macos-notch-app-for-music-files-and-clipboard"
     },
     "review_notes": [],
     "status": "new",
@@ -2403,6 +2507,275 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "reddit:t3_1x57xgb": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "[FOR SALE] Custom Crypto Casino Platform — PvP Jackpot & Coinflip",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1x57xgb/for_sale_custom_crypto_casino_platform_pvp/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "reddit:t3_1x58a21": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "[Selling] Apps that are growing in revenue from my portfolio",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1x58a21/selling_apps_that_are_growing_in_revenue_from_my/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "reddit:t3_1x58adc": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "[Selling] Apps that are growing in revenue from my portfolio",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1x58adc/selling_apps_that_are_growing_in_revenue_from_my/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "reddit:t3_1x58c6l": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase",
+          "Potential operator constraint: onboarding, pricing"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 40,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/EntrepreneurRideAlong",
+      "title": "We finally figured out how to get customers for our SaaS. Now we have a different problem.",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x58c6l/we_finally_figured_out_how_to_get_customers_for/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "reddit:t3_1x58w3m": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "[For Sale] Amazon competitor-research SaaS, approved in Claude's official connector directory (pre-revenue, full code + domain) 400$",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1x58w3m/for_sale_amazon_competitorresearch_saas_approved/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -2456,6 +2829,59 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:adtruffle": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 104400.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 8700.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 500000.0,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Over asking-price threshold",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "AdTruffle E-commerce",
+      "url": "https://trustmrr.com/startup/adtruffle"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "trustmrr:analyzeinsta": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -2503,6 +2929,59 @@
       "source": "trustmrr",
       "title": "AnalyzeInsta SaaS",
       "url": "https://trustmrr.com/startup/analyzeinsta"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "trustmrr:anonymous-startup-70": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 408000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 34000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 2500000.0,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Over asking-price threshold",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Anonymous Startup Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/anonymous-startup-70"
     },
     "review_notes": [],
     "status": "new",
@@ -2711,7 +3190,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "49 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+      "title": "50 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
       "url": "https://trustmrr.com/startup/conductor"
     },
     "review_notes": [],
@@ -2771,6 +3250,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:convert2epub": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 2484.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 207.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 17000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Convert2EPUB Utilities",
+      "url": "https://trustmrr.com/startup/convert2epub"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "trustmrr:digital-natives-services-fz-llc": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -2798,6 +3329,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:ecomz-ai": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 9876.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 823.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 49000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Ecomz AI | Multi-Tenant SaaS eCommerce Store Builder and Mobile App Generator Pl",
+      "url": "https://trustmrr.com/startup/ecomz-ai"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "trustmrr:embed-notion-pages": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -2814,10 +3397,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 10812.0,
+        "annual_revenue_reported": 10680.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 901.0,
+        "monthly_revenue_reported": 890.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
@@ -2950,6 +3533,58 @@
       "source": "trustmrr",
       "title": "fastwrite.io Artificial Intelligence",
       "url": "https://trustmrr.com/startup/fastwrite-io"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "trustmrr:flint": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 57600.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 4800.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 60000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "flint Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/flint"
     },
     "review_notes": [],
     "status": "new",
@@ -3158,7 +3793,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,089 1 %",
+      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $45,999 1 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -3234,10 +3869,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 4368.0,
+        "annual_revenue_reported": 4548.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 364.0,
+        "monthly_revenue_reported": 379.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
@@ -3639,6 +4274,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:storytok": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 4920.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 410.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 10000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "StoryTok Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/storytok"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "trustmrr:toeic": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -3707,10 +4394,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 7428.0,
+        "annual_revenue_reported": 7596.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 619.0,
+        "monthly_revenue_reported": 633.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
@@ -3759,10 +4446,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 396.0,
+        "annual_revenue_reported": 456.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 33.0,
+        "monthly_revenue_reported": 38.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
@@ -3893,7 +4580,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+      "title": "45 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
       "url": "https://trustmrr.com/startup/vidai-llc"
     },
     "review_notes": [],
