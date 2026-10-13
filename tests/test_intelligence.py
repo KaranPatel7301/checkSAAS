@@ -1,10 +1,30 @@
 import unittest
 import tempfile
 from pathlib import Path
-from acquisition_intelligence import evaluate, update_history, save_history, load_history, build_intelligence_digest
+from acquisition_intelligence import evaluate, update_history, save_history, load_history, build_intelligence_digest, classify_deal, build_actionable_digest
 
 
 class IntelligenceTests(unittest.TestCase):
+    def test_reddit_noise_suppressed(self):
+        for title in ("Anti Scroll - September Update (first sale!!)",
+                      "[FOR SALE] YouTube Channel - Not monetized",
+                      "I'm selling my first mobile app to someone. How do I even go about it?"):
+            self.assertEqual(classify_deal({"source": "reddit/AppBusiness", "title": title}), "irrelevant")
+        self.assertEqual(classify_deal({"source": "reddit/saasforsale", "title": "Selling my saas"}), "lead")
+
+    def test_concise_digest(self):
+        hits = [
+            {"source": "reddit/AppBusiness", "title": "Anti Scroll - September Update (first sale!!)", "url": "https://example.com/1"},
+            {"source": "reddit/saasforsale", "title": "Selling my saas", "url": "https://example.com/2"},
+            {"source": "empireflippers", "title": "B2B SaaS", "profit_monthly": 3000, "price": 160000, "url": "https://example.com/3"},
+        ]
+        body = build_actionable_digest(hits, [], {"Flippa": 0, "Empire Flippers": 6})
+        self.assertNotIn("Anti Scroll", body)
+        self.assertIn("Selling my saas", body)
+        self.assertIn("CHECK COLLECTORS", body)
+        self.assertIn("$54,000-$90,000", body)
+        self.assertIn("UNDERWRITE / NEGOTIATE", body)
+
     def test_good_deal_math(self):
         d = {"id":"flippa:1","source":"flippa","title":"B2B SaaS","price":36000,"profit_monthly":3000,"business_age_months":30,"verified_revenue":True}
         v = evaluate(d)
@@ -40,6 +60,8 @@ class IntelligenceTests(unittest.TestCase):
         self.assertEqual(len(dropped),1)
         self.assertEqual(dropped[0]["discount_pct"],20)
         self.assertEqual(len(history["flippa:1"]["prices"]),2)
+        self.assertEqual(history["flippa:1"]["screening"]["confidence"], "low")
+        self.assertIn("monthly_profit_reported", history["flippa:1"]["financials"])
         self.assertIn("PRICE REDUCTIONS",build_intelligence_digest([],dropped))
         with tempfile.TemporaryDirectory() as d:
             p=Path(d)/"history.json"
