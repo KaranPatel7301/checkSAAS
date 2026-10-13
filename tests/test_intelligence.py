@@ -23,7 +23,7 @@ class IntelligenceTests(unittest.TestCase):
         self.assertIn("Selling my saas", body)
         self.assertIn("CHECK COLLECTORS", body)
         self.assertIn("$54,000-$90,000", body)
-        self.assertIn("\\nUNDERWRITE", body)
+        self.assertIn("UNDERWRITE / NEGOTIATE", body)
 
     def test_good_deal_math(self):
         d = {"id":"flippa:1","source":"flippa","title":"B2B SaaS","price":36000,"profit_monthly":3000,"business_age_months":30,"verified_revenue":True}
