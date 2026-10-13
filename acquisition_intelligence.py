@@ -177,6 +177,8 @@ def classify_deal(deal: dict) -> str:
     profit = number(deal.get("profit_monthly"))
     if profit is not None and profit >= 2000:
         return "qualified"
+    if profit is not None and profit > 0:
+        return "turnaround"
     if source in ("microns", "trustmrr", "buysellstartups", "acquire"):
         return "verify"
     return "irrelevant"
@@ -185,7 +187,7 @@ def classify_deal(deal: dict) -> str:
 def build_actionable_digest(deals: list[dict], price_drops: list[dict],
                             raw_counts: dict | None = None) -> str:
     """Short decisions-first plain text digest; never promote unknown-profit leads."""
-    groups = {"qualified": [], "verify": [], "operator": [], "lead": []}
+    groups = {"qualified": [], "turnaround": [], "verify": [], "operator": [], "lead": []}
     ignored = 0
     dedup = set()
     for d in deals:
@@ -224,6 +226,16 @@ def build_actionable_digest(deals: list[dict], price_drops: list[dict],
                 if v["discount_to_target_pct"] is not None:
                     lines.append(f"  Required discount to target: {v['discount_to_target_pct']:.1f}%")
             lines.append("  Verify: profit statements, subscription cohorts, organic traffic, workload, transferability")
+            lines.append(f"  {d.get('url', '')}")
+        lines.append("")
+    if groups["turnaround"]:
+        lines.append(f"TURNAROUND WATCHLIST ({len(groups['turnaround'])}) - below preferred profit floor")
+        for d in groups["turnaround"][:10]:
+            v = evaluate(d)
+            lines.append(f"  {d.get('title', 'Untitled')} | seller monthly profit ${number(d.get('profit_monthly')):,.0f}")
+            if v["target_offer_high"] is not None:
+                lines.append(f"  Conditional 1.5-2.5x annual profit: ${v['target_offer_low']:,.0f}-${v['target_offer_high']:,.0f}")
+            lines.append("  Verify: recurring economics and a specific FIXABLE growth or churn problem")
             lines.append(f"  {d.get('url', '')}")
         lines.append("")
     if groups["verify"]:
