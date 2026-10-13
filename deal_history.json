@@ -226,8 +226,8 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 170400.0,
-      "monthly_revenue_reported": 435474.0,
+      "monthly_profit_reported": 14200.0,
+      "monthly_revenue_reported": 36289.5,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -239,8 +239,8 @@
       }
     ],
     "screening": {
-      "acquisition_score": 62,
-      "annual_cash_yield": 6.0,
+      "acquisition_score": 55,
+      "annual_cash_yield": 0.5,
       "confidence": "medium",
       "discount_to_target_pct": 0,
       "flags": [
@@ -251,10 +251,10 @@
       ],
       "negotiation_candidate": false,
       "operator_score": 35,
-      "payback_months": 2.0,
-      "profit_multiple": 0.16666666666666666,
-      "target_offer_high": 5112000,
-      "target_offer_low": 3067200,
+      "payback_months": 24.0,
+      "profit_multiple": 2.0,
+      "target_offer_high": 426000,
+      "target_offer_low": 255600,
       "track": "acquisition"
     },
     "source": "empireflippers",
@@ -266,8 +266,8 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 72489.0,
-      "monthly_revenue_reported": 74814.0,
+      "monthly_profit_reported": 6040.75,
+      "monthly_revenue_reported": 6234.5,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -283,21 +283,22 @@
       }
     ],
     "screening": {
-      "acquisition_score": 67,
-      "annual_cash_yield": 3.636359075973814,
+      "acquisition_score": 42,
+      "annual_cash_yield": 0.30302992299781784,
       "confidence": "medium",
-      "discount_to_target_pct": 0,
+      "discount_to_target_pct": 24.2,
       "flags": [
+        "Above 2.5x annual profit",
         "Business age unverified",
         "Revenue verification required",
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
-      "negotiation_candidate": false,
+      "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 3.3000041385589536,
-      "profit_multiple": 0.2750003448799128,
-      "target_offer_high": 2174670,
-      "target_offer_low": 1304802,
+      "payback_months": 39.60004966270745,
+      "profit_multiple": 3.3000041385589536,
+      "target_offer_high": 181222,
+      "target_offer_low": 108734,
       "track": "acquisition"
     },
     "source": "empireflippers",
@@ -309,8 +310,8 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 555850.0,
-      "monthly_revenue_reported": 734674.0,
+      "monthly_profit_reported": 46320.833333333336,
+      "monthly_revenue_reported": 61222.833333333336,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -322,22 +323,23 @@
       }
     ],
     "screening": {
-      "acquisition_score": 62,
-      "annual_cash_yield": 3.5294098971845465,
+      "acquisition_score": 37,
+      "annual_cash_yield": 0.2941174914320456,
       "confidence": "medium",
-      "discount_to_target_pct": 0,
+      "discount_to_target_pct": 26.5,
       "flags": [
         "Over asking-price threshold",
+        "Above 2.5x annual profit",
         "Business age unverified",
         "Revenue verification required",
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
-      "negotiation_candidate": false,
+      "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 3.4000017990465055,
-      "profit_multiple": 0.2833334832538755,
-      "target_offer_high": 16675500,
-      "target_offer_low": 10005300,
+      "payback_months": 40.80002158855806,
+      "profit_multiple": 3.4000017990465055,
+      "target_offer_high": 1389625,
+      "target_offer_low": 833775,
       "track": "acquisition"
     },
     "source": "empireflippers",
@@ -349,8 +351,8 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 67364.0,
-      "monthly_revenue_reported": 244118.0,
+      "monthly_profit_reported": 5613.666666666667,
+      "monthly_revenue_reported": 20343.166666666668,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -362,21 +364,22 @@
       }
     ],
     "screening": {
-      "acquisition_score": 67,
-      "annual_cash_yield": 4.285718830022426,
+      "acquisition_score": 42,
+      "annual_cash_yield": 0.3571432358352022,
       "confidence": "medium",
-      "discount_to_target_pct": 0,
+      "discount_to_target_pct": 10.7,
       "flags": [
+        "Above 2.5x annual profit",
         "Business age unverified",
         "Revenue verification required",
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
-      "negotiation_candidate": false,
+      "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 2.799997031055163,
-      "profit_multiple": 0.2333330859212636,
-      "target_offer_high": 2020920,
-      "target_offer_low": 1212552,
+      "payback_months": 33.59996437266195,
+      "profit_multiple": 2.799997031055163,
+      "target_offer_high": 168410,
+      "target_offer_low": 101046,
       "track": "acquisition"
     },
     "source": "empireflippers",
@@ -388,8 +391,8 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 628298.0,
-      "monthly_revenue_reported": 858394.0,
+      "monthly_profit_reported": 52358.166666666664,
+      "monthly_revenue_reported": 71532.83333333333,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -401,22 +404,23 @@
       }
     ],
     "screening": {
-      "acquisition_score": 62,
-      "annual_cash_yield": 2.880000366705018,
+      "acquisition_score": 37,
+      "annual_cash_yield": 0.2400000305587515,
       "confidence": "medium",
-      "discount_to_target_pct": 0,
+      "discount_to_target_pct": 40.0,
       "flags": [
         "Over asking-price threshold",
+        "Above 2.5x annual profit",
         "Business age unverified",
         "Revenue verification required",
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
-      "negotiation_candidate": false,
+      "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 4.1666661361328545,
-      "profit_multiple": 0.3472221780110712,
-      "target_offer_high": 18848940,
-      "target_offer_low": 11309364,
+      "payback_months": 49.99999363359425,
+      "profit_multiple": 4.1666661361328545,
+      "target_offer_high": 1570745,
+      "target_offer_low": 942447,
       "track": "acquisition"
     },
     "source": "empireflippers",
@@ -428,8 +432,8 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 38753.0,
-      "monthly_revenue_reported": 58016.0,
+      "monthly_profit_reported": 3229.4166666666665,
+      "monthly_revenue_reported": 4834.666666666667,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -441,21 +445,22 @@
       }
     ],
     "screening": {
-      "acquisition_score": 72,
-      "annual_cash_yield": 4.285730084417739,
+      "acquisition_score": 47,
+      "annual_cash_yield": 0.3571441737014782,
       "confidence": "medium",
-      "discount_to_target_pct": 0,
+      "discount_to_target_pct": 10.7,
       "flags": [
+        "Above 2.5x annual profit",
         "Business age unverified",
         "Revenue verification required",
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
-      "negotiation_candidate": false,
+      "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 2.7999896782184606,
-      "profit_multiple": 0.2333324731848717,
-      "target_offer_high": 1162590,
-      "target_offer_low": 697554,
+      "payback_months": 33.599876138621525,
+      "profit_multiple": 2.7999896782184606,
+      "target_offer_high": 96882,
+      "target_offer_low": 58130,
       "track": "acquisition"
     },
     "source": "empireflippers",
