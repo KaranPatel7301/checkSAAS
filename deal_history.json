@@ -910,6 +910,47 @@
     "title": "Chat API & SDKs Platform",
     "url": "https://www.microns.io/startup-listings/chat-api-sdks-platform"
   },
+  "microns:football-team-builder-pack-opener": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 21000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "prices": [
+      {
+        "amount": 48000.0,
+        "date": "2026-10-13"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Football Team Builder & Pack Opener",
+    "url": "https://www.microns.io/startup-listings/football-team-builder-pack-opener"
+  },
   "microns:language-learning-platform": {
     "category": "verify",
     "financials": {
@@ -1241,6 +1282,10 @@
       {
         "amount": 15000.0,
         "date": "2026-10-12"
+      },
+      {
+        "amount": 11000.0,
+        "date": "2026-10-13"
       }
     ],
     "screening": {
@@ -1604,6 +1649,82 @@
     "title": "I\u2019m getting conversations but almost no paying customers for my niche eyewear styling service. What would you test next?",
     "url": "https://www.reddit.com/r/growmybusiness/comments/1x4lg59/im_getting_conversations_but_almost_no_paying/"
   },
+  "reddit:t3_1x4spp4": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "$600 budget: Meta Ads or Apple Search Ads? Should I focus on iOS?",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1x4spp4/600_budget_meta_ads_or_apple_search_ads_should_i/"
+  },
+  "reddit:t3_1x4twfe": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SideProject",
+    "title": "Podex - one short lesson a day from the best podcasts, built around your goal, with the exact steps and a check-in the next day",
+    "url": "https://www.reddit.com/r/SideProject/comments/1x4twfe/podex_one_short_lesson_a_day_from_the_best/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -1765,6 +1886,47 @@
     "title": "BulletSocial Social Media",
     "url": "https://trustmrr.com/startup/bulletsocial"
   },
+  "trustmrr:carry": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 5664.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 472.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "prices": [
+      {
+        "amount": 10000.0,
+        "date": "2026-10-13"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Carry: Save ChatGPT, Claude & Grok to Markdown Automatically Utilities",
+    "url": "https://trustmrr.com/startup/carry"
+  },
   "trustmrr:conductor": {
     "category": "verify",
     "financials": {
@@ -1855,6 +2017,47 @@
     ],
     "title": "DOWNCONVERT SKETCHUP FILES Productivity",
     "url": "https://trustmrr.com/startup/digital-natives-services-fz-llc"
+  },
+  "trustmrr:embed-notion-pages": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 10812.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 901.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "prices": [
+      {
+        "amount": 30000.0,
+        "date": "2026-10-13"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Embed Notion Pages Productivity",
+    "url": "https://trustmrr.com/startup/embed-notion-pages"
   },
   "trustmrr:fanpilott": {
     "category": "verify",
@@ -1973,16 +2176,16 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "35 G GoTall FOR SALE Superwall ios application C Chenglin $58,310 2 %",
+    "title": "35 G GoTall FOR SALE Superwall ios application C Chenglin $58,337 2 %",
     "url": "https://trustmrr.com/startup/gotall"
   },
   "trustmrr:growingupvideo": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 39600.0,
+      "annual_revenue_reported": 38400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3300.0,
+      "monthly_revenue_reported": 3200.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -2092,7 +2295,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,123 1 %",
+    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,089 1 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -2135,10 +2338,10 @@
   "trustmrr:pinpoint": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 3768.0,
+      "annual_revenue_reported": 4368.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 314.0,
+      "monthly_revenue_reported": 364.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -2290,6 +2493,47 @@
     "title": "18 PROSP FOR SALE Automate your LinkedIn Outreach with AI Yann | Prosp.ai $128,0",
     "url": "https://trustmrr.com/startup/prosp"
   },
+  "trustmrr:reelyze": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 10080.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 840.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-13",
+    "last_seen": "2026-10-13",
+    "prices": [
+      {
+        "amount": 30000.0,
+        "date": "2026-10-13"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Reelyze Analytics",
+    "url": "https://trustmrr.com/startup/reelyze"
+  },
   "trustmrr:seoloupe": {
     "category": "verify",
     "financials": {
@@ -2383,6 +2627,10 @@
       {
         "amount": 60000.0,
         "date": "2026-10-12"
+      },
+      {
+        "amount": 50000.0,
+        "date": "2026-10-13"
       }
     ],
     "screening": {

@@ -335,12 +335,12 @@
       "financials": {
         "annual_revenue_reported": null,
         "business_age_months": null,
-        "monthly_profit_reported": 14200,
+        "monthly_profit_reported": 14200.0,
         "monthly_revenue_reported": 36289.5,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 340800,
+      "latest_price": 340800.0,
       "screening": {
         "acquisition_score": 55,
         "annual_cash_yield": 0.5,
@@ -354,8 +354,8 @@
         ],
         "negotiation_candidate": false,
         "operator_score": 35,
-        "payback_months": 24,
-        "profit_multiple": 2,
+        "payback_months": 24.0,
+        "profit_multiple": 2.0,
         "target_offer_high": 426000,
         "target_offer_low": 255600,
         "track": "acquisition"
@@ -391,7 +391,7 @@
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 239214,
+      "latest_price": 239214.0,
       "screening": {
         "acquisition_score": 42,
         "annual_cash_yield": 0.30302992299781784,
@@ -418,10 +418,10 @@
     "review_notes": [
       {
         "at": "2026-10-13T03:40:00Z",
-        "type": "review",
-        "verdict": "NEGOTIATE",
         "evidence": "broker_reported",
-        "note": "Initial pipeline validation: broker reports $6,040.75/month profit and a $239,214 asking price (~3.3x annual profit). Indicative 1.5–2.5x annual profit value ~$108,734–$181,222; validate Stripe, expense exports, customer retention, organic traffic, owner workload and transferable billing before any offer. Price openness is unknown."
+        "note": "Initial pipeline validation: broker reports $6,040.75/month profit and a $239,214 asking price (~3.3x annual profit). Indicative 1.5–2.5x annual profit value ~$108,734–$181,222; validate Stripe, expense exports, customer retention, organic traffic, owner workload and transferable billing before any offer. Price openness is unknown.",
+        "type": "review",
+        "verdict": "NEGOTIATE"
       }
     ],
     "status": "new",
@@ -450,7 +450,7 @@
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 1889891,
+      "latest_price": 1889891.0,
       "screening": {
         "acquisition_score": 37,
         "annual_cash_yield": 0.2941174914320456,
@@ -502,7 +502,7 @@
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 188619,
+      "latest_price": 188619.0,
       "screening": {
         "acquisition_score": 42,
         "annual_cash_yield": 0.3571432358352022,
@@ -553,12 +553,12 @@
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 2617908,
+      "latest_price": 2617908.0,
       "screening": {
         "acquisition_score": 37,
         "annual_cash_yield": 0.2400000305587515,
         "confidence": "medium",
-        "discount_to_target_pct": 40,
+        "discount_to_target_pct": 40.0,
         "flags": [
           "Over asking-price threshold",
           "Above 2.5x annual profit",
@@ -605,7 +605,7 @@
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 108508,
+      "latest_price": 108508.0,
       "screening": {
         "acquisition_score": 47,
         "annual_cash_yield": 0.3571441737014782,
@@ -649,14 +649,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 156,
+        "annual_revenue_reported": 156.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 2000,
+      "latest_price": 2000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -701,14 +701,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3300,
+        "annual_revenue_reported": 3300.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 30000,
+      "latest_price": 30000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -753,14 +753,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1114,
+        "annual_revenue_reported": 1114.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 3600,
+      "latest_price": 3600.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -805,14 +805,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 300,
+        "annual_revenue_reported": 300.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 30000,
+      "latest_price": 30000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -857,14 +857,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1000,
+        "annual_revenue_reported": 1000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 10000,
+      "latest_price": 10000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -909,14 +909,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 864,
+        "annual_revenue_reported": 864.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 10000,
+      "latest_price": 10000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -961,14 +961,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 2250,
+        "annual_revenue_reported": 2250.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 5500,
+      "latest_price": 5500.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1013,7 +1013,7 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 11300,
+        "annual_revenue_reported": 11300.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
@@ -1066,14 +1066,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 10578,
+        "annual_revenue_reported": 10578.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 45000,
+      "latest_price": 45000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1118,7 +1118,7 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 116,
+        "annual_revenue_reported": 116.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
@@ -1171,14 +1171,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 78400,
+        "annual_revenue_reported": 78400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 200000,
+      "latest_price": 200000.0,
       "screening": {
         "acquisition_score": 22,
         "annual_cash_yield": null,
@@ -1207,6 +1207,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "microns:football-team-builder-pack-opener": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 21000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 48000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Football Team Builder & Pack Opener",
+      "url": "https://www.microns.io/startup-listings/football-team-builder-pack-opener"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "microns:language-learning-platform": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -1223,7 +1275,7 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 200,
+        "annual_revenue_reported": 200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
@@ -1276,14 +1328,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 134,
+        "annual_revenue_reported": 134.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 1500,
+      "latest_price": 1500.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1328,7 +1380,7 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1900,
+        "annual_revenue_reported": 1900.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
@@ -1381,14 +1433,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1494,
+        "annual_revenue_reported": 1494.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 4500,
+      "latest_price": 4500.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1433,7 +1485,7 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 102,
+        "annual_revenue_reported": 102.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
@@ -1486,14 +1538,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1467,
+        "annual_revenue_reported": 1467.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 3500,
+      "latest_price": 3500.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1538,14 +1590,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 26600,
+        "annual_revenue_reported": 26600.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 115000,
+      "latest_price": 115000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1590,14 +1642,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 4100,
+        "annual_revenue_reported": 4100.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 10000,
+      "latest_price": 10000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1642,14 +1694,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 440,
+        "annual_revenue_reported": 440.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 15000,
+      "latest_price": 11000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -1694,7 +1746,7 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 235,
+        "annual_revenue_reported": 235.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
         "monthly_revenue_reported": null,
@@ -2243,6 +2295,114 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "reddit:t3_1x4spp4": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AppBusiness",
+      "title": "$600 budget: Meta Ads or Apple Search Ads? Should I focus on iOS?",
+      "url": "https://www.reddit.com/r/AppBusiness/comments/1x4spp4/600_budget_meta_ads_or_apple_search_ads_should_i/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "reddit:t3_1x4twfe": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "Podex - one short lesson a day from the best podcasts, built around your goal, with the exact steps and a check-in the next day",
+      "url": "https://www.reddit.com/r/SideProject/comments/1x4twfe/podex_one_short_lesson_a_day_from_the_best/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -2312,14 +2472,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1548,
+        "annual_revenue_reported": 1548.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 129,
+        "monthly_revenue_reported": 129.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 15000,
+      "latest_price": 15000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -2364,14 +2524,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 528000,
+        "annual_revenue_reported": 528000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 44000,
+        "monthly_revenue_reported": 44000.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 1500000,
+      "latest_price": 1500000.0,
       "screening": {
         "acquisition_score": 17,
         "annual_cash_yield": null,
@@ -2417,14 +2577,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 696,
+        "annual_revenue_reported": 696.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 58,
+        "monthly_revenue_reported": 58.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 5000,
+      "latest_price": 5000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -2448,6 +2608,58 @@
       "source": "trustmrr",
       "title": "BulletSocial Social Media",
       "url": "https://trustmrr.com/startup/bulletsocial"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "trustmrr:carry": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 5664.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 472.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 10000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Carry: Save ChatGPT, Claude & Grok to Markdown Automatically Utilities",
+      "url": "https://trustmrr.com/startup/carry"
     },
     "review_notes": [],
     "status": "new",
@@ -2522,14 +2734,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 144000,
+        "annual_revenue_reported": 144000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 12000,
+        "monthly_revenue_reported": 12000.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 475000,
+      "latest_price": 475000.0,
       "screening": {
         "acquisition_score": 17,
         "annual_cash_yield": null,
@@ -2576,11 +2788,63 @@
       "category": null,
       "financials": null,
       "last_seen": "2026-10-12",
-      "latest_price": 18000,
+      "latest_price": 18000.0,
       "screening": null,
       "source": null,
       "title": "DOWNCONVERT SKETCHUP FILES Productivity",
       "url": "https://trustmrr.com/startup/digital-natives-services-fz-llc"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
+  "trustmrr:embed-notion-pages": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 10812.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 901.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 30000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Embed Notion Pages Productivity",
+      "url": "https://trustmrr.com/startup/embed-notion-pages"
     },
     "review_notes": [],
     "status": "new",
@@ -2602,14 +2866,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3864,
+        "annual_revenue_reported": 3864.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 322,
+        "monthly_revenue_reported": 322.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 5000,
+      "latest_price": 5000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -2654,14 +2918,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 156000,
+        "annual_revenue_reported": 156000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 13000,
+        "monthly_revenue_reported": 13000.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 320000,
+      "latest_price": 320000.0,
       "screening": {
         "acquisition_score": 17,
         "annual_cash_yield": null,
@@ -2737,7 +3001,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "35 G GoTall FOR SALE Superwall ios application C Chenglin $58,310 2 %",
+      "title": "35 G GoTall FOR SALE Superwall ios application C Chenglin $58,337 2 %",
       "url": "https://trustmrr.com/startup/gotall"
     },
     "review_notes": [],
@@ -2760,14 +3024,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 39600,
+        "annual_revenue_reported": 38400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 3300,
+        "monthly_revenue_reported": 3200.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 120000,
+      "latest_price": 120000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -2812,14 +3076,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3084,
+        "annual_revenue_reported": 3084.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 257,
+        "monthly_revenue_reported": 257.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 10000,
+      "latest_price": 10000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -2894,7 +3158,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,123 1 %",
+      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,089 1 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -2970,14 +3234,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3768,
+        "annual_revenue_reported": 4368.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 314,
+        "monthly_revenue_reported": 364.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 8000,
+      "latest_price": 8000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -3022,14 +3286,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 480000,
+        "annual_revenue_reported": 480000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 40000,
+        "monthly_revenue_reported": 40000.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 1400000,
+      "latest_price": 1400000.0,
       "screening": {
         "acquisition_score": 17,
         "annual_cash_yield": null,
@@ -3166,6 +3430,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:reelyze": {
+    "created_at": "2026-10-13",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 10080.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 840.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-13",
+      "latest_price": 30000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Reelyze Analytics",
+      "url": "https://trustmrr.com/startup/reelyze"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-13"
+  },
   "trustmrr:seoloupe": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -3182,14 +3498,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 2736,
+        "annual_revenue_reported": 2736.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 228,
+        "monthly_revenue_reported": 228.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 3500,
+      "latest_price": 3500.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -3287,14 +3603,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 13200,
+        "annual_revenue_reported": 13200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 1100,
+        "monthly_revenue_reported": 1100.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 60000,
+      "latest_price": 50000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -3339,14 +3655,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 6900,
+        "annual_revenue_reported": 6900.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 575,
+        "monthly_revenue_reported": 575.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 9800,
+      "latest_price": 9800.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -3391,14 +3707,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 7428,
+        "annual_revenue_reported": 7428.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 619,
+        "monthly_revenue_reported": 619.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 9000,
+      "latest_price": 9000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -3443,14 +3759,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 396,
+        "annual_revenue_reported": 396.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 33,
+        "monthly_revenue_reported": 33.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 3000,
+      "latest_price": 3000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -3495,14 +3811,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 32400,
+        "annual_revenue_reported": 32400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2700,
+        "monthly_revenue_reported": 2700.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-13",
-      "latest_price": 27000,
+      "latest_price": 27000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
