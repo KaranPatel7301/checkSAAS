@@ -123,6 +123,18 @@ def update_history(deals: list[dict], history: dict, today: str | None = None):
         record["last_seen"] = today
         record["title"] = str(deal.get("title") or "")[:200]
         record["url"] = str(deal.get("url") or "")
+        record["source"] = str(deal.get("source") or "")
+        record["category"] = classify_deal(deal)
+        # Latest public/seller-provided fields for the connected ChatGPT review.
+        # Never infer net profit from revenue. Never copy private account data.
+        record["financials"] = {
+            "monthly_profit_reported": number(deal.get("profit_monthly")),
+            "monthly_revenue_reported": number(deal.get("revenue_monthly")),
+            "annual_revenue_reported": number(deal.get("annual_revenue")),
+            "business_age_months": number(deal.get("business_age_months")),
+            "revenue_verified_claim": bool(deal.get("verified_revenue")),
+        }
+        record["screening"] = evaluate(deal)
         price = number(deal.get("price"))
         if price is None or price == 0:
             continue
