@@ -144,18 +144,99 @@ def save_history(history: dict, path: str | os.PathLike | None = None):
     tmp.replace(file)
 
 
-def build_intelligence_digest(deals: list[dict], price_drops: list[dict]) -> str:
-    ranked = sorted(deals, key=lambda d: evaluate(d)["acquisition_score"], reverse=True)
-    lines = ["ACQUISITION INTELLIGENCE — rule-based estimates, NOT verified due diligence", ""]
-    for deal in ranked:
-        v = evaluate(deal)
-        lines.extend([f"{deal.get('title', 'Untitled')} [{deal.get('source', '?')}]",
-            f"  Acquisition {v['acquisition_score']}/100 | Operator {v['operator_score']}/100 | confidence {v['confidence']}",
-            f"  Profit multiple: {v['profit_multiple']:.2f}x | Payback: {v['payback_months']:.1f} months" if v["profit_multiple"] is not None else "  Profit multiple/payback: unknown",
-            (f"  Potential offer range: \${v['target_offer_low']:,.0f}–\${v['target_offer_high']:,.0f}; discount to upper target: {v['discount_to_target_pct']:.1f}% (negotiation only)" if v["target_offer_high"] is not None and v["discount_to_target_pct"] is not None else "  Target offer: cannot calculate without verified monthly profit and ask"),
-            "  Check: " + "; ".join(v["flags"][:5]), f"  {deal.get('url', '')}", ""])
+def classify_deal(deal: dict) -> str:
+    """Separate actionable acquisitions from early leads and irrelevant Reddit posts."""
+    source = str(deal.get("source") or "")
+    title = str(deal.get("title") or "").casefold()
+    summary = str(deal.get("summary") or "").casefold()
+    if source.startswith("reddit"):
+        ignore = ("youtube channel", "first sale", "how do i", "how to sell",
+                  "buying]", "[buying", "want to buy", "looking to buy",
+                  "legal, technical", "business blind spots")
+        if any(term in title for term in ignore):
+            return "irrelevant"
+        has_offer = any(term in title for term in
+            ("selling my saas", "sell my saas", "saas for sale", "looking to sell my app",
+             "selling my app", "for sale", "acquisition", "selling our saas"))
+        has_partner = any(term in title for term in ("growth partner", "cofounder", "co-founder"))
+        if has_partner and any(term in title + " " + summary for term in ("saas", "mrr", "arr")):
+            return "operator"
+        return "lead" if has_offer else "irrelevant"
+    profit = number(deal.get("profit_monthly"))
+    if profit is not None and profit >= 2000:
+        return "qualified"
+    if source in ("microns", "trustmrr", "buysellstartups", "acquire"):
+        return "verify"
+    return "irrelevant"
+
+
+def build_actionable_digest(deals: list[dict], price_drops: list[dict],
+                            raw_counts: dict | None = None) -> str:
+    """Short decisions-first plain text digest; never promote unknown-profit leads."""
+    groups = {"qualified": [], "verify": [], "operator": [], "lead": []}
+    ignored = 0
+    dedup = set()
+    for d in deals:
+        # Crossposts with the same headline are a single opportunity.
+        key = (str(d.get("title") or "").casefold().strip()
+               if str(d.get("source", "")).startswith("reddit")
+               else str(d.get("id") or d.get("url")))
+        if key in dedup:
+            continue
+        dedup.add(key)
+        kind = classify_deal(d)
+        if kind == "irrelevant":
+            ignored += 1
+        else:
+            groups[kind].append(d)
+    groups["qualified"].sort(key=lambda x: evaluate(x)["acquisition_score"], reverse=True)
+    lines = ["SAAS SCOUT | ACTIONABLE DEALS", "Seller data is unverified until independently checked.", ""]
     if price_drops:
-        lines.extend(["PRICE REDUCTIONS", ""])
+        lines.append(f"PRICE CUTS ({len(price_drops)})")
         for d in price_drops:
-            lines.append(f"{d.get('title', 'Untitled')}: ${d['old_price']:,.0f} → ${d['new_price']:,.0f} (-{d['discount_pct']}%) {d.get('url', '')}")
-    return "\n".join(lines)
+            v = evaluate(d)
+            lines.append(f"  {d.get('title', 'Untitled')}")
+            lines.append(f"  ${d['old_price']:,.0f} -> ${d['new_price']:,.0f} (-{d['discount_pct']}%)")
+            if v["target_offer_high"] is not None:
+                lines.append(f"  Negotiation ceiling (illustrative): ${v['target_offer_high']:,.0f}")
+            lines.append(f"  {d.get('url', '')}")
+        lines.append("")
+    if groups["qualified"]:
+        lines.append(f"UNDERWRITE / NEGOTIATE ({len(groups['qualified'])})")
+        for d in groups["qualified"][:15]:
+            v = evaluate(d)
+            lines.append(f"  {d.get('title', 'Untitled')} | {d.get('source', '')}")
+            lines.append(f"  Seller monthly profit: ${number(d.get('profit_monthly')):,.0f} | ask: ${number(d.get('price')):,.0f}" if number(d.get("price")) else f"  Seller monthly profit: ${number(d.get('profit_monthly')):,.0f} | ask unknown")
+            if v["target_offer_high"] is not None:
+                lines.append(f"  Illustrative target offer: ${v['target_offer_low']:,.0f}-${v['target_offer_high']:,.0f}")
+                if v["discount_to_target_pct"] is not None:
+                    lines.append(f"  Required discount to target: {v['discount_to_target_pct']:.1f}%")
+            lines.append("  Verify: profit statements, subscription cohorts, organic traffic, workload, transferability")
+            lines.append(f"  {d.get('url', '')}")
+        lines.append("")
+    if groups["verify"]:
+        lines.append(f"RESEARCH FIRST / PROFIT UNKNOWN ({len(groups['verify'])})")
+        for d in groups["verify"][:10]:
+            revenue = number(d.get("annual_revenue"))
+            lines.append(f"  {d.get('title', 'Untitled')} [{d.get('source', '')}]" +
+                (f" | annual revenue ${revenue:,.0f}" if revenue else ""))
+            lines.append(f"  {d.get('url', '')}")
+        lines.append("  Do not estimate offers from revenue alone.")
+        lines.append("")
+    if groups["operator"] or groups["lead"]:
+        lines.append(f"EARLY REDDIT LEADS ({len(groups['operator']) + len(groups['lead'])}) - ask for financials")
+        for d in (groups["operator"] + groups["lead"])[:8]:
+            lines.append(f"  {d.get('title', 'Untitled')} | {d.get('url', '')}")
+        lines.append("")
+    if not any(groups.values()) and not price_drops:
+        lines.append("No qualified new acquisitions or price reductions this scan.")
+        lines.append("")
+    if raw_counts:
+        lines.append("SOURCE HEALTH (raw parsed listings, not qualified deals)")
+        lines.append(" | ".join(f"{source}: {count}" for source, count in raw_counts.items()))
+        unhealthy = [source for source, count in raw_counts.items() if count == 0]
+        if unhealthy:
+            lines.append("CHECK COLLECTORS (0 results): " + ", ".join(unhealthy))
+            lines.append("Zero can mean block, parsing regression, or no results; investigate.")
+    lines.append(f"Discarded off-criteria/redundant new leads: {ignored}")
+    return "\\n".join(lines)
