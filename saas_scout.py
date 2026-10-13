@@ -1059,8 +1059,8 @@ def main() -> None:
     if relevant_hits or price_drops or collector_alerts or force:
         body = build_actionable_digest(relevant_hits, price_drops, raw_counts)
         if collector_alerts:
-            body += "\\n\\nCOLLECTOR ALERTS (coverage is incomplete)\\n"
-            body += "\\n".join("  - " + alert for alert in collector_alerts)
+            body += "\n\nCOLLECTOR ALERTS (coverage is incomplete)\n"
+            body += "\n".join("  - " + alert for alert in collector_alerts)
         send_email(body)
     else:
         print("[scout] no new listings cleared the filters this run; "
