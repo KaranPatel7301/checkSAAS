@@ -70,6 +70,8 @@ CRITERIA = {
     # above prefer_monthly_profit get starred in the email.
     "min_monthly_profit": 2000,
     "prefer_monthly_profit": 3000,
+    # Keep smaller fixable SaaS businesses in a separate turnaround queue.
+    "discovery_min_monthly_profit": 500,
 
     # Capital Efficiency Principle: maximize cash flow relative to price.
     # The playbook's own worked examples run 0.8x annual profit (the
@@ -78,8 +80,8 @@ CRITERIA = {
     # richer than your most expensive example gets dropped.
     "max_multiple": 2.5,
     # Discovery is wider than the ideal purchase multiple: negotiation may close the gap.
-    "discovery_max_multiple": 6.0,
-    "discovery_max_price": 750_000,
+    "discovery_max_multiple": 12.0,
+    "discovery_max_price": 2_000_000,
 
     # Soft capital ceiling: ~$250K asking. Sellers pad asks for negotiation, so
     # this is a "don't bother if the LISTED ask is already way above budget"
@@ -249,7 +251,7 @@ def _months_since(iso: str | None):
 def passes_flippa(x: dict) -> bool:
     c = CRITERIA
     text = f"{x['title']} {x['summary']}".lower()
-    if x["profit_monthly"] < c["min_monthly_profit"]:
+    if x["profit_monthly"] < c["discovery_min_monthly_profit"]:
         return False
     if c["discovery_max_price"] is not None and x["price"] > c["discovery_max_price"]:
         return False
@@ -361,7 +363,7 @@ def fetch_reddit() -> list[dict]:
 # NOTE: the /categories/saas page only lists SOLD deals. The homepage is
 # where the currently-live acquisition opportunities are rendered.
 MICRONS_URL = "https://www.microns.io/"
-MICRONS_MIN_ANNUAL_REVENUE = CRITERIA["min_monthly_profit"] * 12
+MICRONS_MIN_ANNUAL_REVENUE = CRITERIA["discovery_min_monthly_profit"] * 12
 
 
 def fetch_microns() -> list[dict]:
@@ -717,11 +719,11 @@ def passes_trustmrr(x: dict) -> bool:
     if CRITERIA["discovery_max_price"] and x["price"] and x["price"] > CRITERIA["discovery_max_price"]:
         return False
     if x.get("profit_monthly"):
-        return x["profit_monthly"] >= CRITERIA["min_monthly_profit"]
+        return x["profit_monthly"] >= CRITERIA["discovery_min_monthly_profit"]
     rev = x.get("annual_revenue")
     if rev is None:
         return False  # revenue masked/confidential -> can't verify the floor
-    return rev >= CRITERIA["min_monthly_profit"] * 12
+    return rev >= CRITERIA["discovery_min_monthly_profit"] * 12
 
 
 # ====================================================================
