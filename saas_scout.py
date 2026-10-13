@@ -49,7 +49,7 @@ import sys
 from email.message import EmailMessage
 
 import requests
-from acquisition_intelligence import (evaluate, load_history, save_history, update_history, build_intelligence_digest)
+from acquisition_intelligence import (evaluate, load_history, save_history, update_history, build_intelligence_digest, build_actionable_digest, classify_deal)
 
 # Load SMTP + optional keys from a local .env file if present, so you never
 # have to export them by hand and cron/launchd picks them up automatically.
@@ -1024,7 +1024,8 @@ def main() -> None:
         if h["id"] in seen:
             continue
         seen.add(h["id"])
-        new_hits.append(h)  # reddit already keyword-filtered
+        if classify_deal(h) != 'irrelevant':
+            new_hits.append(h)  # only actual seller or partnership leads
 
     # Acquire.com: cap per run and only mark the ones we actually surface as
     # seen, so the backlog drips out over a few runs instead of flooding.
@@ -1050,9 +1051,9 @@ def main() -> None:
     # Don't spam empty digests three times a day. Only email when something
     # new cleared the filters; otherwise just log it for the run output.
     force = os.environ.get("SAAS_SCOUT_ALWAYS_EMAIL") == "1"
-    if new_hits or price_drops or force:
-        body = build_intelligence_digest(new_hits, price_drops)
-        body += "\n\n--- ORIGINAL SOURCE DIGEST ---\n" + build_body(new_hits, raw_counts)
+    relevant_hits = [h for h in new_hits if classify_deal(h) != "irrelevant"]
+    if relevant_hits or price_drops or force:
+        body = build_actionable_digest(relevant_hits, price_drops, raw_counts)
         send_email(body)
     else:
         print("[scout] no new listings cleared the filters this run; "
