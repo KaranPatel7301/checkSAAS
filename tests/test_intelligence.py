@@ -60,6 +60,8 @@ class IntelligenceTests(unittest.TestCase):
         self.assertEqual(len(dropped),1)
         self.assertEqual(dropped[0]["discount_pct"],20)
         self.assertEqual(len(history["flippa:1"]["prices"]),2)
+        self.assertEqual(history["flippa:1"]["screening"]["confidence"], "low")
+        self.assertIn("monthly_profit_reported", history["flippa:1"]["financials"])
         self.assertIn("PRICE REDUCTIONS",build_intelligence_digest([],dropped))
         with tempfile.TemporaryDirectory() as d:
             p=Path(d)/"history.json"
