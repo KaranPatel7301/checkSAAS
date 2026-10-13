@@ -1,4 +1,5 @@
 name: saas-scout
+# Production revalidation after financial-unit and discovery-filter fixes.
 
 # Runs the scanner on a schedule in the cloud, so it never depends on
 # your laptop being awake. Free: this repo's runs stay well under the
