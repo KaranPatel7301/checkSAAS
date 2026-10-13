@@ -520,7 +520,7 @@ def normalize_ef(card) -> dict | None:
 def passes_ef(x: dict) -> bool:
     c = CRITERIA
     text = f"{x['title']} {x['summary']}".lower()
-    if x["profit_monthly"] < c["min_monthly_profit"]:
+    if x["profit_monthly"] < c["discovery_min_monthly_profit"]:
         return False
     if c["discovery_max_price"] is not None and x["price"] and x["price"] > c["discovery_max_price"]:
         return False
