@@ -252,3 +252,20 @@ def build_actionable_digest(deals: list[dict], price_drops: list[dict],
             lines.append("Zero can mean block, parsing regression, or no results; investigate.")
     lines.append(f"Discarded off-criteria/redundant new leads: {ignored}")
     return "\n".join(lines)
+
+
+def build_intelligence_digest(deals: list[dict], price_drops: list[dict]) -> str:
+    ranked = sorted(deals, key=lambda d: evaluate(d)["acquisition_score"], reverse=True)
+    lines = ["ACQUISITION INTELLIGENCE — rule-based estimates, NOT verified due diligence", ""]
+    for deal in ranked:
+        v = evaluate(deal)
+        lines.extend([f"{deal.get('title', 'Untitled')} [{deal.get('source', '?')}]",
+            f"  Acquisition {v['acquisition_score']}/100 | Operator {v['operator_score']}/100 | confidence {v['confidence']}",
+            f"  Profit multiple: {v['profit_multiple']:.2f}x | Payback: {v['payback_months']:.1f} months" if v["profit_multiple"] is not None else "  Profit multiple/payback: unknown",
+            (f"  Potential offer range: \${v['target_offer_low']:,.0f}–\${v['target_offer_high']:,.0f}; discount to upper target: {v['discount_to_target_pct']:.1f}% (negotiation only)" if v["target_offer_high"] is not None and v["discount_to_target_pct"] is not None else "  Target offer: cannot calculate without verified monthly profit and ask"),
+            "  Check: " + "; ".join(v["flags"][:5]), f"  {deal.get('url', '')}", ""])
+    if price_drops:
+        lines.extend(["PRICE REDUCTIONS", ""])
+        for d in price_drops:
+            lines.append(f"{d.get('title', 'Untitled')}: ${d['old_price']:,.0f} → ${d['new_price']:,.0f} (-{d['discount_pct']}%) {d.get('url', '')}")
+    return "\n".join(lines)
