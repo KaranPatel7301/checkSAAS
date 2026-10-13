@@ -239,4 +239,4 @@ def build_actionable_digest(deals: list[dict], price_drops: list[dict],
             lines.append("CHECK COLLECTORS (0 results): " + ", ".join(unhealthy))
             lines.append("Zero can mean block, parsing regression, or no results; investigate.")
     lines.append(f"Discarded off-criteria/redundant new leads: {ignored}")
-    return "\\n".join(lines)
+    return "\n".join(lines)
