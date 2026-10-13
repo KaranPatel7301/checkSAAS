@@ -960,6 +960,7 @@ def send_email(body: str) -> None:
 # MAIN
 # ====================================================================
 def main() -> None:
+    from source_health import load_health, update_health, save_health
     seen = load_seen()
     new_hits = []
     all_deals = []
@@ -1042,6 +1043,9 @@ def main() -> None:
         new_hits.append(h)
         acquire_count += 1
 
+    health = load_health()
+    collector_alerts = update_health(raw_counts, health)
+    save_health(health)
     save_seen(seen)
     history = load_history()
     price_drops = update_history(all_deals, history)
@@ -1052,8 +1056,11 @@ def main() -> None:
     # new cleared the filters; otherwise just log it for the run output.
     force = os.environ.get("SAAS_SCOUT_ALWAYS_EMAIL") == "1"
     relevant_hits = [h for h in new_hits if classify_deal(h) != "irrelevant"]
-    if relevant_hits or price_drops or force:
+    if relevant_hits or price_drops or collector_alerts or force:
         body = build_actionable_digest(relevant_hits, price_drops, raw_counts)
+        if collector_alerts:
+            body += "\n\nCOLLECTOR ALERTS (coverage is incomplete)\n"
+            body += "\n".join("  - " + alert for alert in collector_alerts)
         send_email(body)
     else:
         print("[scout] no new listings cleared the filters this run; "
