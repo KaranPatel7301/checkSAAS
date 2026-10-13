@@ -58,6 +58,9 @@ jobs:
           SAAS_SCOUT_SOURCE_HEALTH: source_health.json
         run: python saas_scout.py
 
+      - name: Sync persistent acquisition decision pipeline
+        run: python deal_pipeline.py sync
+
       - name: Run unit tests
         run: python -m unittest discover -s tests -v
 
@@ -76,7 +79,7 @@ jobs:
           date -u +"%Y-%m-%dT%H:%M:%SZ" > .github/last_run.txt
           git config user.name "saas-scout-bot"
           git config user.email "actions@github.com"
-          git add .github/last_run.txt seen.json deal_history.json source_health.json
+          git add .github/last_run.txt seen.json deal_history.json source_health.json deal_decisions.json
           # last_run.txt always changes, so this commit always succeeds ->
           # a commit lands on main on every single run (one commit, one push).
           git commit -m "heartbeat $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
