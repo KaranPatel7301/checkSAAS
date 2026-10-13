@@ -490,11 +490,16 @@ def normalize_ef(card) -> dict | None:
     if not num:
         return None
     price = money(".metric-item.price .value")
-    profit = money(".metric-item.profit .value")
-    revenue = money(".metric-item.revenue .value")
+    # EF marketplace cards show annualized net profit and annualized revenue;
+    # their asking multiple is asking price / annual profit. Normalize both
+    # to monthly amounts BEFORE applying profit floors and offer math.
+    annual_profit = money(".metric-item.profit .value")
+    annual_revenue = money(".metric-item.revenue .value")
+    profit = annual_profit / 12
+    revenue = annual_revenue / 12
     monetization = val(".metric-item.monetization .value")
     niche = val(".niches") or val(".top-info-niches")
-    annual = profit * 12
+    annual = annual_profit
     title = f"{niche} — {monetization}".strip(" —") or f"EF listing {num}"
     return {
         "source": "empireflippers",
