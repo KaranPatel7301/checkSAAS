@@ -439,7 +439,7 @@
       "stripe_exports": false,
       "transferability": false
     },
-    "evidence_grade": "unverified",
+    "evidence_grade": "broker_reported",
     "listing": {
       "category": "qualified",
       "financials": {
@@ -475,9 +475,17 @@
       "title": "SEO — SaaS",
       "url": "https://empireflippers.com/listing/89701/"
     },
-    "review_notes": [],
+    "review_notes": [
+      {
+        "at": "2026-10-15T13:04:28Z",
+        "evidence": "broker_reported",
+        "note": "Material ask cut first recorded 2026-10-14 and still listed on 2026-10-15: broker ask moved from $1,889,891 (2026-10-12) to $1,611,965 while reported monthly net profit stayed $46,320.83. Annualized broker net profit is $555,850. The new ask is 2.9× that annual profit. Preliminary negotiation range is 1.5–2.5× annual net profit, $833,775–$1,389,625, not an offer; about 13.8% off the new ask reaches the 2.5× ceiling. Title is SEO — SaaS. Organic acquisition mix, M1/M6/M12 retention, owner hours, recurring billing, customer concentration, software maintenance, and vendor transfer are unknown. An SEO-led label is a channel and policy risk until traffic sources are documented. Broker financials and any verification badge are unverified by the buyer. Profit and price were unchanged on the other qualified Empire Flippers listings.",
+        "type": "review",
+        "verdict": "NEGOTIATE"
+      }
+    ],
     "status": "new",
-    "updated_at": "2026-10-13"
+    "updated_at": "2026-10-15T13:04:28Z"
   },
   "ef:91852": {
     "created_at": "2026-10-13",
