@@ -676,6 +676,47 @@
     "title": "AI-Powered IELTS Preparation Platform",
     "url": "https://www.microns.io/startup-listings/ai-powered-ielts-preparation-platform"
   },
+  "microns:ai-powered-recipe-organizer-meal-planner": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 123.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 7800.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI-Powered Recipe Organizer & Meal Planner",
+    "url": "https://www.microns.io/startup-listings/ai-powered-recipe-organizer-meal-planner"
+  },
   "microns:ai-powered-website-audit-tool": {
     "category": "verify",
     "financials": {
@@ -955,6 +996,43 @@
     "title": "Chat API & SDKs Platform",
     "url": "https://www.microns.io/startup-listings/chat-api-sdks-platform"
   },
+  "microns:energy-drink-scanner-ios-app": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 487.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 30,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Energy Drink Scanner iOS App",
+    "url": "https://www.microns.io/startup-listings/energy-drink-scanner-ios-app"
+  },
   "microns:football-team-builder-pack-opener": {
     "category": "verify",
     "financials": {
@@ -995,6 +1073,47 @@
     "source": "microns",
     "title": "Football Team Builder & Pack Opener",
     "url": "https://www.microns.io/startup-listings/football-team-builder-pack-opener"
+  },
+  "microns:gallery-cleanup-ios-app": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 4000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Gallery Cleanup iOS App",
+    "url": "https://www.microns.io/startup-listings/gallery-cleanup-ios-app"
   },
   "microns:language-learning-platform": {
     "category": "verify",
@@ -1230,6 +1349,47 @@
     "title": "PDF Editor iOS App",
     "url": "https://www.microns.io/startup-listings/pdf-editor-ios-app"
   },
+  "microns:platform-turning-screenshot-to-code": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 63200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 38000.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Platform Turning Screenshot to Code",
+    "url": "https://www.microns.io/startup-listings/platform-turning-screenshot-to-code"
+  },
   "microns:reddit-bookmark-manager-extension": {
     "category": "verify",
     "financials": {
@@ -1270,6 +1430,47 @@
     "source": "microns",
     "title": "Reddit Bookmark Manager Extension",
     "url": "https://www.microns.io/startup-listings/reddit-bookmark-manager-extension"
+  },
+  "microns:skincare-ios-app": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 700.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Skincare iOS App",
+    "url": "https://www.microns.io/startup-listings/skincare-ios-app"
   },
   "microns:snapchat-memories-export-repair-tool": {
     "category": "verify",
@@ -2719,6 +2920,269 @@
     "title": "How was this sub before artificial intelligence?",
     "url": "https://www.reddit.com/r/SideProject/comments/1x6ifaq/how_was_this_sub_before_artificial_intelligence/"
   },
+  "reddit:t3_1x6we95": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "[ Removed by Reddit ]",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1x6we95/removed_by_reddit/"
+  },
+  "reddit:t3_1x6y5lh": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Selling my prototype $4000 usd",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1x6y5lh/selling_my_prototype_4000_usd/"
+  },
+  "reddit:t3_1x6yhb5": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "Fully developed/test App (iOS and Android) for sale.",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1x6yhb5/fully_developedtest_app_ios_and_android_for_sale/"
+  },
+  "reddit:t3_1x6yhjb": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Fully developed/test App (iOS and Android) for sale.",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1x6yhjb/fully_developedtest_app_ios_and_android_for_sale/"
+  },
+  "reddit:t3_1x6zp1y": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "What checklist are needed in acquiring Saas",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1x6zp1y/what_checklist_are_needed_in_acquiring_saas/"
+  },
+  "reddit:t3_1x6zteb": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "[Selling] Scalable iOS app with $61 MRR organic traffic.",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1x6zteb/selling_scalable_ios_app_with_61_mrr_organic/"
+  },
+  "reddit:t3_1x6zw8o": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "We fund app growth and only get paid from the extra revenue. You roasted v1 of the deal, here's v2. What's still a dealbreaker?",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1x6zw8o/we_fund_app_growth_and_only_get_paid_from_the/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -2753,7 +3217,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "5 1Lookup FOR SALE The #1 tool for validating phone, email and IP data in real t",
+    "title": "6 1Lookup FOR SALE The #1 tool for validating phone, email and IP data in real t",
     "url": "https://trustmrr.com/startup/1lookup"
   },
   "trustmrr:adtruffle": {
@@ -2966,10 +3430,10 @@
   "trustmrr:boothie": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 528000.0,
+      "annual_revenue_reported": 540000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 44000.0,
+      "monthly_revenue_reported": 45000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -3090,10 +3554,10 @@
   "trustmrr:chefgpt": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 26400.0,
+      "annual_revenue_reported": 27600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 2200.0,
+      "monthly_revenue_reported": 2300.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-15",
@@ -3127,6 +3591,47 @@
     "source": "trustmrr",
     "title": "ChefGPT Health & Fitness",
     "url": "https://trustmrr.com/startup/chefgpt"
+  },
+  "trustmrr:clamshell": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 3600.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 300.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Clamshell Developer Tools",
+    "url": "https://trustmrr.com/startup/clamshell"
   },
   "trustmrr:conductor": {
     "category": "verify",
@@ -3626,6 +4131,47 @@
     "title": "Mazo - Your AI GTM advisor Artificial Intelligence",
     "url": "https://trustmrr.com/startup/mazo"
   },
+  "trustmrr:noweed": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 4692.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 391.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 11000.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "NoWeed Health & Fitness",
+    "url": "https://trustmrr.com/startup/noweed"
+  },
   "trustmrr:nutria-9e3eaa": {
     "category": "verify",
     "financials": {
@@ -3660,7 +4206,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $45,878 2 %",
+    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $45,850 2 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -3703,10 +4249,10 @@
   "trustmrr:pinpoint": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 6288.0,
+      "annual_revenue_reported": 6768.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 524.0,
+      "monthly_revenue_reported": 564.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -3782,6 +4328,47 @@
     "source": "trustmrr",
     "title": "Private Enterprise Utilities",
     "url": "https://trustmrr.com/startup/private-enterprise-76"
+  },
+  "trustmrr:private-venture-86": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 39600.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 3300.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 65000.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Private Venture",
+    "url": "https://trustmrr.com/startup/private-venture-86"
   },
   "trustmrr:project-a": {
     "category": "verify",
@@ -3902,10 +4489,10 @@
   "trustmrr:scoutly": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 228.0,
+      "annual_revenue_reported": 456.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 19.0,
+      "monthly_revenue_reported": 38.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-15",
@@ -3913,6 +4500,10 @@
     "prices": [
       {
         "amount": 600.0,
+        "date": "2026-10-15"
+      },
+      {
+        "amount": 2000.0,
         "date": "2026-10-15"
       }
     ],
@@ -3943,10 +4534,10 @@
   "trustmrr:screenshot-to-code-whimsyworks-inc": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 54000.0,
+      "annual_revenue_reported": 55200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4500.0,
+      "monthly_revenue_reported": 4600.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-14",
@@ -4097,7 +4688,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "31 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
+    "title": "30 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
     "url": "https://trustmrr.com/startup/speel-co"
   },
   "trustmrr:stealth-rdp": {
@@ -4186,13 +4777,54 @@
     "title": "StoryTok Artificial Intelligence",
     "url": "https://trustmrr.com/startup/storytok"
   },
+  "trustmrr:teleprompter": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 144.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 12.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 799.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Teleprompter Productivity",
+    "url": "https://trustmrr.com/startup/teleprompter"
+  },
   "trustmrr:thecontentcook": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 36000.0,
+      "annual_revenue_reported": 33600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3000.0,
+      "monthly_revenue_reported": 2800.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-14",
@@ -4271,10 +4903,10 @@
   "trustmrr:toonthis": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 7164.0,
+      "annual_revenue_reported": 7320.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 597.0,
+      "monthly_revenue_reported": 610.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
@@ -4427,6 +5059,47 @@
     "source": "trustmrr",
     "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
+  },
+  "trustmrr:walldecor-io": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2436.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 203.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-15",
+    "last_seen": "2026-10-15",
+    "prices": [
+      {
+        "amount": 7500.0,
+        "date": "2026-10-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "walldecor.io Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/walldecor-io"
   },
   "trustmrr:white-glove-content": {
     "category": "verify",
