@@ -4597,6 +4597,436 @@
     "status": "new",
     "updated_at": "2026-10-16"
   },
+  "reddit:t3_1x7qjw9": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AppBusiness",
+      "title": "where can i sell my app",
+      "url": "https://www.reddit.com/r/AppBusiness/comments/1x7qjw9/where_can_i_sell_my_app/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
+  "reddit:t3_1x7rcf5": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AppBusiness",
+      "title": "Selling my Sahih Bukhari offline app Android, 19K downloads, ranking #1 in its category on Play Store",
+      "url": "https://www.reddit.com/r/AppBusiness/comments/1x7rcf5/selling_my_sahih_bukhari_offline_app_android_19k/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
+  "reddit:t3_1x7rggy": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "Selling my Sahih Bukhari offline app Android, 19K downloads, ranking #1 in its category on Play Store",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1x7rggy/selling_my_sahih_bukhari_offline_app_android_19k/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
+  "reddit:t3_1x7saz4": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "Im offering 2 SaaS founders a few weeks of free engineering help. Here is why.",
+      "url": "https://www.reddit.com/r/SideProject/comments/1x7saz4/im_offering_2_saas_founders_a_few_weeks_of_free/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
+  "reddit:t3_1x7tsix": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "Looking to sell my SaaS that I barely marketed - 1.7M+ Google impressions, 2,500+ users, $1,880 ARR.",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1x7tsix/looking_to_sell_my_saas_that_i_barely_marketed/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
+  "reddit:t3_1x7upxd": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "Built \"PharaohGuard\" – An Anti-Scam & Tour Guide Marketplace for Egypt (Looking for a buyer / partner)",
+      "url": "https://www.reddit.com/r/SideProject/comments/1x7upxd/built_pharaohguard_an_antiscam_tour_guide/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
+  "reddit:t3_1x7uu11": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/Entrepreneurs",
+      "title": "Built \"PharaohGuard\" – An Anti-Scam & Tour Guide Marketplace for Egypt (Looking for a buyer / partner)",
+      "url": "https://www.reddit.com/r/Entrepreneurs/comments/1x7uu11/built_pharaohguard_an_antiscam_tour_guide/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
+  "reddit:t3_1x7uw40": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/Entrepreneurs",
+      "title": "Built \"PharaohGuard\" – An Anti-Scam & Tour Guide Marketplace for Egypt (Looking for a buyer / partner)",
+      "url": "https://www.reddit.com/r/Entrepreneurs/comments/1x7uw40/built_pharaohguard_an_antiscam_tour_guide/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -4807,6 +5237,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:anonymous-startup-52": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 156000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 13000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": 22000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Anonymous Startup E-commerce",
+      "url": "https://trustmrr.com/startup/anonymous-startup-52"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
   "trustmrr:anonymous-startup-70": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -4928,10 +5410,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 528000.0,
+        "annual_revenue_reported": null,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 44000.0,
+        "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-16",
@@ -4943,14 +5425,14 @@
         "discount_to_target_pct": null,
         "flags": [
           "Profit not verified",
-          "Over asking-price threshold",
+          "Asking price unknown",
           "Profit multiple unavailable",
           "Business age unverified",
           "Revenue verification required",
           "Verify organic acquisition, cohort churn, owner hours, and codebase"
         ],
         "negotiation_candidate": false,
-        "operator_score": 20,
+        "operator_score": 10,
         "payback_months": null,
         "profit_multiple": null,
         "target_offer_high": null,
@@ -4958,7 +5440,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "Boothie: AI Photo Editor Mobile Apps",
+      "title": "41 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
       "url": "https://trustmrr.com/startup/boothie"
     },
     "review_notes": [],
@@ -4988,7 +5470,7 @@
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-16",
-      "latest_price": 600.0,
+      "latest_price": 670.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -5189,10 +5671,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3840.0,
+        "annual_revenue_reported": 3852.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 320.0,
+        "monthly_revenue_reported": 321.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-16",
@@ -5224,6 +5706,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-15"
+  },
+  "trustmrr:clearbar-mac-app": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1464.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 122.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": 2000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "ClearBar Mac App Productivity",
+      "url": "https://trustmrr.com/startup/clearbar-mac-app"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
   },
   "trustmrr:conductor": {
     "created_at": "2026-10-13",
@@ -5588,7 +6122,7 @@
         "monthly_revenue_reported": 13000.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-10-15",
+      "last_seen": "2026-10-16",
       "latest_price": 320000.0,
       "screening": {
         "acquisition_score": 17,
@@ -6031,7 +6565,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $45,913 3 %",
+      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $45,867 3 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -6563,6 +7097,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:shoptok": {
+    "created_at": "2026-10-16",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 46800.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 3900.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-16",
+      "latest_price": 87000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "ShopTok Mobile Apps",
+      "url": "https://trustmrr.com/startup/shoptok"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-16"
+  },
   "trustmrr:sitepeel": {
     "created_at": "2026-10-14",
     "diligence": {
@@ -6579,14 +7165,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1092.0,
+        "annual_revenue_reported": 1212.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 91.0,
+        "monthly_revenue_reported": 101.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-10-15",
-      "latest_price": 2000.0,
+      "last_seen": "2026-10-16",
+      "latest_price": 2500.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -6661,7 +7247,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "30 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
+      "title": "31 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
       "url": "https://trustmrr.com/startup/speel-co"
     },
     "review_notes": [],
@@ -6684,10 +7270,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 14400.0,
+        "annual_revenue_reported": 13200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 1200.0,
+        "monthly_revenue_reported": 1100.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-16",
@@ -6996,10 +7582,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 7128.0,
+        "annual_revenue_reported": 7692.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 594.0,
+        "monthly_revenue_reported": 641.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-16",
@@ -7182,7 +7768,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+      "title": "45 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
       "url": "https://trustmrr.com/startup/vidai-llc"
     },
     "review_notes": [],
