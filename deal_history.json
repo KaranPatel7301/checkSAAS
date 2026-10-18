@@ -4238,6 +4238,194 @@
     "title": "I built an AI Sales Agent SaaS to help agencies and businesses automate calls and lead generation \u2014 Looking for A customer ARR: 25000 $ THIS SAAS ONLY FOR:7000 $",
     "url": "https://www.reddit.com/r/AcquireStartup/comments/1x908nl/i_built_an_ai_sales_agent_saas_to_help_agencies/"
   },
+  "reddit:t3_1x9cd51": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/growmybusiness",
+    "title": "I just launched my first browser game. How would you get your first 100 players?",
+    "url": "https://www.reddit.com/r/growmybusiness/comments/1x9cd51/i_just_launched_my_first_browser_game_how_would/"
+  },
+  "reddit:t3_1x9cto1": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SaaS",
+    "title": "Seeking advice on user acquisition.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1x9cto1/seeking_advice_on_user_acquisition/"
+  },
+  "reddit:t3_1x9enas": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "invoicein.com - invoicing SaaS",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1x9enas/invoiceincom_invoicing_saas/"
+  },
+  "reddit:t3_1x9ffg4": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Selling the SAAS named Seal off making 97$ every month (Asking price 350$)",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1x9ffg4/selling_the_saas_named_seal_off_making_97_every/"
+  },
+  "reddit:t3_1x9gynx": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/EntrepreneurRideAlong",
+    "title": "I got 600K+ views on Reddit without ever mentioning my startup. Need help with what's next.",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1x9gynx/i_got_600k_views_on_reddit_without_ever/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -4327,7 +4515,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-18",
     "prices": [
       {
         "amount": 100000.0,
@@ -4357,6 +4545,47 @@
     "source": "trustmrr",
     "title": "AI Baby Generator SaaS",
     "url": "https://trustmrr.com/startup/aibabygenerator"
+  },
+  "trustmrr:aiwings": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 1320.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 110.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [
+      {
+        "amount": 2000.0,
+        "date": "2026-10-18"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "AiWings Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/aiwings"
   },
   "trustmrr:analyzeinsta": {
     "category": "verify",
@@ -4526,10 +4755,10 @@
   "trustmrr:appfleart": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 2292.0,
+      "annual_revenue_reported": 2232.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 191.0,
+      "monthly_revenue_reported": 186.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-18",
@@ -4537,6 +4766,10 @@
     "prices": [
       {
         "amount": 10000.0,
+        "date": "2026-10-18"
+      },
+      {
+        "amount": 8000.0,
         "date": "2026-10-18"
       }
     ],
@@ -4561,7 +4794,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "FLEART AI Travel",
+    "title": "FLEART AI Artificial Intelligence",
     "url": "https://trustmrr.com/startup/appfleart"
   },
   "trustmrr:betterpose-ai": {
@@ -4826,10 +5059,10 @@
   "trustmrr:clamshell": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 4248.0,
+      "annual_revenue_reported": 4236.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 354.0,
+      "monthly_revenue_reported": 353.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-15",
@@ -4886,6 +5119,10 @@
       },
       {
         "amount": 1500.0,
+        "date": "2026-10-18"
+      },
+      {
+        "amount": 1000.0,
         "date": "2026-10-18"
       }
     ],
@@ -5126,6 +5363,47 @@
     "source": "trustmrr",
     "title": "Embed Notion Pages Productivity",
     "url": "https://trustmrr.com/startup/embed-notion-pages"
+  },
+  "trustmrr:eyi": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 204.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 17.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [
+      {
+        "amount": 900.0,
+        "date": "2026-10-18"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Eyi Mobile Apps",
+    "url": "https://trustmrr.com/startup/eyi"
   },
   "trustmrr:fanpilott": {
     "category": "verify",
@@ -5523,7 +5801,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $45,905 2 %",
+    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,001 2 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -5855,14 +6133,14 @@
   "trustmrr:screenshot-to-code-whimsyworks-inc": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 55200.0,
+      "annual_revenue_reported": 54000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4600.0,
+      "monthly_revenue_reported": 4500.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-18",
     "prices": [
       {
         "amount": 38000.0,
@@ -6273,10 +6551,10 @@
   "trustmrr:thecontentcook": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 30000.0,
+      "annual_revenue_reported": 27600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 2500.0,
+      "monthly_revenue_reported": 2300.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-14",
@@ -6434,6 +6712,47 @@
     "title": "Trailback for Mac & Windows Productivity",
     "url": "https://trustmrr.com/startup/trailback"
   },
+  "trustmrr:tucket": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 8244.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 687.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [
+      {
+        "amount": 7000.0,
+        "date": "2026-10-18"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Tucket Productivity",
+    "url": "https://trustmrr.com/startup/tucket"
+  },
   "trustmrr:uizze": {
     "category": "verify",
     "financials": {
@@ -6587,20 +6906,20 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "28 White Glove Content FOR SALE We provide a subscription-based content producti",
+    "title": "29 White Glove Content FOR SALE We provide a subscription-based content producti",
     "url": "https://trustmrr.com/startup/white-glove-content"
   },
   "trustmrr:zachis-stealth-comp": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 972000.0,
+      "annual_revenue_reported": 960000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 81000.0,
+      "monthly_revenue_reported": 80000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-14",
-    "last_seen": "2026-10-15",
+    "last_seen": "2026-10-18",
     "prices": [
       {
         "amount": 300000.0,
@@ -6631,5 +6950,46 @@
     "source": "trustmrr",
     "title": "Unnamed Company",
     "url": "https://trustmrr.com/startup/zachis-stealth-comp"
+  },
+  "trustmrr:zerogpt-plus": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 36000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 3000.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-18",
+    "last_seen": "2026-10-18",
+    "prices": [
+      {
+        "amount": 150000.0,
+        "date": "2026-10-18"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "ZeroGPT Plus Education",
+    "url": "https://trustmrr.com/startup/zerogpt-plus"
   }
 }
