@@ -45,7 +45,7 @@
         "track": "acquisition"
       },
       "source": "buysellstartups",
-      "title": "06 InterVivo Featured Ai-powered interview prep with realistic practice and pers",
+      "title": "05 InterVivo Featured Ai-powered interview prep with realistic practice and pers",
       "url": "https://buysellstartups.com/listings/intervivo-mosh61m7"
     },
     "review_notes": [],
@@ -151,12 +151,65 @@
         "track": "acquisition"
       },
       "source": "buysellstartups",
-      "title": "05 [Name withheld] Featured Confidential — contact to learn more SaaS ••••",
+      "title": "04 [Name withheld] Featured Confidential — contact to learn more SaaS ••••",
       "url": "https://buysellstartups.com/listings/listing-mospdzrwlepc"
     },
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "bss:listing-motqug9125po": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "buysellstartups",
+      "title": "06 [Name withheld] Featured Confidential — contact to learn more SaaS ••••",
+      "url": "https://buysellstartups.com/listings/listing-motqug9125po"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
   },
   "bss:listing-mphsa6ksktwl": {
     "created_at": "2026-10-13",
@@ -257,7 +310,7 @@
         "track": "acquisition"
       },
       "source": "buysellstartups",
-      "title": "04 Mentioned Featured Influencer outreach & link building on autopilot SaaS Open",
+      "title": "03 Mentioned Featured Influencer outreach & link building on autopilot SaaS Open",
       "url": "https://buysellstartups.com/listings/mentioned-mp18ucm8"
     },
     "review_notes": [],
@@ -310,7 +363,7 @@
         "track": "acquisition"
       },
       "source": "buysellstartups",
-      "title": "03 TurboStarter Featured AI-optimized starter kit for web apps, mobile apps, and",
+      "title": "02 TurboStarter Featured AI-optimized starter kit for web apps, mobile apps, and",
       "url": "https://buysellstartups.com/listings/turbostarter-mp3tu4u1"
     },
     "review_notes": [],
@@ -6313,6 +6366,382 @@
     "status": "new",
     "updated_at": "2026-10-19"
   },
+  "reddit:t3_1xa8ibo": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "Take a look at this!",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1xa8ibo/take_a_look_at_this/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
+  "reddit:t3_1xaaich": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SaaS",
+      "title": "Canadian Tech Sales Reps / GTA Managers: Realistic paths to relocate to Toronto for a Senior B2B SaaS AE?",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xaaich/canadian_tech_sales_reps_gta_managers_realistic/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
+  "reddit:t3_1xaaie5": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SaaS",
+      "title": "Just launched my running app on iOS. Subscription app folks: where would you focus acquisition first?",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xaaie5/just_launched_my_running_app_on_ios_subscription/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
+  "reddit:t3_1xaaix7": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AppBusiness",
+      "title": "Just launched my running app on iOS. Subscription app folks: where would you focus acquisition first?",
+      "url": "https://www.reddit.com/r/AppBusiness/comments/1xaaix7/just_launched_my_running_app_on_ios_subscription/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
+  "reddit:t3_1xaak7b": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SaaS",
+      "title": "You didn't kill SaaS. You just invented a new form of unemployment.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xaak7b/you_didnt_kill_saas_you_just_invented_a_new_form/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
+  "reddit:t3_1xaamde": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "Just launched my running app on iOS. Subscription app folks: where would you focus acquisition first?",
+      "url": "https://www.reddit.com/r/SideProject/comments/1xaamde/just_launched_my_running_app_on_ios_subscription/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
+  "reddit:t3_1xaaz3f": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "[FOR SALE] AgenKit – AI dev toolkit for Claude Code, Cursor and Codex | 135 active subs | $5.8K revenue in 2 months | ~94% margin",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xaaz3f/for_sale_agenkit_ai_dev_toolkit_for_claude_code/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -7113,10 +7542,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 4236.0,
+        "annual_revenue_reported": 4488.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 353.0,
+        "monthly_revenue_reported": 374.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-19",
@@ -7223,7 +7652,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-10-19",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -7856,6 +8285,110 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:gtm-help": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 13200.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 1100.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": 75000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "gtm.help Marketing",
+      "url": "https://trustmrr.com/startup/gtm-help"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
+  "trustmrr:kofe-flow-pomodoro-timer": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 6996.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 583.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": 25000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Kofe Flow: Pomodoro Timer Mobile Apps",
+      "url": "https://trustmrr.com/startup/kofe-flow-pomodoro-timer"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
   "trustmrr:laper": {
     "created_at": "2026-10-16",
     "diligence": {
@@ -7909,6 +8442,58 @@
     "status": "new",
     "updated_at": "2026-10-16"
   },
+  "trustmrr:linkerflow": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 7920.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 660.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": 38000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Linkerflow Marketing",
+      "url": "https://trustmrr.com/startup/linkerflow"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
+  },
   "trustmrr:lista": {
     "created_at": "2026-10-19",
     "diligence": {
@@ -7925,10 +8510,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 10272.0,
+        "annual_revenue_reported": 10380.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 856.0,
+        "monthly_revenue_reported": 865.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-19",
@@ -8163,7 +8748,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $45,979 2 %",
+      "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,017 2 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -8344,14 +8929,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 42000.0,
+        "annual_revenue_reported": 43200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 3500.0,
+        "monthly_revenue_reported": 3600.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-19",
-      "latest_price": 58000.0,
+      "latest_price": 48000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -8555,10 +9140,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1692.0,
+        "annual_revenue_reported": 1716.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 141.0,
+        "monthly_revenue_reported": 143.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-19",
@@ -8659,14 +9244,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 54000.0,
+        "annual_revenue_reported": 55200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 4500.0,
+        "monthly_revenue_reported": 4600.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-19",
-      "latest_price": 38000.0,
+      "latest_price": 32000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -8902,6 +9487,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-14"
+  },
+  "trustmrr:skinmaxx": {
+    "created_at": "2026-10-19",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 6936.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 578.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-19",
+      "latest_price": 17000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Skinmaxx Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/skinmaxx"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-19"
   },
   "trustmrr:speel-co": {
     "created_at": "2026-10-13",
@@ -9180,10 +9817,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 27600.0,
+        "annual_revenue_reported": 26400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2300.0,
+        "monthly_revenue_reported": 2200.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-19",
@@ -9703,10 +10340,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 42000.0,
+        "annual_revenue_reported": 43200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 3500.0,
+        "monthly_revenue_reported": 3600.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-19",
