@@ -894,6 +894,58 @@
     "status": "new",
     "updated_at": "2026-10-20"
   },
+  "microns:ai-habit-tracker-mobile-app": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 71.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": 1000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Habit Tracker Mobile App",
+      "url": "https://www.microns.io/startup-listings/ai-habit-tracker-mobile-app"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
+  },
   "microns:ai-linkedin-outreach-automation-extension": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -997,6 +1049,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "microns:ai-note-taking-platform": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1005.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": 5000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Note-Taking Platform",
+      "url": "https://www.microns.io/startup-listings/ai-note-taking-platform"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
   },
   "microns:ai-powered-book-summaries": {
     "created_at": "2026-10-13",
@@ -1466,6 +1570,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "microns:baby-food-safety-scanner": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 339.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": 1000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Baby Food Safety Scanner",
+      "url": "https://www.microns.io/startup-listings/baby-food-safety-scanner"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
   },
   "microns:breakup-recovery-ios-app": {
     "created_at": "2026-10-13",
@@ -7752,6 +7908,276 @@
     "status": "new",
     "updated_at": "2026-10-21"
   },
+  "reddit:t3_1xc12v4": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "Clipping Business FOR SALE! $350,000 - $400,000 YEARLY! Looking For 2-3x EBITDA EXIT!",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xc12v4/clipping_business_for_sale_350000_400000_yearly/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
+  },
+  "reddit:t3_1xc1i6j": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/microsaas",
+      "title": "8 micro products making $570 to $2,700/month (verified revenue), and the one channel each of them leaned on",
+      "url": "https://www.reddit.com/r/microsaas/comments/1xc1i6j/8_micro_products_making_570_to_2700month_verified/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
+  },
+  "reddit:t3_1xc1nff": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "⁠[For Sale] Turnkey Digital Menu & Ordering Web App for Juice Bars / Cafes (0 Overhead, React + Java) – Open to ANY Reasonable Offer / Best Bid!⁠",
+      "url": "https://www.reddit.com/r/SideProject/comments/1xc1nff/for_sale_turnkey_digital_menu_ordering_web_app/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
+  },
+  "reddit:t3_1xc1ps9": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "⁠[For Sale] Turnkey Digital Menu & Ordering Web App for Juice Bars / Cafes ($0 Overhead, React + Java) – Open to ANY Reasonable Offer / Best Bid!⁠",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xc1ps9/for_sale_turnkey_digital_menu_ordering_web_app/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
+  },
+  "reddit:t3_1xc248g": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AppBusiness",
+      "title": "Launched an offline countdown & widget app on Oct 6: 302 users, $9.79 revenue (4 sales). Is my free tier too generous?",
+      "url": "https://www.reddit.com/r/AppBusiness/comments/1xc248g/launched_an_offline_countdown_widget_app_on_oct_6/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -7804,6 +8230,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "trustmrr:aarivi": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 18000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 1500.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": 22000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Aarivi Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/aarivi"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
   },
   "trustmrr:adtruffle": {
     "created_at": "2026-10-13",
@@ -8605,10 +9083,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 5112.0,
+        "annual_revenue_reported": 5100.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 426.0,
+        "monthly_revenue_reported": 425.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-21",
@@ -9452,6 +9930,58 @@
     "status": "new",
     "updated_at": "2026-10-19"
   },
+  "trustmrr:kaja-ai": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1908.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 159.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": 9900.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Kaja AI Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/kaja-ai"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
+  },
   "trustmrr:kdpbook": {
     "created_at": "2026-10-21",
     "diligence": {
@@ -9468,10 +9998,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 32400.0,
+        "annual_revenue_reported": 33600.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2700.0,
+        "monthly_revenue_reported": 2800.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-21",
@@ -9602,7 +10132,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "46 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+      "title": "47 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
       "url": "https://trustmrr.com/startup/laper"
     },
     "review_notes": [],
@@ -9968,7 +10498,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,161 1 %",
+      "title": "48 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,216 1 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -10201,14 +10731,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 52800.0,
+        "annual_revenue_reported": 57600.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 4400.0,
+        "monthly_revenue_reported": 4800.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-21",
-      "latest_price": 48000.0,
+      "latest_price": 65000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -10620,10 +11150,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3792.0,
+        "annual_revenue_reported": 4164.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 316.0,
+        "monthly_revenue_reported": 347.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-21",
@@ -11037,10 +11567,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 11124.0,
+        "annual_revenue_reported": 11340.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 927.0,
+        "monthly_revenue_reported": 945.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-21",
@@ -11691,7 +12221,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "45 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+      "title": "46 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
       "url": "https://trustmrr.com/startup/vidai-llc"
     },
     "review_notes": [],
@@ -11721,7 +12251,7 @@
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-21",
-      "latest_price": 7500.0,
+      "latest_price": 10000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -11766,10 +12296,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 68400.0,
+        "annual_revenue_reported": 67200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 5700.0,
+        "monthly_revenue_reported": 5600.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-21",
@@ -11907,6 +12437,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-14"
+  },
+  "trustmrr:zerano-club": {
+    "created_at": "2026-10-21",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 43200.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 3600.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-21",
+      "latest_price": 20000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Zerano Club Analytics",
+      "url": "https://trustmrr.com/startup/zerano-club"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-21"
   },
   "trustmrr:zerogpt-plus": {
     "created_at": "2026-10-18",
