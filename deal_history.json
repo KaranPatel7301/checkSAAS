@@ -927,6 +927,47 @@
     "title": "AI Note-Taking Platform",
     "url": "https://www.microns.io/startup-listings/ai-note-taking-platform"
   },
+  "microns:ai-powered-archaeological-lidar-analysis-tool": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2900.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [
+      {
+        "amount": 7500.0,
+        "date": "2026-10-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI-Powered Archaeological LiDAR Analysis Tool",
+    "url": "https://www.microns.io/startup-listings/ai-powered-archaeological-lidar-analysis-tool"
+  },
   "microns:ai-powered-book-summaries": {
     "category": "verify",
     "financials": {
@@ -6171,6 +6212,156 @@
     "title": "2 B2B SaaS SEO Agencies for 2026, Ranked by Specialty Fit and What They Report On",
     "url": "https://www.reddit.com/r/SaaS/comments/1xceda6/2_b2b_saas_seo_agencies_for_2026_ranked_by/"
   },
+  "reddit:t3_1xctntz": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/Entrepreneurs",
+    "title": "Founding Technical Partner / Potential CTO \u2014 Industry-Specific B2B SaaS | 5\u201310% Equity Discussion",
+    "url": "https://www.reddit.com/r/Entrepreneurs/comments/1xctntz/founding_technical_partner_potential_cto/"
+  },
+  "reddit:t3_1xcu4og": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "SELLING YT CHANNEL WITH 14.5K SUBS. FOOTBALL NICHE.",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xcu4og/selling_yt_channel_with_145k_subs_football_niche/"
+  },
+  "reddit:t3_1xcuky0": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Currency converter app for sale",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xcuky0/currency_converter_app_for_sale/"
+  },
+  "reddit:t3_1xcwgd6": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "YouTube Channel with 390K Subscribers Nicolas125-h6n",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xcwgd6/youtube_channel_with_390k_subscribers/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -6211,10 +6402,10 @@
   "trustmrr:aarivi": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 18000.0,
+      "annual_revenue_reported": 20400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1500.0,
+      "monthly_revenue_reported": 1700.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-21",
@@ -7360,6 +7551,47 @@
     "title": "Eyi Mobile Apps",
     "url": "https://trustmrr.com/startup/eyi"
   },
+  "trustmrr:fairmoney-loan-debt-tracker": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 1164.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 97.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [
+      {
+        "amount": 5000.0,
+        "date": "2026-10-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Fairmoney: Loan & Debt Tracker Fintech",
+    "url": "https://trustmrr.com/startup/fairmoney-loan-debt-tracker"
+  },
   "trustmrr:fanpilott": {
     "category": "verify",
     "financials": {
@@ -7644,13 +7876,54 @@
     "title": "gtm.help Marketing",
     "url": "https://trustmrr.com/startup/gtm-help"
   },
+  "trustmrr:hidden-business-59": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 60000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 5000.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [
+      {
+        "amount": 180000.0,
+        "date": "2026-10-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 22,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Hidden Business Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/hidden-business-59"
+  },
   "trustmrr:incoming-call": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 33600.0,
+      "annual_revenue_reported": 34800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 2800.0,
+      "monthly_revenue_reported": 2900.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-22",
@@ -7729,10 +8002,10 @@
   "trustmrr:kaja-ai": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 1908.0,
+      "annual_revenue_reported": 2028.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 159.0,
+      "monthly_revenue_reported": 169.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-21",
@@ -7741,6 +8014,10 @@
       {
         "amount": 9900.0,
         "date": "2026-10-21"
+      },
+      {
+        "amount": 9000.0,
+        "date": "2026-10-22"
       }
     ],
     "screening": {
@@ -7883,7 +8160,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "47 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:linkerflow": {
@@ -8171,7 +8448,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "48 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,220 1 %",
+    "title": "48 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,238 1 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -8292,6 +8569,47 @@
     "source": "trustmrr",
     "title": "PinPoint Mobile Apps",
     "url": "https://trustmrr.com/startup/pinpoint"
+  },
+  "trustmrr:preloved-ai": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 42000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 3500.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [
+      {
+        "amount": 185000.0,
+        "date": "2026-10-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 22,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "PreLoved AI Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/preloved-ai"
   },
   "trustmrr:private-enterprise-76": {
     "category": "verify",
@@ -9508,6 +9826,47 @@
     "title": "Uizze Design Tools",
     "url": "https://trustmrr.com/startup/uizze"
   },
+  "trustmrr:veloris-llc": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 28800.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 2400.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-22",
+    "last_seen": "2026-10-22",
+    "prices": [
+      {
+        "amount": 50000.0,
+        "date": "2026-10-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Agent Media Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/veloris-llc"
+  },
   "trustmrr:vidai-llc": {
     "category": "verify",
     "financials": {
@@ -9542,7 +9901,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "47 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+    "title": "46 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
   },
   "trustmrr:walldecor-io": {
@@ -9593,14 +9952,14 @@
   "trustmrr:wave": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 67200.0,
+      "annual_revenue_reported": 68400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 5600.0,
+      "monthly_revenue_reported": 5700.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-20",
-    "last_seen": "2026-10-21",
+    "last_seen": "2026-10-22",
     "prices": [
       {
         "amount": 75000.0,
@@ -9754,10 +10113,10 @@
   "trustmrr:zerogpt-plus": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 51600.0,
+      "annual_revenue_reported": 52800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4300.0,
+      "monthly_revenue_reported": 4400.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-18",

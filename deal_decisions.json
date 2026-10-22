@@ -1207,6 +1207,58 @@
     "status": "new",
     "updated_at": "2026-10-21"
   },
+  "microns:ai-powered-archaeological-lidar-analysis-tool": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 2900.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": 7500.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI-Powered Archaeological LiDAR Analysis Tool",
+      "url": "https://www.microns.io/startup-listings/ai-powered-archaeological-lidar-analysis-tool"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
   "microns:ai-powered-book-summaries": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -8603,6 +8655,220 @@
     "status": "new",
     "updated_at": "2026-10-22"
   },
+  "reddit:t3_1xctntz": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/Entrepreneurs",
+      "title": "Founding Technical Partner / Potential CTO — Industry-Specific B2B SaaS | 5–10% Equity Discussion",
+      "url": "https://www.reddit.com/r/Entrepreneurs/comments/1xctntz/founding_technical_partner_potential_cto/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
+  "reddit:t3_1xcu4og": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "SELLING YT CHANNEL WITH 14.5K SUBS. FOOTBALL NICHE.",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1xcu4og/selling_yt_channel_with_145k_subs_football_niche/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
+  "reddit:t3_1xcuky0": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "Currency converter app for sale",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xcuky0/currency_converter_app_for_sale/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
+  "reddit:t3_1xcwgd6": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "YouTube Channel with 390K Subscribers Nicolas125-h6n",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1xcwgd6/youtube_channel_with_390k_subscribers/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -8672,10 +8938,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 18000.0,
+        "annual_revenue_reported": 20400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 1500.0,
+        "monthly_revenue_reported": 1700.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-22",
@@ -10093,6 +10359,58 @@
     "status": "new",
     "updated_at": "2026-10-18"
   },
+  "trustmrr:fairmoney-loan-debt-tracker": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1164.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 97.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": 5000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Fairmoney: Loan & Debt Tracker Fintech",
+      "url": "https://trustmrr.com/startup/fairmoney-loan-debt-tracker"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
   "trustmrr:fanpilott": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -10459,6 +10777,58 @@
     "status": "new",
     "updated_at": "2026-10-19"
   },
+  "trustmrr:hidden-business-59": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 60000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 5000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": 180000.0,
+      "screening": {
+        "acquisition_score": 22,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Hidden Business Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/hidden-business-59"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
   "trustmrr:incoming-call": {
     "created_at": "2026-10-22",
     "diligence": {
@@ -10475,10 +10845,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 33600.0,
+        "annual_revenue_reported": 34800.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2800.0,
+        "monthly_revenue_reported": 2900.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-22",
@@ -10579,14 +10949,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1908.0,
+        "annual_revenue_reported": 2028.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 159.0,
+        "monthly_revenue_reported": 169.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-22",
-      "latest_price": 9900.0,
+      "latest_price": 9000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -10765,7 +11135,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "46 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+      "title": "47 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
       "url": "https://trustmrr.com/startup/laper"
     },
     "review_notes": [],
@@ -11131,7 +11501,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "48 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,220 1 %",
+      "title": "48 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,238 1 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -11294,6 +11664,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "trustmrr:preloved-ai": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 42000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 3500.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": 185000.0,
+      "screening": {
+        "acquisition_score": 22,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "PreLoved AI Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/preloved-ai"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
   },
   "trustmrr:private-enterprise-76": {
     "created_at": "2026-10-13",
@@ -12808,6 +13230,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:veloris-llc": {
+    "created_at": "2026-10-22",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 28800.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 2400.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-22",
+      "latest_price": 50000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Agent Media Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/veloris-llc"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-22"
+  },
   "trustmrr:vidai-llc": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -12854,7 +13328,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "47 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+      "title": "46 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
       "url": "https://trustmrr.com/startup/vidai-llc"
     },
     "review_notes": [],
@@ -12929,13 +13403,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 67200.0,
+        "annual_revenue_reported": 68400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 5600.0,
+        "monthly_revenue_reported": 5700.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-10-21",
+      "last_seen": "2026-10-22",
       "latest_price": 75000.0,
       "screening": {
         "acquisition_score": 27,
@@ -13139,10 +13613,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 51600.0,
+        "annual_revenue_reported": 52800.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 4300.0,
+        "monthly_revenue_reported": 4400.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-22",
