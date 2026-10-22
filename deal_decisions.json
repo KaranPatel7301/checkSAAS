@@ -544,7 +544,7 @@
       "stripe_exports": false,
       "transferability": false
     },
-    "evidence_grade": "unverified",
+    "evidence_grade": "broker_reported",
     "listing": {
       "category": "qualified",
       "financials": {
@@ -579,9 +579,17 @@
       "title": "Business — Subscription, SaaS",
       "url": "https://empireflippers.com/listing/91852/"
     },
-    "review_notes": [],
+    "review_notes": [
+      {
+        "at": "2026-10-21T13:04:30Z",
+        "evidence": "broker_reported",
+        "note": "Material broker update versus the 2026-10-20 snapshot: reported monthly net profit fell from $5,613.67 (annual $67,364) to $4,709.58 (annual $56,515) while the ask moved from $188,619 (price dated 2026-10-12) to $186,500 (price dated 2026-10-21). Both profit figures are already normalized from Empire Flippers' annual card amounts. Annualized net profit is $56,515. The ask is about 3.30× that profit (previously about 2.80×) and about 39.6 months of reported profit. Preliminary negotiation range is 1.5–2.5× annual net profit, $84,772–$141,288, about 24.2% under the ask. This is not an offer. https://empireflippers.com/listing/91852/ is titled Business — Subscription, SaaS and still clears the $3,000 monthly profit preference, so a high ask is a negotiation point. Reported monthly revenue fell from $20,343.17 to $18,533.42. Reported profit is about 25.4% of reported revenue, previously about 27.6%. The buyer has not verified these figures; the broker revenue-verified flag is false. Unknown: business age, organic versus paid acquisition, M1/M6/M12 retention, owner hours, customer concentration, billing transfer, platform or policy dependence, maintenance burden, and vendor transfer. The public niche is only Business, so essential B2B use is unproven. Ask for the cause of the profit drop (churn, expense, one-time item, or trailing-average roll-off), Stripe or processor exports with expense detail, cohort retention, acquisition mix and top-customer share, owner hours, the codebase and account transfer list, and business age. Last seen 2026-10-21; heartbeat 2026-10-21T11:16:59Z.",
+        "type": "review",
+        "verdict": "NEGOTIATE"
+      }
+    ],
     "status": "new",
-    "updated_at": "2026-10-13"
+    "updated_at": "2026-10-21T13:04:30Z"
   },
   "ef:95446": {
     "created_at": "2026-10-13",
