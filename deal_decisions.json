@@ -1623,6 +1623,162 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "microns:ai-search-visibility-audit-optimization-tool": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 600.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 4999.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Search Visibility Audit & Optimization Tool",
+      "url": "https://www.microns.io/startup-listings/ai-search-visibility-audit-optimization-tool"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "microns:ai-song-maker-ios-app": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 2451.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 8200.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Song Maker iOS App",
+      "url": "https://www.microns.io/startup-listings/ai-song-maker-ios-app"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "microns:ai-voice-to-text-transcription-app": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1818.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 2900.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Voice to Text Transcription App",
+      "url": "https://www.microns.io/startup-listings/ai-voice-to-text-transcription-app"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
   "microns:ai-writing-assistant": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -2042,6 +2198,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "microns:fragrance-marketplace": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 900.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 2500.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Fragrance Marketplace",
+      "url": "https://www.microns.io/startup-listings/fragrance-marketplace"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
   "microns:gallery-cleanup-ios-app": {
     "created_at": "2026-10-15",
     "diligence": {
@@ -2303,6 +2511,110 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "microns:newsletter-about-finances": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 20000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Newsletter about Finances",
+      "url": "https://www.microns.io/startup-listings/newsletter-about-finances"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "microns:newsletter-for-dog-owners": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 350.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 15000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Newsletter for Dog Owners",
+      "url": "https://www.microns.io/startup-listings/newsletter-for-dog-owners"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
   "microns:old-photo-restore-ios-app": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -2355,6 +2667,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "microns:online-form-builder": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 80705.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 182000.0,
+      "screening": {
+        "acquisition_score": 22,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Online Form Builder",
+      "url": "https://www.microns.io/startup-listings/online-form-builder"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
   },
   "microns:online-store-with-nfc-cards": {
     "created_at": "2026-10-13",
@@ -2720,6 +3084,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "microns:travel-ecosystem": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 2021.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 10900.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Travel Ecosystem",
+      "url": "https://www.microns.io/startup-listings/travel-ecosystem"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
   },
   "microns:video-translator-ios-app": {
     "created_at": "2026-10-21",
@@ -9192,6 +9608,276 @@
     "status": "new",
     "updated_at": "2026-10-23"
   },
+  "reddit:t3_1xdo7x1": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "[For Sale / Seeking Investor] 2-sided marketplace solving Google Play's 12-tester rule: $580 revenue, $0 ads, no launch yet",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xdo7x1/for_sale_seeking_investor_2sided_marketplace/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "reddit:t3_1xdo90h": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "Subucha lets you study a language in a little less boring way",
+      "url": "https://www.reddit.com/r/SideProject/comments/1xdo90h/subucha_lets_you_study_a_language_in_a_little/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "reddit:t3_1xdpvzk": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "I can build software. But getting people to pay for it? That's a different story.",
+      "url": "https://www.reddit.com/r/SideProject/comments/1xdpvzk/i_can_build_software_but_getting_people_to_pay/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "reddit:t3_1xdqb0o": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/EntrepreneurRideAlong",
+      "title": "Apathy towards business and people. Is there any low cortisol business ideas?",
+      "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xdqb0o/apathy_towards_business_and_people_is_there_any/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "reddit:t3_1xdrxbu": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "I made three free paper games alongside my kids’ browser game. The hard part is what happens after the download.",
+      "url": "https://www.reddit.com/r/SideProject/comments/1xdrxbu/i_made_three_free_paper_games_alongside_my_kids/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -9261,10 +9947,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 20400.0,
+        "annual_revenue_reported": 21600.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 1700.0,
+        "monthly_revenue_reported": 1800.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-23",
@@ -9296,6 +9982,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-21"
+  },
+  "trustmrr:admitscore": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 4560.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 380.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 15000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "AdmitOdds - AI College Admissions Platform Education",
+      "url": "https://trustmrr.com/startup/admitscore"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
   },
   "trustmrr:adtruffle": {
     "created_at": "2026-10-13",
@@ -9731,10 +10469,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 420000.0,
+        "annual_revenue_reported": 432000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 35000.0,
+        "monthly_revenue_reported": 36000.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-23",
@@ -10335,7 +11073,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "50 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+      "title": "49 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
       "url": "https://trustmrr.com/startup/conductor"
     },
     "review_notes": [],
@@ -11464,6 +12202,58 @@
     "status": "new",
     "updated_at": "2026-10-21"
   },
+  "trustmrr:knightvision": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 408000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 34000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 250000.0,
+      "screening": {
+        "acquisition_score": 22,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Knightvision Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/knightvision"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
   "trustmrr:kofe-flow-pomodoro-timer": {
     "created_at": "2026-10-19",
     "diligence": {
@@ -11569,6 +12359,58 @@
     "status": "new",
     "updated_at": "2026-10-16"
   },
+  "trustmrr:lapsula": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 14400.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 1200.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 65000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Lapsula Health & Fitness",
+      "url": "https://trustmrr.com/startup/lapsula"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
   "trustmrr:linkerflow": {
     "created_at": "2026-10-19",
     "diligence": {
@@ -11637,10 +12479,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 10776.0,
+        "annual_revenue_reported": 10884.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 898.0,
+        "monthly_revenue_reported": 907.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-23",
@@ -11928,7 +12770,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,277 1 %",
+      "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,312 1 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -11987,6 +12829,110 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "trustmrr:pageturner": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 4188.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 349.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 10000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Pageturner Entertainment",
+      "url": "https://trustmrr.com/startup/pageturner"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "trustmrr:papercode": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1944.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 162.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 5000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "PaperCode Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/papercode"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
   },
   "trustmrr:pidgeon": {
     "created_at": "2026-10-20",
@@ -12196,6 +13142,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "trustmrr:private-enterprise-78": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 1452.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 121.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 2700.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "L Lie Dedector",
+      "url": "https://trustmrr.com/startup/private-enterprise-78"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
   },
   "trustmrr:private-venture-86": {
     "created_at": "2026-10-15",
@@ -13033,6 +14031,111 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:stampsnap": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 7020.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 585.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 17000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "StampSnap Mobile Apps",
+      "url": "https://trustmrr.com/startup/stampsnap"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
+  "trustmrr:startup-08db11993c57": {
+    "created_at": "2026-10-23",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 3396000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 283000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-10-23",
+      "latest_price": 12000000.0,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Over asking-price threshold",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Unnamed Company Games",
+      "url": "https://trustmrr.com/startup/startup-08db11993c57"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-10-23"
+  },
   "trustmrr:startup-317809acec3d": {
     "created_at": "2026-10-23",
     "diligence": {
@@ -13257,13 +14360,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 27600.0,
+        "annual_revenue_reported": 31200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2300.0,
+        "monthly_revenue_reported": 2600.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-10-20",
+      "last_seen": "2026-10-23",
       "latest_price": 75000.0,
       "screening": {
         "acquisition_score": 27,
@@ -13725,10 +14828,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 28800.0,
+        "annual_revenue_reported": 30000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2400.0,
+        "monthly_revenue_reported": 2500.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-23",
@@ -14040,10 +15143,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 42000.0,
+        "annual_revenue_reported": 40800.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 3500.0,
+        "monthly_revenue_reported": 3400.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-10-23",
