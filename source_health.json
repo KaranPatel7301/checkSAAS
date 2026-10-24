@@ -1,51 +1,51 @@
 {
   "Acquire": {
-    "consecutive_zeros": 27,
-    "last_checked": "2026-10-24T11:14:17.121970+00:00",
+    "consecutive_zeros": 28,
+    "last_checked": "2026-10-24T23:13:46.951097+00:00",
     "last_nonzero": null,
     "last_parsed_count": 0,
     "status": "suspected_failure"
   },
   "Buy Sell Startups": {
     "consecutive_zeros": 0,
-    "last_checked": "2026-10-24T11:14:17.121970+00:00",
-    "last_nonzero": "2026-10-24T11:14:17.121970+00:00",
+    "last_checked": "2026-10-24T23:13:46.951097+00:00",
+    "last_nonzero": "2026-10-24T23:13:46.951097+00:00",
     "last_parsed_count": 6,
     "status": "parsed"
   },
   "Empire Flippers": {
     "consecutive_zeros": 0,
-    "last_checked": "2026-10-24T11:14:17.121970+00:00",
-    "last_nonzero": "2026-10-24T11:14:17.121970+00:00",
+    "last_checked": "2026-10-24T23:13:46.951097+00:00",
+    "last_nonzero": "2026-10-24T23:13:46.951097+00:00",
     "last_parsed_count": 6,
     "status": "parsed"
   },
   "Flippa": {
-    "consecutive_zeros": 27,
-    "last_checked": "2026-10-24T11:14:17.121970+00:00",
+    "consecutive_zeros": 28,
+    "last_checked": "2026-10-24T23:13:46.951097+00:00",
     "last_nonzero": null,
     "last_parsed_count": 0,
     "status": "suspected_failure"
   },
   "Microns": {
     "consecutive_zeros": 0,
-    "last_checked": "2026-10-24T11:14:17.121970+00:00",
-    "last_nonzero": "2026-10-24T11:14:17.121970+00:00",
+    "last_checked": "2026-10-24T23:13:46.951097+00:00",
+    "last_nonzero": "2026-10-24T23:13:46.951097+00:00",
     "last_parsed_count": 20,
     "status": "parsed"
   },
   "Reddit": {
     "consecutive_zeros": 0,
-    "last_checked": "2026-10-24T11:14:17.121970+00:00",
-    "last_nonzero": "2026-10-24T11:14:17.121970+00:00",
-    "last_parsed_count": 6,
+    "last_checked": "2026-10-24T23:13:46.951097+00:00",
+    "last_nonzero": "2026-10-24T23:13:46.951097+00:00",
+    "last_parsed_count": 2,
     "status": "parsed"
   },
   "TrustMRR": {
     "consecutive_zeros": 0,
-    "last_checked": "2026-10-24T11:14:17.121970+00:00",
-    "last_nonzero": "2026-10-24T11:14:17.121970+00:00",
-    "last_parsed_count": 30,
+    "last_checked": "2026-10-24T23:13:46.951097+00:00",
+    "last_nonzero": "2026-10-24T23:13:46.951097+00:00",
+    "last_parsed_count": 29,
     "status": "parsed"
   }
 }
