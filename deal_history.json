@@ -1866,6 +1866,47 @@
     "title": "All-in-One Screen Recording & Video Editing Tool",
     "url": "https://www.microns.io/startup-listings/all-in-one-screen-recording-video-editing-tool"
   },
+  "microns:alternative-jewellery-brand": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 3000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 120000.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Alternative Jewellery Brand",
+    "url": "https://www.microns.io/startup-listings/alternative-jewellery-brand"
+  },
   "microns:baby-food-safety-scanner": {
     "category": "verify",
     "financials": {
@@ -2870,6 +2911,47 @@
     "source": "microns",
     "title": "Star Wars Board Game App",
     "url": "https://www.microns.io/startup-listings/star-wars-board-game-app"
+  },
+  "microns:stripe-automated-invoicing-integration": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 8600.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 25800.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Stripe Automated Invoicing Integration",
+    "url": "https://www.microns.io/startup-listings/stripe-automated-invoicing-integration"
   },
   "microns:trading-platform-infrastructure": {
     "category": "verify",
@@ -9535,6 +9617,159 @@
     "title": "Selling my iOS apps !",
     "url": "https://www.reddit.com/r/AppBusiness/comments/1xgpdrd/selling_my_ios_apps/"
   },
+  "reddit:t3_1xh3bwn": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase",
+        "Potential operator constraint: growth partner"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 25,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "My Mobile App Made 11 sales within 48 hours before even launching on the App Store. Now I\u2019m in a need of investor to grow.",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1xh3bwn/my_mobile_app_made_11_sales_within_48_hours/"
+  },
+  "reddit:t3_1xh4c5h": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/Flipping",
+    "title": "Account suspended from ebay for \"raising serious security concerns\" - the only thing I did was buy an item",
+    "url": "https://www.reddit.com/r/Flipping/comments/1xh4c5h/account_suspended_from_ebay_for_raising_serious/"
+  },
+  "reddit:t3_1xh6306": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SideProject",
+    "title": "I built an AI stock research tool that runs 5 classic value-investing frameworks on any US stock. Would you actually use it?",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xh6306/i_built_an_ai_stock_research_tool_that_runs_5/"
+  },
+  "reddit:t3_1xh6goi": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/Entrepreneurs",
+    "title": "Building a Cash-Flow-First Business Together",
+    "url": "https://www.reddit.com/r/Entrepreneurs/comments/1xh6goi/building_a_cashflowfirst_business_together/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -9575,10 +9810,10 @@
   "trustmrr:aarivi": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 22800.0,
+      "annual_revenue_reported": 24000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1900.0,
+      "monthly_revenue_reported": 2000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-21",
@@ -9595,6 +9830,10 @@
       {
         "amount": 11000.0,
         "date": "2026-10-25"
+      },
+      {
+        "amount": 25000.0,
+        "date": "2026-10-27"
       }
     ],
     "screening": {
@@ -9748,6 +9987,47 @@
     "source": "trustmrr",
     "title": "AI Clothes Changer: FitIn",
     "url": "https://trustmrr.com/startup/ai-clothes-changer"
+  },
+  "trustmrr:ai-lip-sync": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 9648.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 804.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 18000.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "LipsyncX Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/ai-lip-sync"
   },
   "trustmrr:aibabygenerator": {
     "category": "verify",
@@ -9999,10 +10279,10 @@
   "trustmrr:anonymous-startup-74": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 420000.0,
+      "annual_revenue_reported": 432000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 35000.0,
+      "monthly_revenue_reported": 36000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-21",
@@ -11437,10 +11717,10 @@
   "trustmrr:hidden-business-86": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 168000.0,
+      "annual_revenue_reported": 156000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 14000.0,
+      "monthly_revenue_reported": 13000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-26",
@@ -11730,10 +12010,10 @@
   "trustmrr:knightvision": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 420000.0,
+      "annual_revenue_reported": 408000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 35000.0,
+      "monthly_revenue_reported": 34000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-23",
@@ -11884,7 +12164,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "44 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "45 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -12137,6 +12417,47 @@
     "title": "Mazo - Your AI GTM advisor Artificial Intelligence",
     "url": "https://trustmrr.com/startup/mazo"
   },
+  "trustmrr:my-ex": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 13200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1100.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 23000.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "MyEx Mobile Apps",
+    "url": "https://trustmrr.com/startup/my-ex"
+  },
   "trustmrr:notfair": {
     "category": "verify",
     "financials": {
@@ -12254,7 +12575,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "48 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,433 0 %",
+    "title": "48 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,475 0 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -12623,6 +12944,47 @@
     "title": "L Lie Dedector",
     "url": "https://trustmrr.com/startup/private-enterprise-78"
   },
+  "trustmrr:private-venture-72": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 7620.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 635.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 3000.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Private Venture",
+    "url": "https://trustmrr.com/startup/private-venture-72"
+  },
   "trustmrr:private-venture-73": {
     "category": "verify",
     "financials": {
@@ -12752,7 +13114,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "30 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
+    "title": "31 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
     "url": "https://trustmrr.com/startup/project-a"
   },
   "trustmrr:prosp": {
@@ -12877,6 +13239,88 @@
     "source": "trustmrr",
     "title": "Refs Content Creation",
     "url": "https://trustmrr.com/startup/refs"
+  },
+  "trustmrr:reply-current": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2700.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 225.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 1800.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "ReplyCurrent SaaS",
+    "url": "https://trustmrr.com/startup/reply-current"
+  },
+  "trustmrr:revlab": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 7200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 600.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "RevLab - Engine Simulator Entertainment",
+    "url": "https://trustmrr.com/startup/revlab"
   },
   "trustmrr:run-lap-tap": {
     "category": "verify",
@@ -13632,10 +14076,10 @@
   "trustmrr:static-run": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 3144.0,
+      "annual_revenue_reported": 3084.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 262.0,
+      "monthly_revenue_reported": 257.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-27",
@@ -14125,13 +14569,55 @@
     "title": "Uizze Design Tools",
     "url": "https://trustmrr.com/startup/uizze"
   },
+  "trustmrr:unnamed-company-62": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 648000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 54000.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-27",
+    "last_seen": "2026-10-27",
+    "prices": [
+      {
+        "amount": 1200000.0,
+        "date": "2026-10-27"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Unnamed Company",
+    "url": "https://trustmrr.com/startup/unnamed-company-62"
+  },
   "trustmrr:veloris-llc": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 33600.0,
+      "annual_revenue_reported": 34800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 2800.0,
+      "monthly_revenue_reported": 2900.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-22",
@@ -14200,7 +14686,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "47 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+    "title": "46 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
   },
   "trustmrr:volumebooster": {
