@@ -402,13 +402,17 @@
       {
         "amount": 1611965.0,
         "date": "2026-10-14"
+      },
+      {
+        "amount": 1899156.0,
+        "date": "2026-10-29"
       }
     ],
     "screening": {
       "acquisition_score": 37,
-      "annual_cash_yield": 0.3448275862068966,
+      "annual_cash_yield": 0.29268264429041113,
       "confidence": "medium",
-      "discount_to_target_pct": 13.8,
+      "discount_to_target_pct": 26.8,
       "flags": [
         "Over asking-price threshold",
         "Above 2.5x annual profit",
@@ -418,8 +422,8 @@
       ],
       "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 34.8,
-      "profit_multiple": 2.9,
+      "payback_months": 41.00003957902312,
+      "profit_multiple": 3.416669964918593,
       "target_offer_high": 1389625,
       "target_offer_low": 833775,
       "track": "acquisition"
@@ -552,6 +556,47 @@
     "source": "empireflippers",
     "title": "Business, Advertising, Digital Media \u2014 SaaS",
     "url": "https://empireflippers.com/listing/96756/"
+  },
+  "microns:83-app-portfolio": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 1088.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 100000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "83-App Portfolio",
+    "url": "https://www.microns.io/startup-listings/83-app-portfolio"
   },
   "microns:ai-ads-studio-for-e-commerce": {
     "category": "verify",
@@ -2349,6 +2394,47 @@
     "source": "microns",
     "title": "GitHub Profile & Portfolio Builder",
     "url": "https://www.microns.io/startup-listings/github-profile-portfolio-builder"
+  },
+  "microns:instant-teeth-whitening-beauty-brand": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 26478.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 34000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Instant Teeth Whitening Beauty Brand",
+    "url": "https://www.microns.io/startup-listings/instant-teeth-whitening-beauty-brand"
   },
   "microns:language-learning-platform": {
     "category": "verify",
@@ -10433,6 +10519,44 @@
     "title": "Oni mask for sale japanese decor \u20b91499",
     "url": "https://www.reddit.com/r/AcquireStartup/comments/1xif6yl/oni_mask_for_sale_japanese_decor_1499/"
   },
+  "reddit:t3_1xiy8jg": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "Vendo canal",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xiy8jg/vendo_canal/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -10654,10 +10778,10 @@
   "trustmrr:ai-lip-sync": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 10080.0,
+      "annual_revenue_reported": 10488.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 840.0,
+      "monthly_revenue_reported": 874.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-27",
@@ -11030,6 +11154,47 @@
     "title": "FLEART AI Artificial Intelligence",
     "url": "https://trustmrr.com/startup/appfleart"
   },
+  "trustmrr:appxpose": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2112.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 176.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 12000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "AppXpose Security",
+    "url": "https://trustmrr.com/startup/appxpose"
+  },
   "trustmrr:arclify": {
     "category": "verify",
     "financials": {
@@ -11194,6 +11359,47 @@
     "source": "trustmrr",
     "title": "40 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
+  },
+  "trustmrr:btfind-bluetooth-finder": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 11028.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 919.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 20000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "BTFind: Bluetooth Finder Mobile Apps",
+    "url": "https://trustmrr.com/startup/btfind-bluetooth-finder"
   },
   "trustmrr:buildnotch": {
     "category": "verify",
@@ -12665,6 +12871,47 @@
     "title": "Heardly Marketing",
     "url": "https://trustmrr.com/startup/heardly"
   },
+  "trustmrr:hidden-business-58": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 5976.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 498.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 10000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Hidden Business Mobile Apps",
+    "url": "https://trustmrr.com/startup/hidden-business-58"
+  },
   "trustmrr:hidden-business-59": {
     "category": "verify",
     "financials": {
@@ -13289,10 +13536,10 @@
   "trustmrr:linkpost": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 51600.0,
+      "annual_revenue_reported": 48000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4300.0,
+      "monthly_revenue_reported": 4000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -13608,7 +13855,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,513 0 %",
+    "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,562 0 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -13733,18 +13980,22 @@
   "trustmrr:pdf-vault": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 97200.0,
+      "annual_revenue_reported": 117600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 8100.0,
+      "monthly_revenue_reported": 9800.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-25",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-29",
     "prices": [
       {
         "amount": 150000.0,
         "date": "2026-10-25"
+      },
+      {
+        "amount": 120000.0,
+        "date": "2026-10-29"
       }
     ],
     "screening": {
@@ -14187,6 +14438,47 @@
     "title": "17 PROSP FOR SALE Automate your LinkedIn Outreach with AI Yann | Prosp.ai $128,0",
     "url": "https://trustmrr.com/startup/prosp"
   },
+  "trustmrr:recently-followed-ig-tracker": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 14400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1200.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Recently Followed: IG Tracker",
+    "url": "https://trustmrr.com/startup/recently-followed-ig-tracker"
+  },
   "trustmrr:reelyze": {
     "category": "verify",
     "financials": {
@@ -14328,7 +14620,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-27",
-    "last_seen": "2026-10-28",
+    "last_seen": "2026-10-29",
     "prices": [
       {
         "amount": 1800.0,
@@ -14915,14 +15207,14 @@
   "trustmrr:social-genius-text-analyzer": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 11136.0,
+      "annual_revenue_reported": 12000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 928.0,
+      "monthly_revenue_reported": 1000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-27",
+    "last_seen": "2026-10-29",
     "prices": [
       {
         "amount": 25000.0,
@@ -15240,10 +15532,10 @@
   "trustmrr:stealth-company-87": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 360000.0,
+      "annual_revenue_reported": 348000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 30000.0,
+      "monthly_revenue_reported": 29000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -15326,10 +15618,10 @@
   "trustmrr:store-stock-checker": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 192000.0,
+      "annual_revenue_reported": 204000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 16000.0,
+      "monthly_revenue_reported": 17000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -15405,6 +15697,47 @@
     "title": "StoryTok Artificial Intelligence",
     "url": "https://trustmrr.com/startup/storytok"
   },
+  "trustmrr:stud-finder-wall-detector-tool": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 64800.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 5400.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 130000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Stud Finder Wall Detector Tool Mobile Apps",
+    "url": "https://trustmrr.com/startup/stud-finder-wall-detector-tool"
+  },
   "trustmrr:supascribe": {
     "category": "verify",
     "financials": {
@@ -15445,6 +15778,47 @@
     "source": "trustmrr",
     "title": "Supascribe Marketing",
     "url": "https://trustmrr.com/startup/supascribe"
+  },
+  "trustmrr:super": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 15600.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1300.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 20000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Super Productivity",
+    "url": "https://trustmrr.com/startup/super"
   },
   "trustmrr:teleprompter": {
     "category": "verify",
@@ -15777,10 +16151,10 @@
   "trustmrr:unnamed-company-62": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 648000.0,
+      "annual_revenue_reported": 636000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 54000.0,
+      "monthly_revenue_reported": 53000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-27",
@@ -15897,10 +16271,10 @@
   "trustmrr:volumebooster": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 5316.0,
+      "annual_revenue_reported": 5328.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 443.0,
+      "monthly_revenue_reported": 444.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-26",
@@ -15934,6 +16308,47 @@
     "source": "trustmrr",
     "title": "Volume Booster: Louder Sound Productivity",
     "url": "https://trustmrr.com/startup/volumebooster"
+  },
+  "trustmrr:vtc-facile": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 15600.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1300.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-29",
+    "last_seen": "2026-10-29",
+    "prices": [
+      {
+        "amount": 18000.0,
+        "date": "2026-10-29"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "VTC Facile Mobile Apps",
+    "url": "https://trustmrr.com/startup/vtc-facile"
   },
   "trustmrr:walldecor-io": {
     "category": "verify",
