@@ -680,6 +680,47 @@
     "title": "AI Calorie Counter iOS App",
     "url": "https://www.microns.io/startup-listings/ai-calorie-counter-ios-app-c495c"
   },
+  "microns:ai-content-plagiarism-checker": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 170.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 1600.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI Content & Plagiarism Checker",
+    "url": "https://www.microns.io/startup-listings/ai-content-plagiarism-checker"
+  },
   "microns:ai-dance-ios-app": {
     "category": "verify",
     "financials": {
@@ -1751,6 +1792,47 @@
     "title": "AI Song Maker iOS App",
     "url": "https://www.microns.io/startup-listings/ai-song-maker-ios-app"
   },
+  "microns:ai-tips-newsletter": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 13000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 125000.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Practical AI Newsletter for Everyday Work",
+    "url": "https://www.microns.io/startup-listings/ai-tips-newsletter"
+  },
   "microns:ai-voice-to-text-transcription-app": {
     "category": "verify",
     "financials": {
@@ -2152,6 +2234,47 @@
     "source": "microns",
     "title": "Chat API & SDKs Platform",
     "url": "https://www.microns.io/startup-listings/chat-api-sdks-platform"
+  },
+  "microns:delf-preparation-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 800.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 3490.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "DELF Preparation Platform",
+    "url": "https://www.microns.io/startup-listings/delf-preparation-platform"
   },
   "microns:energy-drink-scanner-ios-app": {
     "category": "verify",
@@ -10823,6 +10946,44 @@
     "title": "[FOR SALE] Premium Location-Mapping & Asset Dashboard Boilerplate - Full Source Code + Pre-Structured JSON Dataset (Was $100, Now $50!)",
     "url": "https://www.reddit.com/r/saasforsale/comments/1xjbhuw/for_sale_premium_locationmapping_asset_dashboard/"
   },
+  "reddit:t3_1xjrvfr": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SideProject",
+    "title": "I turned mrdoob's Slop New York into a 3D version of outbid.lol",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xjrvfr/i_turned_mrdoobs_slop_new_york_into_a_3d_version/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -11205,6 +11366,47 @@
     "title": "AnalyzeInsta SaaS",
     "url": "https://trustmrr.com/startup/analyzeinsta"
   },
+  "trustmrr:anonymous-startup-40": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 14400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1200.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 70000.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Anonymous Startup E-commerce",
+    "url": "https://trustmrr.com/startup/anonymous-startup-40"
+  },
   "trustmrr:anonymous-startup-52": {
     "category": "verify",
     "financials": {
@@ -11460,6 +11662,47 @@
     "source": "trustmrr",
     "title": "AppXpose Security",
     "url": "https://trustmrr.com/startup/appxpose"
+  },
+  "trustmrr:ar-drawing-sketch": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 1584.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 132.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 4000.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "PaperTrace: AR Sketch Design Tools",
+    "url": "https://trustmrr.com/startup/ar-drawing-sketch"
   },
   "trustmrr:arclify": {
     "category": "verify",
@@ -12059,6 +12302,47 @@
     "source": "trustmrr",
     "title": "ClearBar Mac App Productivity",
     "url": "https://trustmrr.com/startup/clearbar-mac-app"
+  },
+  "trustmrr:cliputils": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 4368.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 364.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 6000.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "ClipUtils Content Creation",
+    "url": "https://trustmrr.com/startup/cliputils"
   },
   "trustmrr:conductor": {
     "category": "verify",
@@ -12729,6 +13013,47 @@
     "source": "trustmrr",
     "title": "flint Artificial Intelligence",
     "url": "https://trustmrr.com/startup/flint"
+  },
+  "trustmrr:flipscan": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 10320.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 860.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 8000.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "FlipScan: AI Reselling Scanner Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/flipscan"
   },
   "trustmrr:flowmance-templates": {
     "category": "verify",
@@ -14203,7 +14528,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,665 1 %",
+    "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,531 0 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -14328,10 +14653,10 @@
   "trustmrr:pdf-vault": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 120000.0,
+      "annual_revenue_reported": 118800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 10000.0,
+      "monthly_revenue_reported": 9900.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-25",
@@ -14344,6 +14669,10 @@
       {
         "amount": 120000.0,
         "date": "2026-10-29"
+      },
+      {
+        "amount": 150000.0,
+        "date": "2026-10-30"
       }
     ],
     "screening": {
@@ -14973,6 +15302,10 @@
       {
         "amount": 1800.0,
         "date": "2026-10-27"
+      },
+      {
+        "amount": 1500.0,
+        "date": "2026-10-30"
       }
     ],
     "screening": {
@@ -15555,14 +15888,14 @@
   "trustmrr:social-genius-text-analyzer": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 12000.0,
+      "annual_revenue_reported": 11460.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1000.0,
+      "monthly_revenue_reported": 955.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-24",
-    "last_seen": "2026-10-29",
+    "last_seen": "2026-10-30",
     "prices": [
       {
         "amount": 25000.0,
@@ -15880,10 +16213,10 @@
   "trustmrr:stealth-company-87": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 348000.0,
+      "annual_revenue_reported": 336000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 29000.0,
+      "monthly_revenue_reported": 28000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -15915,7 +16248,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "Stealth Company",
+    "title": "Stealth Company E-commerce",
     "url": "https://trustmrr.com/startup/stealth-company-87"
   },
   "trustmrr:stealth-rdp": {
@@ -15966,10 +16299,10 @@
   "trustmrr:store-stock-checker": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 216000.0,
+      "annual_revenue_reported": 228000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 18000.0,
+      "monthly_revenue_reported": 19000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -15978,6 +16311,10 @@
       {
         "amount": 75000.0,
         "date": "2026-10-28"
+      },
+      {
+        "amount": 135000.0,
+        "date": "2026-10-30"
       }
     ],
     "screening": {
@@ -16142,6 +16479,10 @@
       {
         "amount": 20000.0,
         "date": "2026-10-29"
+      },
+      {
+        "amount": 9000.0,
+        "date": "2026-10-30"
       }
     ],
     "screening": {
@@ -16167,6 +16508,47 @@
     "source": "trustmrr",
     "title": "Super Productivity",
     "url": "https://trustmrr.com/startup/super"
+  },
+  "trustmrr:swipedeck": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 264.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 22.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-30",
+    "last_seen": "2026-10-30",
+    "prices": [
+      {
+        "amount": 950.0,
+        "date": "2026-10-30"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "SwipeDeck Utilities",
+    "url": "https://trustmrr.com/startup/swipedeck"
   },
   "trustmrr:teleprompter": {
     "category": "verify",
@@ -16452,7 +16834,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "*** Truth or Dare Games",
+    "title": "Truth or Dare: Couples Game Games",
     "url": "https://trustmrr.com/startup/truth-or-dare"
   },
   "trustmrr:tucket": {
@@ -16540,10 +16922,10 @@
   "trustmrr:unnamed-company-62": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 636000.0,
+      "annual_revenue_reported": 648000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 53000.0,
+      "monthly_revenue_reported": 54000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-27",
@@ -16859,7 +17241,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "33 White Glove Content FOR SALE We provide a subscription-based content producti",
+    "title": "32 White Glove Content FOR SALE We provide a subscription-based content producti",
     "url": "https://trustmrr.com/startup/white-glove-content"
   },
   "trustmrr:zachis-stealth-comp": {
