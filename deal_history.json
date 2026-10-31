@@ -560,7 +560,7 @@
   "microns:83-app-portfolio": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 1088.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -587,7 +587,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -683,7 +683,7 @@
   "microns:ai-content-plagiarism-checker": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 170.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -710,7 +710,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -1012,7 +1012,7 @@
   "microns:ai-local-business-website-outreach-platform": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 250.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -1035,7 +1035,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 30,
+      "operator_score": 10,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -1795,7 +1795,7 @@
   "microns:ai-tips-newsletter": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 13000.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -1822,7 +1822,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2238,7 +2238,7 @@
   "microns:delf-preparation-platform": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 800.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2265,7 +2265,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2279,7 +2279,7 @@
   "microns:energy-drink-scanner-ios-app": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 487.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2302,7 +2302,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 30,
+      "operator_score": 10,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2316,7 +2316,7 @@
   "microns:executive-assistant-placement-subscription-agency": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 68929.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2343,7 +2343,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2521,7 +2521,7 @@
   "microns:instant-teeth-whitening-beauty-brand": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 26478.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2548,7 +2548,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2562,7 +2562,7 @@
   "microns:language-learning-platform": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 200.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2585,7 +2585,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 30,
+      "operator_score": 10,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2599,7 +2599,7 @@
   "microns:local-business-directory-launch-kit": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 1755.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2626,7 +2626,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2804,7 +2804,7 @@
   "microns:old-photo-restore-ios-app": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 1900.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2827,7 +2827,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 30,
+      "operator_score": 10,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2923,7 +2923,7 @@
   "microns:party-game-for-ios": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 80.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2950,7 +2950,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -2964,7 +2964,7 @@
   "microns:pdf-editor-ios-app": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 102.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -2987,7 +2987,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 30,
+      "operator_score": 10,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -3165,7 +3165,7 @@
   "microns:saas-startups-directory": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 96.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -3192,7 +3192,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 0,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -3624,7 +3624,7 @@
   "microns:writing-niche-newsletter": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 235.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
       "monthly_revenue_reported": null,
@@ -3647,7 +3647,7 @@
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 30,
+      "operator_score": 10,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -11249,6 +11249,120 @@
     "title": "Should I build for a small, underdeveloped local market or target international customers from day one?",
     "url": "https://www.reddit.com/r/Entrepreneurs/comments/1xk66la/should_i_build_for_a_small_underdeveloped_local/"
   },
+  "reddit:t3_1xklu39": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "[For Sale] Jasper \u2014 AI-Powered Travel Coordination API & Automation System | $4,000 CAD",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xklu39/for_sale_jasper_aipowered_travel_coordination_api/"
+  },
+  "reddit:t3_1xkludt": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "[For Sale] Jasper \u2014 AI-Powered Travel Coordination API & Automation System | $4,000 CAD",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xkludt/for_sale_jasper_aipowered_travel_coordination_api/"
+  },
+  "reddit:t3_1xkmi53": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "[FOR SALE] Linkmaxxer - Nearly Finished LinkedIn Automation Desktop App | Full Source Code | No Server Costs",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xkmi53/for_sale_linkmaxxer_nearly_finished_linkedin/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -11470,10 +11584,10 @@
   "trustmrr:ai-lip-sync": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 10524.0,
+      "annual_revenue_reported": 10764.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 877.0,
+      "monthly_revenue_reported": 897.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-27",
@@ -12571,10 +12685,10 @@
   "trustmrr:cliputils": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 4560.0,
+      "annual_revenue_reported": 4728.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 380.0,
+      "monthly_revenue_reported": 394.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-30",
@@ -13282,10 +13396,10 @@
   "trustmrr:flipscan": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 10320.0,
+      "annual_revenue_reported": 10560.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 860.0,
+      "monthly_revenue_reported": 880.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-30",
@@ -14300,7 +14414,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "44 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "43 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -14433,10 +14547,10 @@
   "trustmrr:linkpost": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 48000.0,
+      "annual_revenue_reported": 44400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4000.0,
+      "monthly_revenue_reported": 3700.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -14793,7 +14907,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,513 0 %",
+    "title": "47 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,570 1 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:online-edtech": {
@@ -14918,10 +15032,10 @@
   "trustmrr:pdf-vault": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 110400.0,
+      "annual_revenue_reported": 109200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 9200.0,
+      "monthly_revenue_reported": 9100.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-25",
@@ -16564,10 +16678,10 @@
   "trustmrr:store-stock-checker": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 240000.0,
+      "annual_revenue_reported": 252000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 20000.0,
+      "monthly_revenue_reported": 21000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -16732,10 +16846,10 @@
   "trustmrr:super": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 15600.0,
+      "annual_revenue_reported": 16800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1300.0,
+      "monthly_revenue_reported": 1400.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-29",
@@ -17184,6 +17298,47 @@
     "title": "Uizze Design Tools",
     "url": "https://trustmrr.com/startup/uizze"
   },
+  "trustmrr:unnamed-company-51": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 4488.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 374.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-10-31",
+    "last_seen": "2026-10-31",
+    "prices": [
+      {
+        "amount": 10000.0,
+        "date": "2026-10-31"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Unnamed Company",
+    "url": "https://trustmrr.com/startup/unnamed-company-51"
+  },
   "trustmrr:unnamed-company-62": {
     "category": "verify",
     "financials": {
@@ -17301,16 +17456,16 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+    "title": "45 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
   },
   "trustmrr:volumebooster": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 4668.0,
+      "annual_revenue_reported": 4776.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 389.0,
+      "monthly_revenue_reported": 398.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-26",
