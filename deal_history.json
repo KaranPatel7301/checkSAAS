@@ -1341,6 +1341,47 @@
     "title": "AI Platform for Interior Designers",
     "url": "https://www.microns.io/startup-listings/ai-platform-for-interior-designers"
   },
+  "microns:ai-powered-advisory-sales-workspace": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI-Powered Advisory Sales Workspace",
+    "url": "https://www.microns.io/startup-listings/ai-powered-advisory-sales-workspace"
+  },
   "microns:ai-powered-archaeological-lidar-analysis-tool": {
     "category": "verify",
     "financials": {
@@ -2161,6 +2202,47 @@
     "title": "Alternative Jewellery Brand",
     "url": "https://www.microns.io/startup-listings/alternative-jewellery-brand"
   },
+  "microns:b2b-lead-generation-platform-b21a8": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 220000.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 22,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "B2B Lead Generation Platform",
+    "url": "https://www.microns.io/startup-listings/b2b-lead-generation-platform-b21a8"
+  },
   "microns:baby-food-safety-scanner": {
     "category": "verify",
     "financials": {
@@ -2320,6 +2402,43 @@
     "source": "microns",
     "title": "Creator Marketplace",
     "url": "https://www.microns.io/startup-listings/creator-marketplace"
+  },
+  "microns:customer-feedback-and-roadmap-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Customer Feedback and Roadmap Platform",
+    "url": "https://www.microns.io/startup-listings/customer-feedback-and-roadmap-platform"
   },
   "microns:delf-preparation-platform": {
     "category": "verify",
@@ -2644,6 +2763,47 @@
     "source": "microns",
     "title": "GitHub Profile & Portfolio Builder",
     "url": "https://www.microns.io/startup-listings/github-profile-portfolio-builder"
+  },
+  "microns:health-home-and-lifestyle-online-store": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 1000.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Health, Home and Lifestyle Online Store",
+    "url": "https://www.microns.io/startup-listings/health-home-and-lifestyle-online-store"
   },
   "microns:instant-teeth-whitening-beauty-brand": {
     "category": "verify",
@@ -12404,6 +12564,233 @@
     "title": "Would it be a good approach to acquire my clients' own clients through my website, and then leverage them as an added value for my services?",
     "url": "https://www.reddit.com/r/growmybusiness/comments/1xmpo34/would_it_be_a_good_approach_to_acquire_my_clients/"
   },
+  "reddit:t3_1xn57cl": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/Entrepreneurs",
+    "title": "A $2-3B category just got its first compliant channel and the incumbents can\u2019t follow...Why prescription peptide telehealth is the opportunity right now!",
+    "url": "https://www.reddit.com/r/Entrepreneurs/comments/1xn57cl/a_23b_category_just_got_its_first_compliant/"
+  },
+  "reddit:t3_1xn5dj4": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SaaS",
+    "title": "Triple Touch Followup Sequence That Puts Every SaaS Strategy To Shame",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xn5dj4/triple_touch_followup_sequence_that_puts_every/"
+  },
+  "reddit:t3_1xn5gpi": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/EntrepreneurRideAlong",
+    "title": "how we hit $120k ARR as a YC-backed outbound startup: real breakdown of every channel we use for customer acquisition",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xn5gpi/how_we_hit_120k_arr_as_a_ycbacked_outbound/"
+  },
+  "reddit:t3_1xn5skz": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/EntrepreneurRideAlong",
+    "title": "How I Grew My SaaS to $40K MRR",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xn5skz/how_i_grew_my_saas_to_40k_mrr/"
+  },
+  "reddit:t3_1xn62u1": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase",
+        "Potential operator constraint: co-founder"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 25,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/EntrepreneurRideAlong",
+    "title": "We launched a Colombian coffee brand in the US with ~$10k. What a year of 10\u201312 hour days taught us about paid ads.",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xn62u1/we_launched_a_colombian_coffee_brand_in_the_us/"
+  },
+  "reddit:t3_1xn7vkv": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "Sell iOS apps with dev account",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1xn7vkv/sell_ios_apps_with_dev_account/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -13673,10 +14060,10 @@
   "trustmrr:claimavenue": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 132000.0,
+      "annual_revenue_reported": 120000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 11000.0,
+      "monthly_revenue_reported": 10000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
@@ -14391,10 +14778,10 @@
   "trustmrr:examcat": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 3396.0,
+      "annual_revenue_reported": 3516.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 283.0,
+      "monthly_revenue_reported": 293.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-02",
@@ -14597,10 +14984,10 @@
   "trustmrr:figmentor": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 20400.0,
+      "annual_revenue_reported": 19200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1700.0,
+      "monthly_revenue_reported": 1600.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-01",
@@ -16002,10 +16389,10 @@
   "trustmrr:linkpost": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 46800.0,
+      "annual_revenue_reported": 44400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3900.0,
+      "monthly_revenue_reported": 3700.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
@@ -16080,6 +16467,48 @@
     "source": "trustmrr",
     "title": "Lista: AI Crosslisting & Tools Artificial Intelligence",
     "url": "https://trustmrr.com/startup/lista"
+  },
+  "trustmrr:lounasmodels": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 97200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 8100.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 375000.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Louna's Models - Leading Onlyfans Agency (Established models and 10k+ leads) Mar",
+    "url": "https://trustmrr.com/startup/lounasmodels"
   },
   "trustmrr:lyro": {
     "category": "verify",
@@ -16444,7 +16873,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,833 0 %",
+    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,828 0 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:obscreen": {
@@ -17670,6 +18099,47 @@
     "title": "ScripTrade AI Fintech",
     "url": "https://trustmrr.com/startup/scriptrade-ai"
   },
+  "trustmrr:seo-skills-by-penra": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 4356.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 363.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 2300.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "SEO Skills by PENRA Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/seo-skills-by-penra"
+  },
   "trustmrr:seoloupe": {
     "category": "verify",
     "financials": {
@@ -17882,10 +18352,10 @@
   "trustmrr:simeo": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 49200.0,
+      "annual_revenue_reported": 54000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4100.0,
+      "monthly_revenue_reported": 4500.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-01",
@@ -18091,10 +18561,10 @@
   "trustmrr:stacker": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 24000.0,
+      "annual_revenue_reported": 22800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 2000.0,
+      "monthly_revenue_reported": 1900.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
@@ -18462,6 +18932,47 @@
     "title": "Stealth Company E-commerce",
     "url": "https://trustmrr.com/startup/stealth-company-87"
   },
+  "trustmrr:stealth-company-91": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 7476.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 623.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 45000.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Seyyah Mobile E-commerce",
+    "url": "https://trustmrr.com/startup/stealth-company-91"
+  },
   "trustmrr:stealth-rdp": {
     "category": "verify",
     "financials": {
@@ -18596,14 +19107,14 @@
   "trustmrr:stud-finder-wall-detector-tool": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 58800.0,
+      "annual_revenue_reported": 61200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4900.0,
+      "monthly_revenue_reported": 5100.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-29",
-    "last_seen": "2026-11-02",
+    "last_seen": "2026-11-03",
     "prices": [
       {
         "amount": 130000.0,
@@ -19257,6 +19768,47 @@
     "title": "Unnamed Company",
     "url": "https://trustmrr.com/startup/unnamed-company-51"
   },
+  "trustmrr:unnamed-company-54": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 14400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1200.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 45000.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Unnamed Company Legal",
+    "url": "https://trustmrr.com/startup/unnamed-company-54"
+  },
   "trustmrr:unnamed-company-62": {
     "category": "verify",
     "financials": {
@@ -19298,6 +19850,47 @@
     "source": "trustmrr",
     "title": "Unnamed Company",
     "url": "https://trustmrr.com/startup/unnamed-company-62"
+  },
+  "trustmrr:vedicastrolab": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2064.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 172.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-03",
+    "last_seen": "2026-11-03",
+    "prices": [
+      {
+        "amount": 12000.0,
+        "date": "2026-11-03"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Vedic Astro Lab Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/vedicastrolab"
   },
   "trustmrr:veloris-llc": {
     "category": "verify",
