@@ -2366,6 +2366,47 @@
     "title": "Breakup Recovery iOS App",
     "url": "https://www.microns.io/startup-listings/breakup-recovery-ios-app"
   },
+  "microns:celpip-preparation-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [
+      {
+        "amount": 10000.0,
+        "date": "2026-11-04"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "CELPIP Preparation Platform",
+    "url": "https://www.microns.io/startup-listings/celpip-preparation-platform"
+  },
   "microns:chat-api-sdks-platform": {
     "category": "verify",
     "financials": {
@@ -2644,6 +2685,47 @@
     "source": "microns",
     "title": "Executive Assistant Placement & Subscription Agency",
     "url": "https://www.microns.io/startup-listings/executive-assistant-placement-subscription-agency"
+  },
+  "microns:faceless-shorts-generator-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [
+      {
+        "amount": 2000.0,
+        "date": "2026-11-04"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Faceless Shorts Generator Platform",
+    "url": "https://www.microns.io/startup-listings/faceless-shorts-generator-platform"
   },
   "microns:football-team-builder-pack-opener": {
     "category": "verify",
@@ -12989,6 +13071,157 @@
     "title": "\ud83d\ude80 FOR SALE: SHOTSMITH \u2013 A DEVELOPED AI-POWERED SAAS PLATFORM",
     "url": "https://www.reddit.com/r/saasforsale/comments/1xnli4r/for_sale_shotsmith_a_developed_aipowered_saas/"
   },
+  "reddit:t3_1xnydda": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SideProject",
+    "title": "We Built a Marketplace to Help Entrepreneurs Find Business Funding",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xnydda/we_built_a_marketplace_to_help_entrepreneurs_find/"
+  },
+  "reddit:t3_1xo0b3a": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SaaS",
+    "title": "Steal this prompt to secure your premium domain for the next round of TLDs.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xo0b3a/steal_this_prompt_to_secure_your_premium_domain/"
+  },
+  "reddit:t3_1xo2rgd": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "Can I sell my app? ($1,890 in 1 year)",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1xo2rgd/can_i_sell_my_app_1890_in_1_year/"
+  },
+  "reddit:t3_1xo2slv": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "\ud83d\ude80 FOR SALE: SHOTSMITH \u2013 A DEVELOPED AI-POWERED SAAS PLATFORM",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xo2slv/for_sale_shotsmith_a_developed_aipowered_saas/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -13953,7 +14186,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "38 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+    "title": "39 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
   },
   "trustmrr:btfind-bluetooth-finder": {
@@ -15937,6 +16170,10 @@
       {
         "amount": 5000.0,
         "date": "2026-11-04"
+      },
+      {
+        "amount": 4500.0,
+        "date": "2026-11-04"
       }
     ],
     "screening": {
@@ -16539,6 +16776,47 @@
     "title": "Lapsula Health & Fitness",
     "url": "https://trustmrr.com/startup/lapsula"
   },
+  "trustmrr:lin-lore": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 24000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 2000.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [
+      {
+        "amount": 10000.0,
+        "date": "2026-11-04"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Lin & Lore E-commerce",
+    "url": "https://trustmrr.com/startup/lin-lore"
+  },
   "trustmrr:lina": {
     "category": "verify",
     "financials": {
@@ -16583,10 +16861,10 @@
   "trustmrr:linguana": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 36000.0,
+      "annual_revenue_reported": 37200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3000.0,
+      "monthly_revenue_reported": 3100.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-02",
@@ -16751,10 +17029,10 @@
   "trustmrr:lounasmodels": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 102000.0,
+      "annual_revenue_reported": 103200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 8500.0,
+      "monthly_revenue_reported": 8600.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
@@ -16834,10 +17112,10 @@
   "trustmrr:maxreply": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 10992.0,
+      "annual_revenue_reported": 10944.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 916.0,
+      "monthly_revenue_reported": 912.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-04",
@@ -17194,7 +17472,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,772 0 %",
+    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,800 0 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:obscreen": {
@@ -18673,10 +18951,10 @@
   "trustmrr:simeo": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 51600.0,
+      "annual_revenue_reported": 70800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4300.0,
+      "monthly_revenue_reported": 5900.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-01",
@@ -19256,10 +19534,10 @@
   "trustmrr:stealth-company-91": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 7848.0,
+      "annual_revenue_reported": 8220.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 654.0,
+      "monthly_revenue_reported": 685.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
@@ -19428,10 +19706,10 @@
   "trustmrr:stud-finder-wall-detector-tool": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 58800.0,
+      "annual_revenue_reported": 61200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4900.0,
+      "monthly_revenue_reported": 5100.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-29",
@@ -19884,6 +20162,47 @@
     "title": "Traced Artificial Intelligence",
     "url": "https://trustmrr.com/startup/traced"
   },
+  "trustmrr:trackthletics-athletics-log": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 672.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 56.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [
+      {
+        "amount": 6000.0,
+        "date": "2026-11-04"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "TrackThletics: Athletics Log Health & Fitness",
+    "url": "https://trustmrr.com/startup/trackthletics-athletics-log"
+  },
   "trustmrr:trailback": {
     "category": "verify",
     "financials": {
@@ -19928,18 +20247,22 @@
   "trustmrr:truth-or-dare": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 6576.0,
+      "annual_revenue_reported": 5940.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 548.0,
+      "monthly_revenue_reported": 495.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-30",
-    "last_seen": "2026-10-31",
+    "last_seen": "2026-11-04",
     "prices": [
       {
         "amount": 10000.0,
         "date": "2026-10-30"
+      },
+      {
+        "amount": 9000.0,
+        "date": "2026-11-04"
       }
     ],
     "screening": {
@@ -20172,13 +20495,54 @@
     "title": "Unnamed Company",
     "url": "https://trustmrr.com/startup/unnamed-company-62"
   },
+  "trustmrr:usehite": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 11472.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 956.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-04",
+    "last_seen": "2026-11-04",
+    "prices": [
+      {
+        "amount": 45000.0,
+        "date": "2026-11-04"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "UseHite Health & Fitness",
+    "url": "https://trustmrr.com/startup/usehite"
+  },
   "trustmrr:vedicastrolab": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 2100.0,
+      "annual_revenue_reported": 2088.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 175.0,
+      "monthly_revenue_reported": 174.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
