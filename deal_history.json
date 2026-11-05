@@ -2526,6 +2526,47 @@
     "title": "Customer Feedback and Roadmap Platform",
     "url": "https://www.microns.io/startup-listings/customer-feedback-and-roadmap-platform"
   },
+  "microns:dating-ai-suite": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 4900.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Dating AI Suite",
+    "url": "https://www.microns.io/startup-listings/dating-ai-suite"
+  },
   "microns:delf-preparation-platform": {
     "category": "verify",
     "financials": {
@@ -4071,6 +4112,47 @@
     "source": "microns",
     "title": "Travel Ecosystem",
     "url": "https://www.microns.io/startup-listings/travel-ecosystem"
+  },
+  "microns:tv-remote-ios-app": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 1200.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "TV Remote iOS App",
+    "url": "https://www.microns.io/startup-listings/tv-remote-ios-app"
   },
   "microns:video-translator-ios-app": {
     "category": "verify",
@@ -13336,6 +13418,347 @@
     "title": "\ud83d\ude80 [FOR SALE] Clikox \u2013 Offline Windows POS & Inventory Software | Full Source Code | Free Trial Available",
     "url": "https://www.reddit.com/r/saasforsale/comments/1xofffi/for_sale_clikox_offline_windows_pos_inventory/"
   },
+  "reddit:t3_1xoro6n": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/EntrepreneurRideAlong",
+    "title": "I Tested 5 Sales Strategies to Sell More Websites. Here's What Worked.",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xoro6n/i_tested_5_sales_strategies_to_sell_more_websites/"
+  },
+  "reddit:t3_1xotwob": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase",
+        "Potential operator constraint: co-founder"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 25,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/Entrepreneurs",
+    "title": "\ud83d\ude80 Looking for Co-Founders & Founding Team Members | Startup Opportunity | India",
+    "url": "https://www.reddit.com/r/Entrepreneurs/comments/1xotwob/looking_for_cofounders_founding_team_members/"
+  },
+  "reddit:t3_1xoup4b": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Looking to sell my app",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xoup4b/looking_to_sell_my_app/"
+  },
+  "reddit:t3_1xovlcu": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "Profitable Sports Niche Facebook Page | 102k Followers | ~$25k/yr Net Profit",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xovlcu/profitable_sports_niche_facebook_page_102k/"
+  },
+  "reddit:t3_1xovlsr": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "[For Sale] A Complete Video Advertising Business in a Box (Not Just Another Website)",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xovlsr/for_sale_a_complete_video_advertising_business_in/"
+  },
+  "reddit:t3_1xovurm": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Profitable Sports Niche Facebook Page | 101k Followers | ~$25k/yr Net Profit",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xovurm/profitable_sports_niche_facebook_page_101k/"
+  },
+  "reddit:t3_1xow0hw": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SaaS",
+    "title": "I spent months building a full-stack B2B School Dismissal & Bus Tracking SaaS, got it live in production, and completely burned out before marketing. Looking for advice on selling it.",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xow0hw/i_spent_months_building_a_fullstack_b2b_school/"
+  },
+  "reddit:t3_1xowxvq": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Selling ios app",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xowxvq/selling_ios_app/"
+  },
+  "reddit:t3_1xox3fb": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/EntrepreneurRideAlong",
+    "title": "this teacher made $20M a year from baby videos filmed in her basement",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/comments/1xox3fb/this_teacher_made_20m_a_year_from_baby_videos/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -13509,6 +13932,47 @@
     "title": "AdTruffle E-commerce",
     "url": "https://trustmrr.com/startup/adtruffle"
   },
+  "trustmrr:ai-busted": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 4176.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 348.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 6000.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "AI Busted Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/ai-busted"
+  },
   "trustmrr:ai-clothes-changer": {
     "category": "verify",
     "financials": {
@@ -13635,6 +14099,48 @@
     "source": "trustmrr",
     "title": "AI Baby Generator SaaS",
     "url": "https://trustmrr.com/startup/aibabygenerator"
+  },
+  "trustmrr:aisdr-inc": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2136000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 178000.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 12000000.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "AiSDR INC. Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/aisdr-inc"
   },
   "trustmrr:aiter-io": {
     "category": "verify",
@@ -14300,7 +14806,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "39 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+    "title": "40 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
   },
   "trustmrr:btfind-bluetooth-finder": {
@@ -14853,7 +15359,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "48 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+    "title": "47 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
     "url": "https://trustmrr.com/startup/conductor"
   },
   "trustmrr:confidential-startup-61": {
@@ -15821,6 +16327,47 @@
     "title": "FlowPost Productivity",
     "url": "https://trustmrr.com/startup/flowpost-ai"
   },
+  "trustmrr:frutti": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 50400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 4200.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 19000.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Frutti Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/frutti"
+  },
   "trustmrr:getfunneled": {
     "category": "verify",
     "financials": {
@@ -16065,7 +16612,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "37 G GoTall FOR SALE Superwall ios application C Chenglin $56,124 4 %",
+    "title": "38 G GoTall FOR SALE Superwall ios application C Chenglin $56,124 4 %",
     "url": "https://trustmrr.com/startup/gotall"
   },
   "trustmrr:growingupvideo": {
@@ -16891,7 +17438,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "41 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "43 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -17020,10 +17567,10 @@
   "trustmrr:linguana": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 37200.0,
+      "annual_revenue_reported": 36000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3100.0,
+      "monthly_revenue_reported": 3000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-02",
@@ -17275,10 +17822,10 @@
   "trustmrr:maxreply": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 11076.0,
+      "annual_revenue_reported": 10872.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 923.0,
+      "monthly_revenue_reported": 906.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-04",
@@ -17435,6 +17982,47 @@
     "source": "trustmrr",
     "title": "Mold Identifier Artificial Intelligence",
     "url": "https://trustmrr.com/startup/mold-identifier"
+  },
+  "trustmrr:motionvideo": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 9480.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 790.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 25000.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "MotionVideo Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/motionvideo"
   },
   "trustmrr:my-ex": {
     "category": "verify",
@@ -17635,7 +18223,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "46 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,830 0 %",
+    "title": "49 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,807 0 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:obscreen": {
@@ -17713,7 +18301,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "15 C Confidential Startup FOR SALE Profitable online language learning platform ",
+    "title": "16 C Confidential Startup FOR SALE Profitable online language learning platform ",
     "url": "https://trustmrr.com/startup/online-edtech"
   },
   "trustmrr:pageturner": {
@@ -17846,6 +18434,48 @@
     "source": "trustmrr",
     "title": "PDF Vault Marketplace",
     "url": "https://trustmrr.com/startup/pdf-vault"
+  },
+  "trustmrr:penmo": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 80400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 6700.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 300000.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Penmo Content Creation",
+    "url": "https://trustmrr.com/startup/penmo"
   },
   "trustmrr:pidgeon": {
     "category": "verify",
@@ -18264,7 +18894,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "34 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
+    "title": "35 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
     "url": "https://trustmrr.com/startup/project-a"
   },
   "trustmrr:prosp": {
@@ -18301,8 +18931,50 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "17 PROSP FOR SALE Automate your LinkedIn Outreach with AI Yann | Prosp.ai $128,0",
+    "title": "18 PROSP FOR SALE Automate your LinkedIn Outreach with AI Yann | Prosp.ai $128,0",
     "url": "https://trustmrr.com/startup/prosp"
+  },
+  "trustmrr:quicklead": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 54000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 4500.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 300000.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Quicklead Marketing",
+    "url": "https://trustmrr.com/startup/quicklead"
   },
   "trustmrr:rapidquiz": {
     "category": "verify",
@@ -19114,10 +19786,10 @@
   "trustmrr:simeo": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 70800.0,
+      "annual_revenue_reported": 67200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 5900.0,
+      "monthly_revenue_reported": 5600.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-01",
@@ -19317,7 +19989,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "29 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
+    "title": "30 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
     "url": "https://trustmrr.com/startup/speel-co"
   },
   "trustmrr:stacker": {
@@ -20661,10 +21333,10 @@
   "trustmrr:usehite": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 11532.0,
+      "annual_revenue_reported": 11592.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 961.0,
+      "monthly_revenue_reported": 966.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-04",
@@ -20815,7 +21487,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "43 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+    "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
   },
   "trustmrr:volumebooster": {
@@ -21020,8 +21692,49 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "30 White Glove Content FOR SALE We provide a subscription-based content producti",
+    "title": "31 White Glove Content FOR SALE We provide a subscription-based content producti",
     "url": "https://trustmrr.com/startup/white-glove-content"
+  },
+  "trustmrr:writesim": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2880.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 240.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-05",
+    "last_seen": "2026-11-05",
+    "prices": [
+      {
+        "amount": 10000.0,
+        "date": "2026-11-05"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "WriteSim Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/writesim"
   },
   "trustmrr:zachis-stealth-comp": {
     "category": "verify",
