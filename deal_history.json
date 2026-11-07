@@ -684,6 +684,43 @@
     "title": "AI Calorie Counter iOS App",
     "url": "https://www.microns.io/startup-listings/ai-calorie-counter-ios-app-c495c"
   },
+  "microns:ai-calorie-tracker-ios-app": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI Calorie Tracker iOS App",
+    "url": "https://www.microns.io/startup-listings/ai-calorie-tracker-ios-app"
+  },
   "microns:ai-content-plagiarism-checker": {
     "category": "verify",
     "financials": {
@@ -14290,6 +14327,196 @@
     "title": "User acquisition is up, but revenue is dropping. How would you investigate this as a data analyst?",
     "url": "https://www.reddit.com/r/SaaS/comments/1xq2gm2/user_acquisition_is_up_but_revenue_is_dropping/"
   },
+  "reddit:t3_1xqe2g4": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "Selling workout tracker app",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1xqe2g4/selling_workout_tracker_app/"
+  },
+  "reddit:t3_1xqfxb5": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "I built an AI receptionist that picks up the calls you miss and books customers into your calendar. FOR SALE!!",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xqfxb5/i_built_an_ai_receptionist_that_picks_up_the/"
+  },
+  "reddit:t3_1xqgjtg": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Selling my web app",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xqgjtg/selling_my_web_app/"
+  },
+  "reddit:t3_1xqhmqu": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "\ud83d\ude80 OPORTUNIDAD: Plataforma Fintech / EdTech \"Aetheris Labs\" (En venta o b\u00fasqueda de socio",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xqhmqu/oportunidad_plataforma_fintech_edtech_aetheris/"
+  },
+  "reddit:t3_1xqioqv": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "[Pre-Revenue] Restaurant & Pizzeria Management Software \u2014 Open to Acquisition or Licensing Offers",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xqioqv/prerevenue_restaurant_pizzeria_management/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -14634,10 +14861,10 @@
   "trustmrr:aisdr-inc": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 2256000.0,
+      "annual_revenue_reported": 2268000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 188000.0,
+      "monthly_revenue_reported": 189000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-05",
@@ -15516,6 +15743,47 @@
     "title": "BulletSocial Social Media",
     "url": "https://trustmrr.com/startup/bulletsocial"
   },
+  "trustmrr:calchi-ai": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 324.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 27.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [
+      {
+        "amount": 1500.0,
+        "date": "2026-11-07"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Calchi AI Health & Fitness",
+    "url": "https://trustmrr.com/startup/calchi-ai"
+  },
   "trustmrr:carry": {
     "category": "verify",
     "financials": {
@@ -15890,7 +16158,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "47 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+    "title": "49 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
     "url": "https://trustmrr.com/startup/conductor"
   },
   "trustmrr:confidential-startup-61": {
@@ -15979,10 +16247,10 @@
   "trustmrr:confidential-startup-76": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 168000.0,
+      "annual_revenue_reported": 156000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 14000.0,
+      "monthly_revenue_reported": 13000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-07",
@@ -16140,6 +16408,47 @@
     "source": "trustmrr",
     "title": "cove ivf Health & Fitness",
     "url": "https://trustmrr.com/startup/cove-ivf"
+  },
+  "trustmrr:cuedesign": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 25200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 2100.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [
+      {
+        "amount": 50000.0,
+        "date": "2026-11-07"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "cuedesign: the taste layer for AI Design Tools",
+    "url": "https://trustmrr.com/startup/cuedesign"
   },
   "trustmrr:defog": {
     "category": "verify",
@@ -17603,6 +17912,48 @@
     "title": "Hidden Business SaaS",
     "url": "https://trustmrr.com/startup/hidden-business-86"
   },
+  "trustmrr:hidden-business-89": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 480000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 40000.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [
+      {
+        "amount": 1000000.0,
+        "date": "2026-11-07"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Hidden Business",
+    "url": "https://trustmrr.com/startup/hidden-business-89"
+  },
   "trustmrr:humanize-ai": {
     "category": "verify",
     "financials": {
@@ -18052,7 +18403,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "43 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "42 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -18919,7 +19270,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "49 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,779 0 %",
+    "title": "50 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,767 0 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:obscreen": {
@@ -19085,10 +19436,10 @@
   "trustmrr:pdf-vault": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 117600.0,
+      "annual_revenue_reported": 111600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 9800.0,
+      "monthly_revenue_reported": 9300.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-25",
@@ -19885,6 +20236,47 @@
     "title": "Refs Content Creation",
     "url": "https://trustmrr.com/startup/refs"
   },
+  "trustmrr:regiere-deutschland": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 2796.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 233.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-07",
+    "last_seen": "2026-11-07",
+    "prices": [
+      {
+        "amount": 3500.0,
+        "date": "2026-11-07"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Regiere Deutschland Entertainment",
+    "url": "https://trustmrr.com/startup/regiere-deutschland"
+  },
   "trustmrr:remjobs": {
     "category": "verify",
     "financials": {
@@ -20609,10 +21001,10 @@
   "trustmrr:simeo": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 64800.0,
+      "annual_revenue_reported": 66000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 5400.0,
+      "monthly_revenue_reported": 5500.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-01",
@@ -20818,10 +21210,10 @@
   "trustmrr:stacker": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 26400.0,
+      "annual_revenue_reported": 27600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 2200.0,
+      "monthly_revenue_reported": 2300.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
@@ -21024,10 +21416,10 @@
   "trustmrr:startup-c9231495860e": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 4176.0,
+      "annual_revenue_reported": 3828.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 348.0,
+      "monthly_revenue_reported": 319.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-06",
@@ -22279,10 +22671,10 @@
   "trustmrr:usagebar": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 19200.0,
+      "annual_revenue_reported": 18000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1600.0,
+      "monthly_revenue_reported": 1500.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-07",
