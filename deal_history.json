@@ -14592,6 +14592,345 @@
     "title": "Built an AI purchase decision SaaS, but decided to sell instead of scaling it",
     "url": "https://www.reddit.com/r/microsaas/comments/1xqtnjn/built_an_ai_purchase_decision_saas_but_decided_to/"
   },
+  "reddit:t3_1xr6o3w": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Want to sell my microsaas macapp which made me $1,000+ passively",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xr6o3w/want_to_sell_my_microsaas_macapp_which_made_me/"
+  },
+  "reddit:t3_1xr703x": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Saas for sale",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xr703x/saas_for_sale/"
+  },
+  "reddit:t3_1xr74ku": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Domain Name For Sale",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xr74ku/domain_name_for_sale/"
+  },
+  "reddit:t3_1xr7q9v": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "Selling my SaaS",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xr7q9v/selling_my_saas/"
+  },
+  "reddit:t3_1xr8biv": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SaaS",
+    "title": "Looking for a business partner to scale a digital marketing agency (Beauty & Grooming niche)",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xr8biv/looking_for_a_business_partner_to_scale_a_digital/"
+  },
+  "reddit:t3_1xr8ebj": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "[For Sale] PokerBrain.dev \u2013 AI Poker Software That Reads Live Online Gameplay \u2013 $5,000",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xr8ebj/for_sale_pokerbraindev_ai_poker_software_that/"
+  },
+  "reddit:t3_1xr8prp": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/Flipping",
+    "title": "Why do some people ghost you on FB Marketplace after you say you want their item?",
+    "url": "https://www.reddit.com/r/Flipping/comments/1xr8prp/why_do_some_people_ghost_you_on_fb_marketplace/"
+  },
+  "reddit:t3_1xr93jj": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "Selling iOS Game",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1xr93jj/selling_ios_game/"
+  },
+  "reddit:t3_1xrb9ju": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SideProject",
+    "title": "I built a tiny paper note who helps me keep my promises. Meet Noto",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xrb9ju/i_built_a_tiny_paper_note_who_helps_me_keep_my/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -14977,10 +15316,10 @@
   "trustmrr:aisdr-inc": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 2280000.0,
+      "annual_revenue_reported": 2136000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 190000.0,
+      "monthly_revenue_reported": 178000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-05",
@@ -15940,6 +16279,88 @@
     "source": "trustmrr",
     "title": "Carry: Save ChatGPT, Claude & Grok to Markdown Automatically Utilities",
     "url": "https://trustmrr.com/startup/carry"
+  },
+  "trustmrr:catalogohoy": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 20400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1700.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [
+      {
+        "amount": 50000.0,
+        "date": "2026-11-08"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "CatalogoHoy E-commerce",
+    "url": "https://trustmrr.com/startup/catalogohoy"
+  },
+  "trustmrr:chart-scanner-ai": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 31200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 2600.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [
+      {
+        "amount": 50000.0,
+        "date": "2026-11-08"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Chart Scanner AI Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/chart-scanner-ai"
   },
   "trustmrr:chartpro": {
     "category": "verify",
@@ -18519,7 +18940,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "43 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "42 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -19386,8 +19807,49 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "49 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,737 1 %",
+    "title": "49 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,778 1 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
+  },
+  "trustmrr:objekto": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 4212.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 351.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [
+      {
+        "amount": 40000.0,
+        "date": "2026-11-08"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "objekto Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/objekto"
   },
   "trustmrr:obscreen": {
     "category": "verify",
@@ -19429,6 +19891,47 @@
     "source": "trustmrr",
     "title": "Obscreen SaaS",
     "url": "https://trustmrr.com/startup/obscreen"
+  },
+  "trustmrr:og-bombs-europe-ivan-flores-hurtado": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 16800.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1400.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-08",
+    "last_seen": "2026-11-08",
+    "prices": [
+      {
+        "amount": 50000.0,
+        "date": "2026-11-08"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "OG Bombs Europe E-commerce",
+    "url": "https://trustmrr.com/startup/og-bombs-europe-ivan-flores-hurtado"
   },
   "trustmrr:online-edtech": {
     "category": "verify",
@@ -19552,10 +20055,10 @@
   "trustmrr:pdf-vault": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 111600.0,
+      "annual_revenue_reported": 112800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 9300.0,
+      "monthly_revenue_reported": 9400.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-25",
@@ -19576,6 +20079,10 @@
       {
         "amount": 125000.0,
         "date": "2026-11-07"
+      },
+      {
+        "amount": 110000.0,
+        "date": "2026-11-08"
       }
     ],
     "screening": {
@@ -20355,10 +20862,10 @@
   "trustmrr:regiere-deutschland": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 2856.0,
+      "annual_revenue_reported": 2928.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 238.0,
+      "monthly_revenue_reported": 244.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-07",
@@ -21532,10 +22039,10 @@
   "trustmrr:startup-c9231495860e": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 3828.0,
+      "annual_revenue_reported": 3888.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 319.0,
+      "monthly_revenue_reported": 324.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-06",
