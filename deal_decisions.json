@@ -21,7 +21,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -74,7 +74,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -233,7 +233,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -286,7 +286,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -339,7 +339,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -392,7 +392,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -445,7 +445,7 @@
         "monthly_revenue_reported": 34871.416666666664,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 328178.0,
       "screening": {
         "acquisition_score": 55,
@@ -492,15 +492,15 @@
       "financials": {
         "annual_revenue_reported": null,
         "business_age_months": null,
-        "monthly_profit_reported": 6052.416666666667,
+        "monthly_profit_reported": 6036.666666666667,
         "monthly_revenue_reported": 6231.916666666667,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
-      "latest_price": 239677.0,
+      "last_seen": "2026-11-10",
+      "latest_price": 239051.0,
       "screening": {
         "acquisition_score": 42,
-        "annual_cash_yield": 0.3030286594041147,
+        "annual_cash_yield": 0.3030315706690204,
         "confidence": "medium",
         "discount_to_target_pct": 24.2,
         "flags": [
@@ -511,10 +511,10 @@
         ],
         "negotiation_candidate": true,
         "operator_score": 35,
-        "payback_months": 39.600214790235306,
-        "profit_multiple": 3.3000178991862756,
-        "target_offer_high": 181572,
-        "target_offer_low": 108944,
+        "payback_months": 39.59983434566538,
+        "profit_multiple": 3.299986195472115,
+        "target_offer_high": 181100,
+        "target_offer_low": 108660,
         "track": "acquisition"
       },
       "source": "empireflippers",
@@ -555,7 +555,7 @@
         "monthly_revenue_reported": 61222.833333333336,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 1899156.0,
       "screening": {
         "acquisition_score": 37,
@@ -607,7 +607,7 @@
         "monthly_revenue_reported": 18533.416666666668,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 186500.0,
       "screening": {
         "acquisition_score": 42,
@@ -658,7 +658,7 @@
         "monthly_revenue_reported": 71532.83333333333,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 2617908.0,
       "screening": {
         "acquisition_score": 37,
@@ -710,7 +710,7 @@
         "monthly_revenue_reported": 4834.666666666667,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 108508.0,
       "screening": {
         "acquisition_score": 47,
@@ -917,7 +917,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -1439,7 +1439,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -2012,7 +2012,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 3600.0,
       "screening": {
         "acquisition_score": 27,
@@ -2376,7 +2376,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 2500.0,
       "screening": {
         "acquisition_score": 27,
@@ -2428,7 +2428,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 10000.0,
       "screening": {
         "acquisition_score": 27,
@@ -2636,7 +2636,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 59000.0,
       "screening": {
         "acquisition_score": 27,
@@ -2792,7 +2792,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 5500.0,
       "screening": {
         "acquisition_score": 27,
@@ -3262,7 +3262,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 200000.0,
       "screening": {
         "acquisition_score": 22,
@@ -3314,7 +3314,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 8000.0,
       "screening": {
         "acquisition_score": 27,
@@ -3418,7 +3418,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -3471,7 +3471,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 4900.0,
       "screening": {
         "acquisition_score": 27,
@@ -3575,7 +3575,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 8000.0,
       "screening": {
         "acquisition_score": 27,
@@ -3679,7 +3679,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -4357,7 +4357,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 6000.0,
       "screening": {
         "acquisition_score": 27,
@@ -4617,7 +4617,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 6000.0,
       "screening": {
         "acquisition_score": 27,
@@ -4669,7 +4669,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -4699,6 +4699,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "microns:one-llm-api-platform": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 59000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "One LLM API Platform",
+      "url": "https://www.microns.io/startup-listings/one-llm-api-platform"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
   },
   "microns:online-form-builder": {
     "created_at": "2026-10-23",
@@ -4878,7 +4930,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -5399,7 +5451,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 10000.0,
       "screening": {
         "acquisition_score": 27,
@@ -5503,7 +5555,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 19900.0,
       "screening": {
         "acquisition_score": 27,
@@ -21523,6 +21575,220 @@
     "status": "new",
     "updated_at": "2026-11-09"
   },
+  "reddit:t3_1xsiy9r": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/microsaas",
+      "title": "I do marketing for a living. Share what you're building and I’ll give you a custom growth plan",
+      "url": "https://www.reddit.com/r/microsaas/comments/1xsiy9r/i_do_marketing_for_a_living_share_what_youre/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
+  "reddit:t3_1xsj01l": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "Website for Sale – Established Tier 1 Traffic & Growth Potential",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1xsj01l/website_for_sale_established_tier_1_traffic/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
+  "reddit:t3_1xsjepx": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "[SELLING] 13 SaaS lifetime deals: JoggAI, Breakcold, Stackby, NeuronWriter, re:tune and more",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xsjepx/selling_13_saas_lifetime_deals_joggai_breakcold/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
+  "reddit:t3_1xsk4uj": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SaaS",
+      "title": "Is Sales Navigator dead?",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xsk4uj/is_sales_navigator_dead/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -21545,7 +21811,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -22009,13 +22275,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 2196000.0,
+        "annual_revenue_reported": 2172000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 183000.0,
+        "monthly_revenue_reported": 181000.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 12000000.0,
       "screening": {
         "acquisition_score": 17,
@@ -22850,7 +23116,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 1500000.0,
       "screening": {
         "acquisition_score": 17,
@@ -22874,7 +23140,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "40 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+      "title": "42 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
       "url": "https://trustmrr.com/startup/boothie"
     },
     "review_notes": [],
@@ -23209,13 +23475,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 20400.0,
+        "annual_revenue_reported": 24000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 1700.0,
+        "monthly_revenue_reported": 2000.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 70000.0,
       "screening": {
         "acquisition_score": 27,
@@ -23261,13 +23527,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 32400.0,
+        "annual_revenue_reported": 33600.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2700.0,
+        "monthly_revenue_reported": 2800.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 50000.0,
       "screening": {
         "acquisition_score": 27,
@@ -23683,7 +23949,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -23707,7 +23973,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "50 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+      "title": "49 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
       "url": "https://trustmrr.com/startup/conductor"
     },
     "review_notes": [],
@@ -25379,7 +25645,7 @@
         "monthly_revenue_reported": 151.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 4000.0,
       "screening": {
         "acquisition_score": 27,
@@ -25483,7 +25749,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -25507,7 +25773,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "38 G GoTall FOR SALE Superwall ios application C Chenglin $55,876 4 %",
+      "title": "38 G GoTall FOR SALE Superwall ios application C Chenglin $55,849 _",
       "url": "https://trustmrr.com/startup/gotall"
     },
     "review_notes": [],
@@ -25952,7 +26218,7 @@
         "monthly_revenue_reported": 150.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 9500.0,
       "screening": {
         "acquisition_score": 27,
@@ -26057,7 +26323,7 @@
         "monthly_revenue_reported": 42000.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 1000000.0,
       "screening": {
         "acquisition_score": 17,
@@ -26296,6 +26562,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-24"
+  },
+  "trustmrr:janusprep-ai": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 22800.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 1900.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 50000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "JanusPrep.AI Education",
+      "url": "https://trustmrr.com/startup/janusprep-ai"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
   },
   "trustmrr:justmacapps": {
     "created_at": "2026-11-05",
@@ -26631,7 +26949,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -26655,7 +26973,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "42 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+      "title": "41 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
       "url": "https://trustmrr.com/startup/laper"
     },
     "review_notes": [],
@@ -27511,13 +27829,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 996.0,
+        "annual_revenue_reported": 780.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 83.0,
+        "monthly_revenue_reported": 65.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 2500.0,
       "screening": {
         "acquisition_score": 27,
@@ -27831,7 +28149,7 @@
         "monthly_revenue_reported": 403.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 40000.0,
       "screening": {
         "acquisition_score": 27,
@@ -27935,7 +28253,7 @@
         "monthly_revenue_reported": 1400.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 50000.0,
       "screening": {
         "acquisition_score": 27,
@@ -27987,7 +28305,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -28138,13 +28456,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 111600.0,
+        "annual_revenue_reported": 112800.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 9300.0,
+        "monthly_revenue_reported": 9400.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 110000.0,
       "screening": {
         "acquisition_score": 27,
@@ -28196,7 +28514,7 @@
         "monthly_revenue_reported": 6700.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 300000.0,
       "screening": {
         "acquisition_score": 17,
@@ -28770,7 +29088,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 12,
@@ -28824,7 +29142,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -29531,6 +29849,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-19"
+  },
+  "trustmrr:scalereach": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 36000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 3000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 50000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Scalereach.ai Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/scalereach"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
   },
   "trustmrr:scoutly": {
     "created_at": "2026-10-15",
@@ -30282,7 +30652,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -30329,13 +30699,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 11652.0,
+        "annual_revenue_reported": 11520.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 971.0,
+        "monthly_revenue_reported": 960.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 53000.0,
       "screening": {
         "acquisition_score": 27,
@@ -30642,14 +31012,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3888.0,
+        "annual_revenue_reported": 4344.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 324.0,
+        "monthly_revenue_reported": 362.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
-      "latest_price": 6000.0,
+      "last_seen": "2026-11-10",
+      "latest_price": 4000.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -32104,7 +32474,7 @@
         "monthly_revenue_reported": 1200.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 45000.0,
       "screening": {
         "acquisition_score": 27,
@@ -32203,13 +32573,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 18000.0,
+        "annual_revenue_reported": 16800.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 1500.0,
+        "monthly_revenue_reported": 1400.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 7000.0,
       "screening": {
         "acquisition_score": 27,
@@ -32417,7 +32787,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -32731,7 +33101,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -32755,7 +33125,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "32 White Glove Content FOR SALE We provide a subscription-based content producti",
+      "title": "33 White Glove Content FOR SALE We provide a subscription-based content producti",
       "url": "https://trustmrr.com/startup/white-glove-content"
     },
     "review_notes": [],
