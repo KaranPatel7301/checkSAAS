@@ -3762,6 +3762,58 @@
     "status": "new",
     "updated_at": "2026-10-28"
   },
+  "microns:expense-tracking-ios-app": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 1000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Expense Tracking iOS App",
+      "url": "https://www.microns.io/startup-listings/expense-tracking-ios-app"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
   "microns:faceless-shorts-generator-platform": {
     "created_at": "2026-11-04",
     "diligence": {
@@ -3813,6 +3865,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-11-04"
+  },
+  "microns:football-analytics-live-scores-platform": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 17000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Football Analytics & Live Scores Platform",
+      "url": "https://www.microns.io/startup-listings/football-analytics-live-scores-platform"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
   },
   "microns:football-team-builder-pack-opener": {
     "created_at": "2026-10-13",
@@ -4021,6 +4125,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-20"
+  },
+  "microns:habits-hobby-tracker-ios-app": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 1000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Habits & Hobby Tracker iOS App",
+      "url": "https://www.microns.io/startup-listings/habits-hobby-tracker-ios-app"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
   },
   "microns:health-home-and-lifestyle-online-store": {
     "created_at": "2026-11-03",
@@ -5481,6 +5637,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "microns:stress-recovery-app-for-iphone-and-apple-watch": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 1500.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Stress & Recovery App for iPhone and Apple Watch",
+      "url": "https://www.microns.io/startup-listings/stress-recovery-app-for-iphone-and-apple-watch"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
   "microns:stripe-automated-invoicing-integration": {
     "created_at": "2026-10-27",
     "diligence": {
@@ -5532,6 +5740,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-27"
+  },
+  "microns:tallow-honey-body-care-brand": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 29500.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Tallow & Honey Body Care Brand",
+      "url": "https://www.microns.io/startup-listings/tallow-honey-body-care-brand"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
   },
   "microns:telegram-to-mt4-mt5-trading-signal-software": {
     "created_at": "2026-11-09",
@@ -21789,6 +22049,169 @@
     "status": "new",
     "updated_at": "2026-11-10"
   },
+  "reddit:t3_1xswyti": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase",
+          "Potential operator constraint: stuck at, onboarding"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 40,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SaaS",
+      "title": "took our hr operations tool from 500 mrr to 15k mrr catching startup hiring signals.",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xswyti/took_our_hr_operations_tool_from_500_mrr_to_15k/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
+  "reddit:t3_1xsxxzo": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "[For Sale] WorkflowOS — AI Document Processing SaaS — $2,300 OBO — Pre-Revenue",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xsxxzo/for_sale_workflowos_ai_document_processing_saas/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
+  "reddit:t3_1xt05qw": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase",
+          "Potential operator constraint: churn"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 25,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SaaS",
+      "title": "Took me way too long to realize churn was capping my growth, not marketing",
+      "url": "https://www.reddit.com/r/SaaS/comments/1xt05qw/took_me_way_too_long_to_realize_churn_was_capping/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -23973,7 +24396,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "49 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+      "title": "48 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
       "url": "https://trustmrr.com/startup/conductor"
     },
     "review_notes": [],
@@ -25639,14 +26062,14 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1812.0,
+        "annual_revenue_reported": 1944.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 151.0,
+        "monthly_revenue_reported": 162.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-10",
-      "latest_price": 4000.0,
+      "latest_price": 2700.0,
       "screening": {
         "acquisition_score": 27,
         "annual_cash_yield": null,
@@ -26407,6 +26830,58 @@
     "status": "new",
     "updated_at": "2026-10-26"
   },
+  "trustmrr:incometax-genius": {
+    "created_at": "2026-11-10",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 13200.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 1100.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-10",
+      "latest_price": 9000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "I Incometax-genius Fintech",
+      "url": "https://trustmrr.com/startup/incometax-genius"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-10"
+  },
   "trustmrr:incoming-call": {
     "created_at": "2026-10-22",
     "diligence": {
@@ -26973,7 +27448,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "41 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+      "title": "39 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
       "url": "https://trustmrr.com/startup/laper"
     },
     "review_notes": [],
@@ -28096,7 +28571,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -28120,7 +28595,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "49 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,759 1 %",
+      "title": "50 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,939 1 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -28143,10 +28618,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 4836.0,
+        "annual_revenue_reported": 5220.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 403.0,
+        "monthly_revenue_reported": 435.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-10",
@@ -28456,10 +28931,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 112800.0,
+        "annual_revenue_reported": 114000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 9400.0,
+        "monthly_revenue_reported": 9500.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-10",
@@ -29450,13 +29925,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3060.0,
+        "annual_revenue_reported": 3312.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 255.0,
+        "monthly_revenue_reported": 276.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-10",
       "latest_price": 3500.0,
       "screening": {
         "acquisition_score": 27,
@@ -29479,7 +29954,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "Regiere Deutschland Entertainment",
+      "title": "Private Enterprise Entertainment",
       "url": "https://trustmrr.com/startup/regiere-deutschland"
     },
     "review_notes": [],
@@ -29866,10 +30341,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 36000.0,
+        "annual_revenue_reported": 37200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 3000.0,
+        "monthly_revenue_reported": 3100.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-10",
@@ -32811,7 +33286,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+      "title": "43 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
       "url": "https://trustmrr.com/startup/vidai-llc"
     },
     "review_notes": [],
