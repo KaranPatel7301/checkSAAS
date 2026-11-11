@@ -22372,6 +22372,438 @@
     "status": "new",
     "updated_at": "2026-11-11"
   },
+  "reddit:t3_1xtryhm": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "Selling my AI Learning App – $246 MRR, 3K+ Downloads, 40K TikTok Followers – $3,000",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xtryhm/selling_my_ai_learning_app_246_mrr_3k_downloads/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
+  "reddit:t3_1xts0v7": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AppBusiness",
+      "title": "Selling my AI Learning App – $246 MRR, 3K+ Downloads, 40K TikTok Followers – $3,000",
+      "url": "https://www.reddit.com/r/AppBusiness/comments/1xts0v7/selling_my_ai_learning_app_246_mrr_3k_downloads/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
+  "reddit:t3_1xts5jp": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "Selling tech news app. 730+ users of founders, investors, operators",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1xts5jp/selling_tech_news_app_730_users_of_founders/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
+  "reddit:t3_1xttknb": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/AcquireStartup",
+      "title": "Looking to sell my Instagram anime/manga page with 70K+ followers. How much is it worth?",
+      "url": "https://www.reddit.com/r/AcquireStartup/comments/1xttknb/looking_to_sell_my_instagram_animemanga_page_with/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
+  "reddit:t3_1xtvu1b": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/saasforsale",
+      "title": "$14K+ in product sales, 700+ SEO pages, 6 digital assets looking for buyers.",
+      "url": "https://www.reddit.com/r/saasforsale/comments/1xtvu1b/14k_in_product_sales_700_seo_pages_6_digital/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
+  "reddit:t3_1xtvwn9": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/SideProject",
+      "title": "I mapped 290 documented failures in AI document tooling (LangChain, RAGFlow, Docling...) - feedback welcome\"",
+      "url": "https://www.reddit.com/r/SideProject/comments/1xtvwn9/i_mapped_290_documented_failures_in_ai_document/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
+  "reddit:t3_1xtvzy7": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "irrelevant",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/microsaas",
+      "title": "We spent two years building a knowledge work AI app. Too much of that time went into fixing the foundations.",
+      "url": "https://www.reddit.com/r/microsaas/comments/1xtvzy7/we_spent_two_years_building_a_knowledge_work_ai/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
+  "reddit:t3_1xtw1qq": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "lead",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": null,
+      "screening": {
+        "acquisition_score": 5,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Subscription model unverified",
+          "Profit not verified",
+          "Asking price unknown",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 10,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "reddit/Entrepreneurs",
+      "title": "Research Peptide Store For Sale",
+      "url": "https://www.reddit.com/r/Entrepreneurs/comments/1xtw1qq/research_peptide_store_for_sale/"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
   "trustmrr:1lookup": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -24997,10 +25429,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 360000.0,
+        "annual_revenue_reported": 348000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 30000.0,
+        "monthly_revenue_reported": 29000.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-11",
@@ -26379,10 +26811,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1740.0,
+        "annual_revenue_reported": 1788.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 145.0,
+        "monthly_revenue_reported": 149.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-11",
@@ -29121,7 +29553,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "16 C Confidential Startup FOR SALE Profitable online language learning platform ",
+      "title": "14 C Confidential Startup FOR SALE Profitable online language learning platform ",
       "url": "https://trustmrr.com/startup/online-edtech"
     },
     "review_notes": [],
@@ -29905,7 +30337,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "36 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
+      "title": "35 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
       "url": "https://trustmrr.com/startup/project-a"
     },
     "review_notes": [],
@@ -30242,13 +30674,13 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 3312.0,
+        "annual_revenue_reported": 3372.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 276.0,
+        "monthly_revenue_reported": 281.0,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-10",
+      "last_seen": "2026-11-11",
       "latest_price": 3500.0,
       "screening": {
         "acquisition_score": 27,
@@ -32204,6 +32636,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "trustmrr:stealth-venture-31": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 117600.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 9800.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": 240000.0,
+      "screening": {
+        "acquisition_score": 22,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Stealth Venture SaaS",
+      "url": "https://trustmrr.com/startup/stealth-venture-31"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
+  },
   "trustmrr:store-stock-checker": {
     "created_at": "2026-10-28",
     "diligence": {
@@ -32723,6 +33207,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-14"
+  },
+  "trustmrr:thumbnailgpt": {
+    "created_at": "2026-11-11",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 240.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 20.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-11",
+      "latest_price": 1000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "ThumbnailGPT Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/thumbnailgpt"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-11"
   },
   "trustmrr:thyonix": {
     "created_at": "2026-10-20",
@@ -33969,7 +34505,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "33 White Glove Content FOR SALE We provide a subscription-based content producti",
+      "title": "34 White Glove Content FOR SALE We provide a subscription-based content producti",
       "url": "https://trustmrr.com/startup/white-glove-content"
     },
     "review_notes": [],
