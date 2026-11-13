@@ -9,7 +9,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -46,7 +46,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-24",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -157,7 +157,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-19",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -194,7 +194,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -231,7 +231,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -268,7 +268,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -305,7 +305,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 340800.0,
@@ -349,7 +349,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 260961.0,
@@ -401,7 +401,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 1889891.0,
@@ -445,12 +445,12 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 4709.583333333333,
-      "monthly_revenue_reported": 18533.416666666668,
+      "monthly_profit_reported": 4137.166666666667,
+      "monthly_revenue_reported": 16864.916666666668,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 188619.0,
@@ -459,13 +459,17 @@
       {
         "amount": 186500.0,
         "date": "2026-10-21"
+      },
+      {
+        "amount": 148937.0,
+        "date": "2026-11-13"
       }
     ],
     "screening": {
-      "acquisition_score": 42,
-      "annual_cash_yield": 0.303029490616622,
+      "acquisition_score": 47,
+      "annual_cash_yield": 0.3333355714161021,
       "confidence": "medium",
-      "discount_to_target_pct": 24.2,
+      "discount_to_target_pct": 16.7,
       "flags": [
         "Above 2.5x annual profit",
         "Business age unverified",
@@ -474,10 +478,10 @@
       ],
       "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 39.60010616650447,
-      "profit_multiple": 3.3000088472087055,
-      "target_offer_high": 141288,
-      "target_offer_low": 84772,
+      "payback_months": 35.99975828868388,
+      "profit_multiple": 2.9999798573903234,
+      "target_offer_high": 124115,
+      "target_offer_low": 74469,
       "track": "acquisition"
     },
     "source": "empireflippers",
@@ -494,7 +498,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 2617908.0,
@@ -535,7 +539,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 108508.0,
@@ -698,7 +702,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -1105,7 +1109,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-24",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -1560,7 +1564,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 3600.0,
@@ -1892,7 +1896,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 10000.0,
@@ -2179,7 +2183,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 5500.0,
@@ -2540,7 +2544,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 200000.0,
@@ -2581,7 +2585,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 8000.0,
@@ -2663,7 +2667,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -2864,7 +2868,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-15",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -2942,7 +2946,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 1000.0,
@@ -3024,7 +3028,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 17000.0,
@@ -3229,7 +3233,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 1000.0,
@@ -3717,7 +3721,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 6000.0,
@@ -3758,7 +3762,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -3795,7 +3799,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 59000.0,
@@ -3959,7 +3963,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -4365,7 +4369,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 10000.0,
@@ -4406,7 +4410,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 1500.0,
@@ -4488,7 +4492,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 29500.0,
@@ -4529,7 +4533,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-09",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 19900.0,
@@ -16979,6 +16983,234 @@
     "title": "Looking for a new owner for two iOS side projects",
     "url": "https://www.reddit.com/r/SideProject/comments/1xuq8oo/looking_for_a_new_owner_for_two_ios_side_projects/"
   },
+  "reddit:t3_1xv29cp": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase",
+        "Potential operator constraint: co-founder"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 25,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SideProject",
+    "title": "Looking for a Marketing / Growth Co-Founder for an existing UGC platform",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xv29cp/looking_for_a_marketing_growth_cofounder_for_an/"
+  },
+  "reddit:t3_1xv2tii": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "[FOR SALE] Kaja AI \u2013 AI App Business \u2013 $2,500",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xv2tii/for_sale_kaja_ai_ai_app_business_2500/"
+  },
+  "reddit:t3_1xv2u1c": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AppBusiness",
+    "title": "[FOR SALE] Kaja AI \u2013 AI App Business \u2013 $2,500",
+    "url": "https://www.reddit.com/r/AppBusiness/comments/1xv2u1c/for_sale_kaja_ai_ai_app_business_2500/"
+  },
+  "reddit:t3_1xv2uii": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SaaS",
+    "title": "[FOR SALE] Kaja AI \u2013 AI App Business \u2013 $2,500",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xv2uii/for_sale_kaja_ai_ai_app_business_2500/"
+  },
+  "reddit:t3_1xv2wmg": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SaaS",
+    "title": "How i hit 3k MRR in 21 days",
+    "url": "https://www.reddit.com/r/SaaS/comments/1xv2wmg/how_i_hit_3k_mrr_in_21_days/"
+  },
+  "reddit:t3_1xv4eg0": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/SideProject",
+    "title": "[FOR SALE] Linkmaxxer - Complete LinkedIn Automation Desktop App | Full Source Code | No Server Costs",
+    "url": "https://www.reddit.com/r/SideProject/comments/1xv4eg0/for_sale_linkmaxxer_complete_linkedin_automation/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -16989,7 +17221,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -17371,7 +17603,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-05",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 12000000.0,
@@ -18038,7 +18270,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 1500000.0,
@@ -18338,7 +18570,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 100000.0,
@@ -18420,7 +18652,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 50000.0,
@@ -18429,6 +18661,10 @@
       {
         "amount": 70000.0,
         "date": "2026-11-09"
+      },
+      {
+        "amount": 66000.0,
+        "date": "2026-11-13"
       }
     ],
     "screening": {
@@ -18458,14 +18694,14 @@
   "trustmrr:chart-scanner-ai": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 37200.0,
+      "annual_revenue_reported": 38400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3100.0,
+      "monthly_revenue_reported": 3200.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-08",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 50000.0,
@@ -18809,7 +19045,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -19136,7 +19372,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 50000.0,
@@ -20768,14 +21004,14 @@
   "trustmrr:hidden-business-90": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 49200.0,
+      "annual_revenue_reported": 48000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4100.0,
+      "monthly_revenue_reported": 4000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 95000.0,
@@ -20858,7 +21094,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 4900.0,
@@ -21063,7 +21299,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 50000.0,
@@ -21354,7 +21590,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -22056,7 +22292,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 55000.0,
@@ -22463,7 +22699,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -22575,14 +22811,14 @@
   "trustmrr:pdf-vault": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 120000.0,
+      "annual_revenue_reported": 132000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 10000.0,
+      "monthly_revenue_reported": 11000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-25",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 150000.0,
@@ -22798,6 +23034,48 @@
     "title": "PreLoved AI Artificial Intelligence",
     "url": "https://trustmrr.com/startup/preloved-ai"
   },
+  "trustmrr:private-enterprise-10": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 204000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 17000.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [
+      {
+        "amount": 410000.0,
+        "date": "2026-11-13"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Omnira : Focus & Sleep Sounds Health & Fitness",
+    "url": "https://trustmrr.com/startup/private-enterprise-10"
+  },
   "trustmrr:private-enterprise-76": {
     "category": "verify",
     "financials": {
@@ -22925,14 +23203,14 @@
   "trustmrr:private-enterprise-92": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 5808.0,
+      "annual_revenue_reported": 5208.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 484.0,
+      "monthly_revenue_reported": 434.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 12000.0,
@@ -22962,6 +23240,47 @@
     "source": "trustmrr",
     "title": "Private Enterprise",
     "url": "https://trustmrr.com/startup/private-enterprise-92"
+  },
+  "trustmrr:private-venture-101": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 66000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 5500.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-13",
+    "last_seen": "2026-11-13",
+    "prices": [
+      {
+        "amount": 30000.0,
+        "date": "2026-11-13"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Private Venture",
+    "url": "https://trustmrr.com/startup/private-venture-101"
   },
   "trustmrr:private-venture-72": {
     "category": "verify",
@@ -23149,7 +23468,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 12,
@@ -23174,7 +23493,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "36 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
+    "title": "34 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
     "url": "https://trustmrr.com/startup/project-a"
   },
   "trustmrr:prosp": {
@@ -23187,7 +23506,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -23774,7 +24093,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 50000.0,
@@ -23939,14 +24258,14 @@
   "trustmrr:seenless": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 69600.0,
+      "annual_revenue_reported": 66000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 5800.0,
+      "monthly_revenue_reported": 5500.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 65000.0,
@@ -24450,7 +24769,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -25067,14 +25386,14 @@
   "trustmrr:stealth-venture-31": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 120000.0,
+      "annual_revenue_reported": 118800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 10000.0,
+      "monthly_revenue_reported": 9900.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-11",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 240000.0,
@@ -25533,11 +25852,15 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 10000.0,
         "date": "2026-11-12"
+      },
+      {
+        "amount": 6500.0,
+        "date": "2026-11-13"
       }
     ],
     "screening": {
@@ -26157,7 +26480,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 7000.0,
@@ -26321,7 +26644,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -26351,14 +26674,14 @@
   "trustmrr:visomapper": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 11808.0,
+      "annual_revenue_reported": 11136.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 984.0,
+      "monthly_revenue_reported": 928.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [
       {
         "amount": 5900.0,
@@ -26609,7 +26932,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-12",
+    "last_seen": "2026-11-13",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -26633,7 +26956,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "35 White Glove Content FOR SALE We provide a subscription-based content producti",
+    "title": "36 White Glove Content FOR SALE We provide a subscription-based content producti",
     "url": "https://trustmrr.com/startup/white-glove-content"
   },
   "trustmrr:writesim": {
