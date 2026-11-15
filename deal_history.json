@@ -3826,6 +3826,47 @@
     "title": "Newsletter about Finances",
     "url": "https://www.microns.io/startup-listings/newsletter-about-finances"
   },
+  "microns:newsletter-article-to-epub-converter": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "prices": [
+      {
+        "amount": 3000.0,
+        "date": "2026-11-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Newsletter & Article to EPUB Converter",
+    "url": "https://www.microns.io/startup-listings/newsletter-article-to-epub-converter"
+  },
   "microns:newsletter-for-dog-owners": {
     "category": "verify",
     "financials": {
@@ -18170,6 +18211,157 @@
     "title": "I built Loft, a tiny open-source desktop notch that answers questions about your local files with llama.cpp, with citations (Rust/Tauri/Svelte)",
     "url": "https://www.reddit.com/r/SideProject/comments/1xwsfhh/i_built_loft_a_tiny_opensource_desktop_notch_that/"
   },
+  "reddit:t3_1xx58ig": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "[Selling] 20k-user ai companion bot (18+). code from $1,200, whole business $4k",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xx58ig/selling_20kuser_ai_companion_bot_18_code_from/"
+  },
+  "reddit:t3_1xx67l1": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/acquiresaas",
+    "title": "[Selling] creditswap.app, adoptastork.com, tlguide.com, gardenofchow.com & filtersandprain.com",
+    "url": "https://www.reddit.com/r/acquiresaas/comments/1xx67l1/selling_creditswapapp_adoptastorkcom_tlguidecom/"
+  },
+  "reddit:t3_1xx6vkx": {
+    "category": "irrelevant",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 5,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Subscription model unverified",
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/AcquireStartup",
+    "title": "[ Removed by Reddit ]",
+    "url": "https://www.reddit.com/r/AcquireStartup/comments/1xx6vkx/removed_by_reddit/"
+  },
+  "reddit:t3_1xx904d": {
+    "category": "lead",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "reddit/saasforsale",
+    "title": "[for sale] ai companion saas on telegram: 20k users, 13 custom character models, stars billing. code from $1,200, whole business $4k",
+    "url": "https://www.reddit.com/r/saasforsale/comments/1xx904d/for_sale_ai_companion_saas_on_telegram_20k_users/"
+  },
   "trustmrr:1lookup": {
     "category": "verify",
     "financials": {
@@ -18358,6 +18550,10 @@
       {
         "amount": 42000.0,
         "date": "2026-11-14"
+      },
+      {
+        "amount": 34000.0,
+        "date": "2026-11-15"
       }
     ],
     "screening": {
@@ -19299,7 +19495,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "43 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+    "title": "42 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
   },
   "trustmrr:btfind-bluetooth-finder": {
@@ -22094,10 +22290,10 @@
   "trustmrr:hidden-business-90": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 46800.0,
+      "annual_revenue_reported": 48000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3900.0,
+      "monthly_revenue_reported": 4000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
@@ -23256,10 +23452,10 @@
   "trustmrr:mogoff": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 1608.0,
+      "annual_revenue_reported": 1656.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 134.0,
+      "monthly_revenue_reported": 138.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-14",
@@ -25435,10 +25631,10 @@
   "trustmrr:scalereach": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 57600.0,
+      "annual_revenue_reported": 74400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4800.0,
+      "monthly_revenue_reported": 6200.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-10",
@@ -25562,6 +25758,47 @@
     "source": "trustmrr",
     "title": "Screenshot to Code (WhimsyWorks, Inc.) Artificial Intelligence",
     "url": "https://trustmrr.com/startup/screenshot-to-code-whimsyworks-inc"
+  },
+  "trustmrr:screeny": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 30000.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 2500.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-15",
+    "last_seen": "2026-11-15",
+    "prices": [
+      {
+        "amount": 60000.0,
+        "date": "2026-11-15"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Screeny: Mockup & Product Demo Mobile Apps",
+    "url": "https://trustmrr.com/startup/screeny"
   },
   "trustmrr:scriptrade-ai": {
     "category": "verify",
@@ -26070,10 +26307,10 @@
   "trustmrr:smartlycv": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 5004.0,
+      "annual_revenue_reported": 4908.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 417.0,
+      "monthly_revenue_reported": 409.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-15",
