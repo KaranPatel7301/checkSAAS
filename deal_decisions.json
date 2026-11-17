@@ -26775,10 +26775,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 10368.0,
+        "annual_revenue_reported": 10848.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 864.0,
+        "monthly_revenue_reported": 904.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-17",
@@ -27692,7 +27692,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "42 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+      "title": "44 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
       "url": "https://trustmrr.com/startup/boothie"
     },
     "review_notes": [],
@@ -27975,10 +27975,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 25200.0,
+        "annual_revenue_reported": 26400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2100.0,
+        "monthly_revenue_reported": 2200.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-17",
@@ -28166,6 +28166,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-11-08"
+  },
+  "trustmrr:chadme": {
+    "created_at": "2026-11-17",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 16800.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 1400.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-17",
+      "latest_price": 30000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "ChadMe Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/chadme"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-17"
   },
   "trustmrr:chart-scanner-ai": {
     "created_at": "2026-11-08",
@@ -29123,10 +29175,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 7476.0,
+        "annual_revenue_reported": 7764.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 623.0,
+        "monthly_revenue_reported": 647.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-17",
@@ -30609,10 +30661,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 1668.0,
+        "annual_revenue_reported": 1608.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 139.0,
+        "monthly_revenue_reported": 134.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-17",
@@ -31428,6 +31480,59 @@
     "status": "new",
     "updated_at": "2026-11-17"
   },
+  "trustmrr:house-goals": {
+    "created_at": "2026-11-17",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 118800.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 9900.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-17",
+      "latest_price": 600000.0,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Over asking-price threshold",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "House Goals Mobile Apps",
+      "url": "https://trustmrr.com/startup/house-goals"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-17"
+  },
   "trustmrr:humanize-ai": {
     "created_at": "2026-10-26",
     "diligence": {
@@ -32151,7 +32256,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "46 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+      "title": "47 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
       "url": "https://trustmrr.com/startup/laper"
     },
     "review_notes": [],
@@ -33663,7 +33768,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "14 C Confidential Startup FOR SALE Profitable online language learning platform ",
+      "title": "13 C Confidential Startup FOR SALE Profitable online language learning platform ",
       "url": "https://trustmrr.com/startup/online-edtech"
     },
     "review_notes": [],
@@ -35774,10 +35879,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 31200.0,
+        "annual_revenue_reported": 32400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2600.0,
+        "monthly_revenue_reported": 2700.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-17",
@@ -37372,6 +37477,59 @@
     "status": "new",
     "updated_at": "2026-11-11"
   },
+  "trustmrr:stealth-venture-68": {
+    "created_at": "2026-11-17",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 192000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 16000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-17",
+      "latest_price": 1000000.0,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Over asking-price threshold",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Stealth Venture",
+      "url": "https://trustmrr.com/startup/stealth-venture-68"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-17"
+  },
   "trustmrr:store-stock-checker": {
     "created_at": "2026-10-28",
     "diligence": {
@@ -38220,10 +38378,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 44400.0,
+        "annual_revenue_reported": 43200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 3700.0,
+        "monthly_revenue_reported": 3600.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-17",
@@ -38249,7 +38407,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "Private Enterprise Content Creation",
+      "title": "ToMotion Artificial Intelligence",
       "url": "https://trustmrr.com/startup/tomotion"
     },
     "review_notes": [],
@@ -39083,7 +39241,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+      "title": "45 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
       "url": "https://trustmrr.com/startup/vidai-llc"
     },
     "review_notes": [],
@@ -39449,7 +39607,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "36 White Glove Content FOR SALE We provide a subscription-based content producti",
+      "title": "37 White Glove Content FOR SALE We provide a subscription-based content producti",
       "url": "https://trustmrr.com/startup/white-glove-content"
     },
     "review_notes": [],
