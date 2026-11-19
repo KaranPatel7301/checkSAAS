@@ -729,6 +729,88 @@
     "title": "AI Calorie Tracker iOS App",
     "url": "https://www.microns.io/startup-listings/ai-calorie-tracker-ios-app"
   },
+  "microns:ai-cinematic-3d-map-video-generator": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 20000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI Cinematic 3D Map Video Generator",
+    "url": "https://www.microns.io/startup-listings/ai-cinematic-3d-map-video-generator"
+  },
+  "microns:ai-clothing-photography-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 1000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI Clothing Photography Platform",
+    "url": "https://www.microns.io/startup-listings/ai-clothing-photography-platform"
+  },
   "microns:ai-content-plagiarism-checker": {
     "category": "verify",
     "financials": {
@@ -2087,6 +2169,47 @@
     "title": "AI Song Maker iOS App",
     "url": "https://www.microns.io/startup-listings/ai-song-maker-ios-app"
   },
+  "microns:ai-text-humanizer": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 5500.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI Text Humanizer",
+    "url": "https://www.microns.io/startup-listings/ai-text-humanizer"
+  },
   "microns:ai-tips-newsletter": {
     "category": "verify",
     "financials": {
@@ -2184,6 +2307,10 @@
       {
         "amount": 12000.0,
         "date": "2026-11-16"
+      },
+      {
+        "amount": 10000.0,
+        "date": "2026-11-19"
       }
     ],
     "screening": {
@@ -3178,6 +3305,47 @@
     "title": "Faceless Shorts Generator Platform",
     "url": "https://www.microns.io/startup-listings/faceless-shorts-generator-platform"
   },
+  "microns:five-chrome-extensions-bundle": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 75000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Five AI Chrome Extensions for LLMs",
+    "url": "https://www.microns.io/startup-listings/five-chrome-extensions-bundle"
+  },
   "microns:football-analytics-live-scores-platform": {
     "category": "verify",
     "financials": {
@@ -3867,6 +4035,47 @@
     "title": "MacOS Notch App for Music, Files and Clipboard",
     "url": "https://www.microns.io/startup-listings/macos-notch-app-for-music-files-and-clipboard"
   },
+  "microns:mobile-app-with-rewards": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 1000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Mobile App with Rewards",
+    "url": "https://www.microns.io/startup-listings/mobile-app-with-rewards"
+  },
   "microns:mood-tracker-guide-ios-app": {
     "category": "verify",
     "financials": {
@@ -4516,6 +4725,47 @@
     "title": "Reddit Bookmark Manager Extension",
     "url": "https://www.microns.io/startup-listings/reddit-bookmark-manager-extension"
   },
+  "microns:review-exchange-saas": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 95000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Review-Exchange SaaS",
+    "url": "https://www.microns.io/startup-listings/review-exchange-saas"
+  },
   "microns:saas-startups-directory": {
     "category": "verify",
     "financials": {
@@ -4679,6 +4929,47 @@
     "source": "microns",
     "title": "Social Dining and Matching Mobile App",
     "url": "https://www.microns.io/startup-listings/social-dining-and-matching-mobile-app"
+  },
+  "microns:social-media-scheduler-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 3000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Social Media Scheduler Platform",
+    "url": "https://www.microns.io/startup-listings/social-media-scheduler-platform"
   },
   "microns:star-wars-board-game-app": {
     "category": "verify",
@@ -5199,6 +5490,10 @@
       {
         "amount": 95000.0,
         "date": "2026-11-16"
+      },
+      {
+        "amount": 75000.0,
+        "date": "2026-11-19"
       }
     ],
     "screening": {
@@ -19377,10 +19672,10 @@
   "trustmrr:airix": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 10368.0,
+      "annual_revenue_reported": 10848.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 864.0,
+      "monthly_revenue_reported": 904.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-16",
@@ -20162,7 +20457,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "41 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+    "title": "42 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
   },
   "trustmrr:btfind-bluetooth-finder": {
@@ -20981,7 +21276,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "47 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+    "title": "48 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
     "url": "https://trustmrr.com/startup/conductor"
   },
   "trustmrr:confidential-startup-61": {
@@ -21108,6 +21403,47 @@
     "source": "trustmrr",
     "title": "Confidential Startup",
     "url": "https://trustmrr.com/startup/confidential-startup-76"
+  },
+  "trustmrr:controldopamine": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 384.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 32.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 2000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "ControlDopamine Productivity",
+    "url": "https://trustmrr.com/startup/controldopamine"
   },
   "trustmrr:convert2epub": {
     "category": "verify",
@@ -23141,6 +23477,10 @@
       {
         "amount": 75000.0,
         "date": "2026-11-14"
+      },
+      {
+        "amount": 70000.0,
+        "date": "2026-11-19"
       }
     ],
     "screening": {
@@ -23253,10 +23593,10 @@
   "trustmrr:house-goals": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 110400.0,
+      "annual_revenue_reported": 111600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 9200.0,
+      "monthly_revenue_reported": 9300.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-17",
@@ -23864,7 +24204,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "48 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "50 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -25787,6 +26127,47 @@
     "title": "Private Venture",
     "url": "https://trustmrr.com/startup/private-venture-104"
   },
+  "trustmrr:private-venture-113": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 13200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1100.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 22000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Redstring: Mobile Detective Game",
+    "url": "https://trustmrr.com/startup/private-venture-113"
+  },
   "trustmrr:private-venture-72": {
     "category": "verify",
     "financials": {
@@ -26043,7 +26424,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "34 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
+    "title": "35 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
     "url": "https://trustmrr.com/startup/project-a"
   },
   "trustmrr:prosp": {
@@ -26165,6 +26546,47 @@
     "source": "trustmrr",
     "title": "RapidQuiz Education",
     "url": "https://trustmrr.com/startup/rapidquiz"
+  },
+  "trustmrr:receeto": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 5892.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 491.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 11000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Receeto Fintech",
+    "url": "https://trustmrr.com/startup/receeto"
   },
   "trustmrr:recently-followed-ig-tracker": {
     "category": "verify",
@@ -27316,10 +27738,10 @@
   "trustmrr:smartlycv": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 5040.0,
+      "annual_revenue_reported": 5268.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 420.0,
+      "monthly_revenue_reported": 439.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-15",
@@ -27429,7 +27851,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "32 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
+    "title": "33 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
     "url": "https://trustmrr.com/startup/speel-co"
   },
   "trustmrr:sportii-app": {
@@ -28105,10 +28527,10 @@
   "trustmrr:stealth-venture-73": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 117600.0,
+      "annual_revenue_reported": 116400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 9800.0,
+      "monthly_revenue_reported": 9700.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
@@ -28396,6 +28818,48 @@
     "source": "trustmrr",
     "title": "Super Productivity",
     "url": "https://trustmrr.com/startup/super"
+  },
+  "trustmrr:superjoin": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 93600.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 7800.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-19",
+    "last_seen": "2026-11-19",
+    "prices": [
+      {
+        "amount": 420000.0,
+        "date": "2026-11-19"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Over asking-price threshold",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Superjoin Productivity",
+    "url": "https://trustmrr.com/startup/superjoin"
   },
   "trustmrr:superpower-for-ai": {
     "category": "verify",
@@ -29510,7 +29974,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "45 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+    "title": "46 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
   },
   "trustmrr:visomapper": {
@@ -29798,7 +30262,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "39 White Glove Content FOR SALE We provide a subscription-based content producti",
+    "title": "40 White Glove Content FOR SALE We provide a subscription-based content producti",
     "url": "https://trustmrr.com/startup/white-glove-content"
   },
   "trustmrr:writesim": {
