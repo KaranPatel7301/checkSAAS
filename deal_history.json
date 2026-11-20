@@ -414,13 +414,17 @@
       {
         "amount": 1899156.0,
         "date": "2026-10-29"
+      },
+      {
+        "amount": 1611971.0,
+        "date": "2026-11-20"
       }
     ],
     "screening": {
       "acquisition_score": 37,
-      "annual_cash_yield": 0.29268264429041113,
+      "annual_cash_yield": 0.34482630270643827,
       "confidence": "medium",
-      "discount_to_target_pct": 26.8,
+      "discount_to_target_pct": 13.8,
       "flags": [
         "Over asking-price threshold",
         "Above 2.5x annual profit",
@@ -430,8 +434,8 @@
       ],
       "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 41.00003957902312,
-      "profit_multiple": 3.416669964918593,
+      "payback_months": 34.80012953134838,
+      "profit_multiple": 2.9000107942790323,
       "target_offer_high": 1389625,
       "target_offer_low": 833775,
       "track": "acquisition"
@@ -609,6 +613,47 @@
     "source": "microns",
     "title": "83-App Portfolio",
     "url": "https://www.microns.io/startup-listings/83-app-portfolio"
+  },
+  "microns:ad-blocker-extension-for-pinterest": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 1000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Ad Blocker Extension for Pinterest",
+    "url": "https://www.microns.io/startup-listings/ad-blocker-extension-for-pinterest"
   },
   "microns:ai-ads-studio-for-e-commerce": {
     "category": "verify",
@@ -2292,6 +2337,47 @@
     "title": "AI Trading Platform",
     "url": "https://www.microns.io/startup-listings/ai-trading-platform-aa72a"
   },
+  "microns:ai-us-income-tax-optimization-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 9000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI US Income Tax Optimization Platform",
+    "url": "https://www.microns.io/startup-listings/ai-us-income-tax-optimization-platform"
+  },
   "microns:ai-video-score-analyzer-app": {
     "category": "verify",
     "financials": {
@@ -3022,6 +3108,47 @@
     "title": "DELF Preparation Platform",
     "url": "https://www.microns.io/startup-listings/delf-preparation-platform"
   },
+  "microns:digital-template-etsy-business": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 9700.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Digital Template Etsy Business",
+    "url": "https://www.microns.io/startup-listings/digital-template-etsy-business"
+  },
   "microns:directories-auto-submission-agent": {
     "category": "verify",
     "financials": {
@@ -3305,6 +3432,47 @@
     "title": "Faceless Shorts Generator Platform",
     "url": "https://www.microns.io/startup-listings/faceless-shorts-generator-platform"
   },
+  "microns:fashion-e-commerce-brand": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 153000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 22,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Fashion E-commerce Brand",
+    "url": "https://www.microns.io/startup-listings/fashion-e-commerce-brand"
+  },
   "microns:five-chrome-extensions-bundle": {
     "category": "verify",
     "financials": {
@@ -3468,6 +3636,47 @@
     "source": "microns",
     "title": "Fragrance Marketplace",
     "url": "https://www.microns.io/startup-listings/fragrance-marketplace"
+  },
+  "microns:g1-ontario-driving-test-ios-app": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 1000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "G1 Ontario Driving Test iOS App",
+    "url": "https://www.microns.io/startup-listings/g1-ontario-driving-test-ios-app"
   },
   "microns:gallery-cleanup-ios-app": {
     "category": "verify",
@@ -3870,6 +4079,47 @@
     "source": "microns",
     "title": "Language Learning Platform",
     "url": "https://www.microns.io/startup-listings/language-learning-platform"
+  },
+  "microns:launch-discovery-platform": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 22000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Launch & Discovery Platform",
+    "url": "https://www.microns.io/startup-listings/launch-discovery-platform"
   },
   "microns:local-business-directory-launch-kit": {
     "category": "verify",
@@ -4642,6 +4892,47 @@
     "source": "microns",
     "title": "Platform Turning Screenshot to Code",
     "url": "https://www.microns.io/startup-listings/platform-turning-screenshot-to-code"
+  },
+  "microns:private-browser": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 15000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "Private Browser",
+    "url": "https://www.microns.io/startup-listings/private-browser"
   },
   "microns:quran-reading-listening-app": {
     "category": "verify",
@@ -19335,10 +19626,10 @@
   "trustmrr:actionclip": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 38400.0,
+      "annual_revenue_reported": 39600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3200.0,
+      "monthly_revenue_reported": 3300.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
@@ -19713,10 +20004,10 @@
   "trustmrr:airix": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 10848.0,
+      "annual_revenue_reported": 10860.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 904.0,
+      "monthly_revenue_reported": 905.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-16",
@@ -20213,6 +20504,47 @@
     "title": "AppXpose Security",
     "url": "https://trustmrr.com/startup/appxpose"
   },
+  "trustmrr:appzoku": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 49200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 4100.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 150000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "AppZoku Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/appzoku"
+  },
   "trustmrr:ar-drawing-sketch": {
     "category": "verify",
     "financials": {
@@ -20335,6 +20667,43 @@
     "source": "trustmrr",
     "title": "AskElliot Consulting Artificial Intelligence",
     "url": "https://trustmrr.com/startup/askelliot"
+  },
+  "trustmrr:based-labs-ai": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "86 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
+    "url": "https://trustmrr.com/startup/based-labs-ai"
   },
   "trustmrr:betterpose-ai": {
     "category": "verify",
@@ -20500,6 +20869,43 @@
     "source": "trustmrr",
     "title": "42 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
+  },
+  "trustmrr:brawler": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "88 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
+    "url": "https://trustmrr.com/startup/brawler"
   },
   "trustmrr:btfind-bluetooth-finder": {
     "category": "verify",
@@ -20938,6 +21344,47 @@
     "source": "trustmrr",
     "title": "ChadMe Artificial Intelligence",
     "url": "https://trustmrr.com/startup/chadme"
+  },
+  "trustmrr:chalkie": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 1776.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 148.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 2900.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Chalkie Utilities",
+    "url": "https://trustmrr.com/startup/chalkie"
   },
   "trustmrr:chart-scanner-ai": {
     "category": "verify",
@@ -21568,6 +22015,47 @@
     "title": "Cooksync Artificial Intelligence",
     "url": "https://trustmrr.com/startup/cooksync"
   },
+  "trustmrr:coralflavor": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 49200.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 4100.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 220000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 22,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Coralflavor Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/coralflavor"
+  },
   "trustmrr:cove-ivf": {
     "category": "verify",
     "financials": {
@@ -22166,6 +22654,43 @@
     "source": "trustmrr",
     "title": "Eyi Mobile Apps",
     "url": "https://trustmrr.com/startup/eyi"
+  },
+  "trustmrr:facekit": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "96 FaceKit FOR SALE Highly profitable & scalable consumer app in the looksmaxxin",
+    "url": "https://trustmrr.com/startup/facekit"
   },
   "trustmrr:fairmoney-loan-debt-tracker": {
     "category": "verify",
@@ -23502,10 +24027,10 @@
   "trustmrr:hidden-business-90": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 49200.0,
+      "annual_revenue_reported": 50400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4100.0,
+      "monthly_revenue_reported": 4200.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
@@ -24245,7 +24770,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "50 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "51 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -24288,6 +24813,84 @@
     "source": "trustmrr",
     "title": "Lapsula Health & Fitness",
     "url": "https://trustmrr.com/startup/lapsula"
+  },
+  "trustmrr:launch-club": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "95 Launch Club FOR SALE Reddit marketing to improve AI search.  SaaS helping bus",
+    "url": "https://trustmrr.com/startup/launch-club"
+  },
+  "trustmrr:letslaunch": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 432.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 36.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 1200.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "LetsLaunch Marketplace",
+    "url": "https://trustmrr.com/startup/letslaunch"
   },
   "trustmrr:lin-lore": {
     "category": "verify",
@@ -24585,6 +25188,47 @@
     "title": "Louna's Models - Leading Onlyfans Agency (Established models and 10k+ leads) Mar",
     "url": "https://trustmrr.com/startup/lounasmodels"
   },
+  "trustmrr:lumosim": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 5856.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 488.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [
+      {
+        "amount": 35000.0,
+        "date": "2026-11-20"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "LumoSIM : eSIM Data for Travel Travel",
+    "url": "https://trustmrr.com/startup/lumosim"
+  },
   "trustmrr:lunaaicycletracker": {
     "category": "verify",
     "financials": {
@@ -24625,6 +25269,43 @@
     "source": "trustmrr",
     "title": "Luna Health & Fitness",
     "url": "https://trustmrr.com/startup/lunaaicycletracker"
+  },
+  "trustmrr:lunchbreak": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "83 Lunchbreak FOR SALE Lunchbreak helps students and professionals make AI-gener",
+    "url": "https://trustmrr.com/startup/lunchbreak"
   },
   "trustmrr:lyro": {
     "category": "verify",
@@ -24830,6 +25511,43 @@
     "source": "trustmrr",
     "title": "MeltKit Design Tools",
     "url": "https://trustmrr.com/startup/meltkit"
+  },
+  "trustmrr:mobile-app-4": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "65 P Private Enterprise FOR SALE Currently in redesign with a Ukranian designer ",
+    "url": "https://trustmrr.com/startup/mobile-app-4"
   },
   "trustmrr:mogoff": {
     "category": "verify",
@@ -25252,7 +25970,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-10",
+    "last_seen": "2026-11-20",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -25276,7 +25994,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "50 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $46,939 1 %",
+    "title": "56 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,241 2 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:objekto": {
@@ -27779,10 +28497,10 @@
   "trustmrr:smartlycv": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 5664.0,
+      "annual_revenue_reported": 5148.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 472.0,
+      "monthly_revenue_reported": 429.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-15",
@@ -28516,7 +29234,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,050 5",
+    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,171 5",
     "url": "https://trustmrr.com/startup/stealth-venture-15"
   },
   "trustmrr:stealth-venture-31": {
@@ -28646,14 +29364,14 @@
   "trustmrr:store-stock-checker": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 312000.0,
+      "annual_revenue_reported": null,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 26000.0,
+      "monthly_revenue_reported": null,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-04",
+    "last_seen": "2026-11-20",
     "prices": [
       {
         "amount": 75000.0,
@@ -28665,19 +29383,20 @@
       }
     ],
     "screening": {
-      "acquisition_score": 27,
+      "acquisition_score": 17,
       "annual_cash_yield": null,
       "confidence": "low",
       "discount_to_target_pct": null,
       "flags": [
         "Profit not verified",
+        "Asking price unknown",
         "Profit multiple unavailable",
         "Business age unverified",
         "Revenue verification required",
         "Verify organic acquisition, cohort churn, owner hours, and codebase"
       ],
       "negotiation_candidate": false,
-      "operator_score": 20,
+      "operator_score": 10,
       "payback_months": null,
       "profit_multiple": null,
       "target_offer_high": null,
@@ -28685,7 +29404,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "Store Stock Checker Analytics",
+    "title": "69 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $35,6",
     "url": "https://trustmrr.com/startup/store-stock-checker"
   },
   "trustmrr:storytok": {
@@ -28900,10 +29619,10 @@
   "trustmrr:superjoin": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 105600.0,
+      "annual_revenue_reported": 108000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 8800.0,
+      "monthly_revenue_reported": 9000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
@@ -28942,10 +29661,10 @@
   "trustmrr:superpower-for-ai": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 26400.0,
+      "annual_revenue_reported": 22800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 2200.0,
+      "monthly_revenue_reported": 1900.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-14",
@@ -30264,6 +30983,43 @@
     "title": "Wave \u2192 Instagram Outreach Marketing",
     "url": "https://trustmrr.com/startup/wave"
   },
+  "trustmrr:welya-inc": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-20",
+    "last_seen": "2026-11-20",
+    "prices": [],
+    "screening": {
+      "acquisition_score": 17,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Asking price unknown",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 10,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "73 Welya, Inc. Welya is developing a B2B SaaS platform to help businesses run in",
+    "url": "https://trustmrr.com/startup/welya-inc"
+  },
   "trustmrr:whis-ai": {
     "category": "verify",
     "financials": {
@@ -30340,7 +31096,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "41 White Glove Content FOR SALE We provide a subscription-based content producti",
+    "title": "40 White Glove Content FOR SALE We provide a subscription-based content producti",
     "url": "https://trustmrr.com/startup/white-glove-content"
   },
   "trustmrr:writesim": {
