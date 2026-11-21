@@ -9,7 +9,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -46,7 +46,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-24",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -157,7 +157,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-19",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -194,7 +194,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -231,7 +231,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -268,7 +268,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -349,7 +349,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 260961.0,
@@ -401,7 +401,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 1889891.0,
@@ -454,7 +454,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 188619.0,
@@ -502,7 +502,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 2617908.0,
@@ -543,7 +543,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 108508.0,
@@ -624,7 +624,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 1000.0,
@@ -747,7 +747,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-07",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -937,6 +937,47 @@
     "source": "microns",
     "title": "AI Dance iOS App",
     "url": "https://www.microns.io/startup-listings/ai-dance-ios-app"
+  },
+  "microns:ai-design-assistant-plugin-for-framer": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "prices": [
+      {
+        "amount": 1500.0,
+        "date": "2026-11-21"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "AI Design Assistant Plugin for Framer",
+    "url": "https://www.microns.io/startup-listings/ai-design-assistant-plugin-for-framer"
   },
   "microns:ai-desktop-robot-companion": {
     "category": "verify",
@@ -1236,7 +1277,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-24",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -1732,7 +1773,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 3600.0,
@@ -2023,7 +2064,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -2101,7 +2142,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 10000.0,
@@ -2347,7 +2388,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 9000.0,
@@ -2515,7 +2556,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 5500.0,
@@ -2876,7 +2917,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 200000.0,
@@ -2999,7 +3040,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-03",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -3118,7 +3159,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 9700.0,
@@ -3442,7 +3483,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 153000.0,
@@ -3647,7 +3688,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 1000.0,
@@ -3800,6 +3841,47 @@
     "source": "microns",
     "title": "Global Restroom Finder",
     "url": "https://www.microns.io/startup-listings/global-restroom-finder"
+  },
+  "microns:gmc-suspension-audit-tool": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": null,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": null,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-21",
+    "last_seen": "2026-11-21",
+    "prices": [
+      {
+        "amount": 2900.0,
+        "date": "2026-11-21"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 0,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "microns",
+    "title": "GMC Suspension Audit Tool",
+    "url": "https://www.microns.io/startup-listings/gmc-suspension-audit-tool"
   },
   "microns:habits-hobby-tracker-ios-app": {
     "category": "verify",
@@ -4016,7 +4098,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -4090,7 +4172,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 22000.0,
@@ -4779,7 +4861,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-02",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 1000.0,
@@ -4903,7 +4985,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 15000.0,
@@ -5272,7 +5354,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 10000.0,
@@ -19502,7 +19584,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -19592,7 +19674,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-18",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 18000.0,
@@ -19626,14 +19708,14 @@
   "trustmrr:actionclip": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 39600.0,
+      "annual_revenue_reported": 40800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 3300.0,
+      "monthly_revenue_reported": 3400.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 50000.0,
@@ -20011,7 +20093,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-16",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 18000.0,
@@ -20507,14 +20589,14 @@
   "trustmrr:appzoku": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 49200.0,
+      "annual_revenue_reported": 51600.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4100.0,
+      "monthly_revenue_reported": 4300.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 150000.0,
@@ -20678,7 +20760,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -20838,7 +20920,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 1500000.0,
@@ -20880,7 +20962,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -20904,7 +20986,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "88 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
+    "title": "87 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
     "url": "https://trustmrr.com/startup/brawler"
   },
   "trustmrr:btfind-bluetooth-finder": {
@@ -21355,7 +21437,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 2900.0,
@@ -21740,7 +21822,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -21902,7 +21984,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 2000.0,
@@ -22018,14 +22100,14 @@
   "trustmrr:coralflavor": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 49200.0,
+      "annual_revenue_reported": 50400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4100.0,
+      "monthly_revenue_reported": 4200.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 220000.0,
@@ -22232,14 +22314,14 @@
   "trustmrr:deepsearch": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 6852.0,
+      "annual_revenue_reported": 6972.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 571.0,
+      "monthly_revenue_reported": 581.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-14",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 15000.0,
@@ -22665,7 +22747,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -22689,7 +22771,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "96 FaceKit FOR SALE Highly profitable & scalable consumer app in the looksmaxxin",
+    "title": "99 FaceKit FOR SALE Highly profitable & scalable consumer app in the looksmaxxin",
     "url": "https://trustmrr.com/startup/facekit"
   },
   "trustmrr:fairmoney-loan-debt-tracker": {
@@ -24027,14 +24109,14 @@
   "trustmrr:hidden-business-90": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 50400.0,
+      "annual_revenue_reported": 52800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4200.0,
+      "monthly_revenue_reported": 4400.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 95000.0,
@@ -24746,7 +24828,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-16",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -24824,7 +24906,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -24848,7 +24930,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "95 Launch Club FOR SALE Reddit marketing to improve AI search.  SaaS helping bus",
+    "title": "94 Launch Club FOR SALE Reddit marketing to improve AI search.  SaaS helping bus",
     "url": "https://trustmrr.com/startup/launch-club"
   },
   "trustmrr:letslaunch": {
@@ -24861,7 +24943,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 1200.0,
@@ -25198,7 +25280,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 35000.0,
@@ -25280,7 +25362,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -25522,7 +25604,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -25970,7 +26052,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -25994,7 +26076,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "56 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,241 2 %",
+    "title": "56 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,259 2 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:objekto": {
@@ -26130,7 +26212,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -26896,7 +26978,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 22000.0,
@@ -27158,7 +27240,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 12,
@@ -27196,7 +27278,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -27309,14 +27391,14 @@
   "trustmrr:receeto": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 5520.0,
+      "annual_revenue_reported": 5880.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 460.0,
+      "monthly_revenue_reported": 490.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 11000.0,
@@ -27959,7 +28041,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 60000.0,
@@ -28504,7 +28586,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-15",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 19000.0,
@@ -28586,7 +28668,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -29210,7 +29292,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -29234,7 +29316,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,171 5",
+    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,118 5",
     "url": "https://trustmrr.com/startup/stealth-venture-15"
   },
   "trustmrr:stealth-venture-31": {
@@ -29330,7 +29412,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 220000.0,
@@ -29371,7 +29453,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-28",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 75000.0,
@@ -29404,7 +29486,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "69 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $35,6",
+    "title": "69 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $35,7",
     "url": "https://trustmrr.com/startup/store-stock-checker"
   },
   "trustmrr:storytok": {
@@ -29619,14 +29701,14 @@
   "trustmrr:superjoin": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 108000.0,
+      "annual_revenue_reported": 104400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 9000.0,
+      "monthly_revenue_reported": 8700.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [
       {
         "amount": 420000.0,
@@ -30747,7 +30829,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -30993,7 +31075,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
@@ -31072,7 +31154,7 @@
       "revenue_verified_claim": false
     },
     "first_seen": "2026-10-12",
-    "last_seen": "2026-11-20",
+    "last_seen": "2026-11-21",
     "prices": [],
     "screening": {
       "acquisition_score": 17,
