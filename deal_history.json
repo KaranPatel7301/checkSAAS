@@ -20086,10 +20086,10 @@
   "trustmrr:airix": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 10380.0,
+      "annual_revenue_reported": 10404.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 865.0,
+      "monthly_revenue_reported": 867.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-16",
@@ -20784,7 +20784,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "86 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
+    "title": "85 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
     "url": "https://trustmrr.com/startup/based-labs-ai"
   },
   "trustmrr:betterpose-ai": {
@@ -20949,7 +20949,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "43 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+    "title": "42 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
   },
   "trustmrr:brawler": {
@@ -20986,7 +20986,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "85 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
+    "title": "84 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
     "url": "https://trustmrr.com/startup/brawler"
   },
   "trustmrr:btfind-bluetooth-finder": {
@@ -21389,10 +21389,10 @@
   "trustmrr:chadme": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 18000.0,
+      "annual_revenue_reported": 19200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1500.0,
+      "monthly_revenue_reported": 1600.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-17",
@@ -21846,7 +21846,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "48 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+    "title": "47 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
     "url": "https://trustmrr.com/startup/conductor"
   },
   "trustmrr:confidential-startup-61": {
@@ -22771,7 +22771,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "97 FaceKit FOR SALE Highly profitable & scalable consumer app in the looksmaxxin",
+    "title": "98 FaceKit FOR SALE Highly profitable & scalable consumer app in the looksmaxxin",
     "url": "https://trustmrr.com/startup/facekit"
   },
   "trustmrr:fairmoney-loan-debt-tracker": {
@@ -23892,7 +23892,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "Hidden Business Artificial Intelligence",
+    "title": "VideoBGRemover Artificial Intelligence",
     "url": "https://trustmrr.com/startup/hidden-business-108"
   },
   "trustmrr:hidden-business-20": {
@@ -24150,10 +24150,10 @@
   "trustmrr:hidden-business-90": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 54000.0,
+      "annual_revenue_reported": 55200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4500.0,
+      "monthly_revenue_reported": 4600.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-12",
@@ -24859,6 +24859,47 @@
     "title": "Kofe Flow: Pomodoro Timer Mobile Apps",
     "url": "https://trustmrr.com/startup/kofe-flow-pomodoro-timer"
   },
+  "trustmrr:landy": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 98400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 8200.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "prices": [
+      {
+        "amount": 190000.0,
+        "date": "2026-11-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 22,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Landy AI Artificial Intelligence",
+    "url": "https://trustmrr.com/startup/landy"
+  },
   "trustmrr:laper": {
     "category": "verify",
     "financials": {
@@ -24893,7 +24934,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "51 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+    "title": "50 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
     "url": "https://trustmrr.com/startup/laper"
   },
   "trustmrr:lapsula": {
@@ -25431,7 +25472,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "81 Lunchbreak FOR SALE Lunchbreak helps students and professionals make AI-gener",
+    "title": "80 Lunchbreak FOR SALE Lunchbreak helps students and professionals make AI-gener",
     "url": "https://trustmrr.com/startup/lunchbreak"
   },
   "trustmrr:lyro": {
@@ -26121,7 +26162,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "55 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,232 2 %",
+    "title": "55 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,247 2 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:objekto": {
@@ -26281,7 +26322,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "12 C Confidential Startup FOR SALE Profitable online language learning platform ",
+    "title": "13 C Confidential Startup FOR SALE Profitable online language learning platform ",
     "url": "https://trustmrr.com/startup/online-edtech"
   },
   "trustmrr:pageturner": {
@@ -26677,6 +26718,47 @@
     "source": "trustmrr",
     "title": "PreLoved AI Artificial Intelligence",
     "url": "https://trustmrr.com/startup/preloved-ai"
+  },
+  "trustmrr:prepi": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 816.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 68.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "prices": [
+      {
+        "amount": 3000.0,
+        "date": "2026-11-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "prepi Health & Fitness",
+    "url": "https://trustmrr.com/startup/prepi"
   },
   "trustmrr:private-enterprise-10": {
     "category": "verify",
@@ -27436,10 +27518,10 @@
   "trustmrr:receeto": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 5136.0,
+      "annual_revenue_reported": 5184.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 428.0,
+      "monthly_revenue_reported": 432.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
@@ -29361,7 +29443,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,212 4",
+    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,303 4",
     "url": "https://trustmrr.com/startup/stealth-venture-15"
   },
   "trustmrr:stealth-venture-31": {
@@ -29450,10 +29532,10 @@
   "trustmrr:stealth-venture-73": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 111600.0,
+      "annual_revenue_reported": 110400.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 9300.0,
+      "monthly_revenue_reported": 9200.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-19",
@@ -30898,7 +30980,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "42 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+    "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
   },
   "trustmrr:visomapper": {
@@ -31144,7 +31226,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "71 Welya, Inc. Welya is developing a B2B SaaS platform to help businesses run in",
+    "title": "73 Welya, Inc. Welya is developing a B2B SaaS platform to help businesses run in",
     "url": "https://trustmrr.com/startup/welya-inc"
   },
   "trustmrr:whis-ai": {
@@ -31188,6 +31270,47 @@
     "source": "trustmrr",
     "title": "Whis AI Artificial Intelligence",
     "url": "https://trustmrr.com/startup/whis-ai"
+  },
+  "trustmrr:whispa": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 348.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 29.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-22",
+    "last_seen": "2026-11-22",
+    "prices": [
+      {
+        "amount": 1200.0,
+        "date": "2026-11-22"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Whispa Mobile Apps",
+    "url": "https://trustmrr.com/startup/whispa"
   },
   "trustmrr:white-glove-content": {
     "category": "verify",
