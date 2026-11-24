@@ -739,6 +739,58 @@
     "status": "new",
     "updated_at": "2026-10-13"
   },
+  "microns:8-native-macos-utility-apps": {
+    "created_at": "2026-11-24",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-24",
+      "latest_price": 12000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "8 Native macOS Utility Apps",
+      "url": "https://www.microns.io/startup-listings/8-native-macos-utility-apps"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-24"
+  },
   "microns:83-app-portfolio": {
     "created_at": "2026-10-29",
     "diligence": {
@@ -894,6 +946,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-26"
+  },
+  "microns:ai-alt-text-generator": {
+    "created_at": "2026-11-24",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-24",
+      "latest_price": 8000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Alt Text Generator",
+      "url": "https://www.microns.io/startup-listings/ai-alt-text-generator"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-24"
   },
   "microns:ai-calorie-counter-ios-app-c495c": {
     "created_at": "2026-10-13",
@@ -1543,22 +1647,23 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-09",
+      "last_seen": "2026-11-24",
       "latest_price": 1999.0,
       "screening": {
-        "acquisition_score": 27,
+        "acquisition_score": 17,
         "annual_cash_yield": null,
         "confidence": "low",
         "discount_to_target_pct": null,
         "flags": [
           "Profit not verified",
+          "Asking price unknown",
           "Profit multiple unavailable",
           "Business age unverified",
           "Revenue verification required",
           "Verify organic acquisition, cohort churn, owner hours, and codebase"
         ],
         "negotiation_candidate": false,
-        "operator_score": 0,
+        "operator_score": 10,
         "payback_months": null,
         "profit_multiple": null,
         "target_offer_high": null,
@@ -3500,6 +3605,58 @@
     "status": "new",
     "updated_at": "2026-10-27"
   },
+  "microns:app-blocker-ios-app-79071": {
+    "created_at": "2026-11-24",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-24",
+      "latest_price": 4000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "App Blocker iOS App",
+      "url": "https://www.microns.io/startup-listings/app-blocker-ios-app-79071"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-24"
+  },
   "microns:b2b-lead-generation-platform-b21a8": {
     "created_at": "2026-11-03",
     "diligence": {
@@ -4802,6 +4959,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-15"
+  },
+  "microns:geomagnetic-activity-air-quality-apps": {
+    "created_at": "2026-11-24",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-24",
+      "latest_price": 1000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Geomagnetic Activity & Air Quality Apps",
+      "url": "https://www.microns.io/startup-listings/geomagnetic-activity-air-quality-apps"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-24"
   },
   "microns:github-profile-portfolio-builder": {
     "created_at": "2026-10-20",
@@ -28338,10 +28547,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 60000.0,
+        "annual_revenue_reported": 61200.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 5000.0,
+        "monthly_revenue_reported": 5100.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-24",
@@ -28628,7 +28837,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "86 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
+      "title": "87 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
       "url": "https://trustmrr.com/startup/based-labs-ai"
     },
     "review_notes": [],
@@ -28889,7 +29098,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "43 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+      "title": "44 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
       "url": "https://trustmrr.com/startup/boothie"
     },
     "review_notes": [],
@@ -28942,7 +29151,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "84 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
+      "title": "85 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
       "url": "https://trustmrr.com/startup/brawler"
     },
     "review_notes": [],
@@ -30869,10 +31078,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 14400.0,
+        "annual_revenue_reported": 15600.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 1200.0,
+        "monthly_revenue_reported": 1300.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-24",
@@ -31217,6 +31426,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-11-20"
+  },
+  "trustmrr:facet": {
+    "created_at": "2026-11-24",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 13200.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 1100.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-24",
+      "latest_price": 10000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Facet Utilities",
+      "url": "https://trustmrr.com/startup/facet"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-24"
   },
   "trustmrr:fairmoney-loan-debt-tracker": {
     "created_at": "2026-10-22",
@@ -33924,7 +34185,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "50 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
+      "title": "51 Laper FOR SALE Laper is an all-in-one creative OS for screenwriters, director",
       "url": "https://trustmrr.com/startup/laper"
     },
     "review_notes": [],
@@ -34081,7 +34342,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "L Lens Scan, Photo Identifier Artificial Intelligence",
+      "title": "Lens Scan, Photo Identifier Mobile Apps",
       "url": "https://trustmrr.com/startup/lens-scan-photo-identifier"
     },
     "review_notes": [],
@@ -35542,7 +35803,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "55 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,271 2 %",
+      "title": "55 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,302 2 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -36505,10 +36766,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 168000.0,
+        "annual_revenue_reported": 180000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 14000.0,
+        "monthly_revenue_reported": 15000.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-24",
@@ -38835,6 +39096,58 @@
     "status": "new",
     "updated_at": "2026-10-24"
   },
+  "trustmrr:sonyvibe": {
+    "created_at": "2026-11-24",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 6468.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 539.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-24",
+      "latest_price": 500.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "SonyVibe Entertainment",
+      "url": "https://trustmrr.com/startup/sonyvibe"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-24"
+  },
   "trustmrr:speel-co": {
     "created_at": "2026-10-13",
     "diligence": {
@@ -39663,7 +39976,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,489 4",
+      "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,496 4",
       "url": "https://trustmrr.com/startup/stealth-venture-15"
     },
     "review_notes": [],
@@ -39873,7 +40186,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "68 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $35,4",
+      "title": "75 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $34,3",
       "url": "https://trustmrr.com/startup/store-stock-checker"
     },
     "review_notes": [],
@@ -39896,10 +40209,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 43200.0,
+        "annual_revenue_reported": 44400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 3600.0,
+        "monthly_revenue_reported": 3700.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-24",
@@ -42061,7 +42374,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "70 Welya, Inc. Welya is developing a B2B SaaS platform to help businesses run in",
+      "title": "69 Welya, Inc. Welya is developing a B2B SaaS platform to help businesses run in",
       "url": "https://trustmrr.com/startup/welya-inc"
     },
     "review_notes": [],
