@@ -538,7 +538,7 @@
     "financials": {
       "annual_revenue_reported": null,
       "business_age_months": null,
-      "monthly_profit_reported": 165666.58333333334,
+      "monthly_profit_reported": 149884.41666666666,
       "monthly_revenue_reported": 275440.5833333333,
       "revenue_verified_claim": false
     },
@@ -552,9 +552,9 @@
     ],
     "screening": {
       "acquisition_score": 37,
-      "annual_cash_yield": 0.3070265406662881,
+      "annual_cash_yield": 0.27777776919777847,
       "confidence": "medium",
-      "discount_to_target_pct": 23.2,
+      "discount_to_target_pct": 30.6,
       "flags": [
         "Over asking-price threshold",
         "Above 2.5x annual profit",
@@ -564,10 +564,10 @@
       ],
       "negotiation_candidate": true,
       "operator_score": 35,
-      "payback_months": 39.0845689560206,
-      "profit_multiple": 3.257047413001717,
-      "target_offer_high": 4969998,
-      "target_offer_low": 2981998,
+      "payback_months": 43.20000133436154,
+      "profit_multiple": 3.6000001111967945,
+      "target_offer_high": 4496532,
+      "target_offer_low": 2697920,
       "track": "acquisition"
     },
     "source": "empireflippers",
@@ -20374,10 +20374,10 @@
   "trustmrr:ai-video-generator-zynvixo": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 11208.0,
+      "annual_revenue_reported": 11604.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 934.0,
+      "monthly_revenue_reported": 967.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-25",
@@ -21000,10 +21000,10 @@
   "trustmrr:appzoku": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 62400.0,
+      "annual_revenue_reported": 64800.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 5200.0,
+      "monthly_revenue_reported": 5400.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
@@ -21164,10 +21164,10 @@
   "trustmrr:bankconv": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 12000.0,
+      "annual_revenue_reported": 13200.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 1000.0,
+      "monthly_revenue_reported": 1100.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-23",
@@ -21236,7 +21236,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "86 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
+    "title": "85 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
     "url": "https://trustmrr.com/startup/based-labs-ai"
   },
   "trustmrr:betterpose-ai": {
@@ -21484,7 +21484,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "45 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+    "title": "44 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
     "url": "https://trustmrr.com/startup/boothie"
   },
   "trustmrr:brawler": {
@@ -21521,7 +21521,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "83 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
+    "title": "82 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
     "url": "https://trustmrr.com/startup/brawler"
   },
   "trustmrr:btfind-bluetooth-finder": {
@@ -22635,10 +22635,10 @@
   "trustmrr:coralflavor": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 49200.0,
+      "annual_revenue_reported": 48000.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 4100.0,
+      "monthly_revenue_reported": 4000.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-20",
@@ -23024,7 +23024,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "91 DirectRoles FOR SALE Find jobs not on LinkedIn/Indeed.\nWe find jobs posted on",
+    "title": "88 DirectRoles FOR SALE Find jobs not on LinkedIn/Indeed.\nWe find jobs posted on",
     "url": "https://trustmrr.com/startup/directroles"
   },
   "trustmrr:diskzy": {
@@ -23348,7 +23348,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "100 FaceKit FOR SALE Highly profitable & scalable consumer app in the looksmaxxi",
+    "title": "99 FaceKit FOR SALE Highly profitable & scalable consumer app in the looksmaxxin",
     "url": "https://trustmrr.com/startup/facekit"
   },
   "trustmrr:facet": {
@@ -26903,7 +26903,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "55 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,260 1 %",
+    "title": "55 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,255 1 %",
     "url": "https://trustmrr.com/startup/nutria-9e3eaa"
   },
   "trustmrr:objekto": {
@@ -28216,7 +28216,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "36 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
+    "title": "35 Project A FOR SALE Project A is a popular AI-powered fortune-telling and astr",
     "url": "https://trustmrr.com/startup/project-a"
   },
   "trustmrr:prosp": {
@@ -28728,6 +28728,47 @@
     "title": "RevLab - Engine Simulator Entertainment",
     "url": "https://trustmrr.com/startup/revlab"
   },
+  "trustmrr:roamer-1": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 384.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 32.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "prices": [
+      {
+        "amount": 2500.0,
+        "date": "2026-11-26"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Roamer Mobile Apps",
+    "url": "https://trustmrr.com/startup/roamer-1"
+  },
   "trustmrr:run-lap-tap": {
     "category": "verify",
     "financials": {
@@ -28944,10 +28985,10 @@
   "trustmrr:screen-movie": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 7692.0,
+      "annual_revenue_reported": 6672.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 641.0,
+      "monthly_revenue_reported": 556.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-25",
@@ -29770,7 +29811,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "34 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
+    "title": "33 Speel.co FOR SALE Use AI to generate realistic UGC-style videos and images fo",
     "url": "https://trustmrr.com/startup/speel-co"
   },
   "trustmrr:sportii-app": {
@@ -30394,7 +30435,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,519 4",
+    "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,521 4",
     "url": "https://trustmrr.com/startup/stealth-venture-15"
   },
   "trustmrr:stealth-venture-31": {
@@ -30564,7 +30605,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "79 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $31,1",
+    "title": "78 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $30,7",
     "url": "https://trustmrr.com/startup/store-stock-checker"
   },
   "trustmrr:storeradar": {
@@ -31485,10 +31526,10 @@
   "trustmrr:transclipper": {
     "category": "verify",
     "financials": {
-      "annual_revenue_reported": 4284.0,
+      "annual_revenue_reported": 3696.0,
       "business_age_months": null,
       "monthly_profit_reported": null,
-      "monthly_revenue_reported": 357.0,
+      "monthly_revenue_reported": 308.0,
       "revenue_verified_claim": false
     },
     "first_seen": "2026-11-23",
@@ -32013,7 +32054,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "44 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+    "title": "42 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
     "url": "https://trustmrr.com/startup/vidai-llc"
   },
   "trustmrr:vidgens": {
@@ -32138,6 +32179,47 @@
     "source": "trustmrr",
     "title": "Volume Booster: Louder Sound Productivity",
     "url": "https://trustmrr.com/startup/volumebooster"
+  },
+  "trustmrr:vruum": {
+    "category": "verify",
+    "financials": {
+      "annual_revenue_reported": 14400.0,
+      "business_age_months": null,
+      "monthly_profit_reported": null,
+      "monthly_revenue_reported": 1200.0,
+      "revenue_verified_claim": false
+    },
+    "first_seen": "2026-11-26",
+    "last_seen": "2026-11-26",
+    "prices": [
+      {
+        "amount": 20000.0,
+        "date": "2026-11-26"
+      }
+    ],
+    "screening": {
+      "acquisition_score": 27,
+      "annual_cash_yield": null,
+      "confidence": "low",
+      "discount_to_target_pct": null,
+      "flags": [
+        "Profit not verified",
+        "Profit multiple unavailable",
+        "Business age unverified",
+        "Revenue verification required",
+        "Verify organic acquisition, cohort churn, owner hours, and codebase"
+      ],
+      "negotiation_candidate": false,
+      "operator_score": 20,
+      "payback_months": null,
+      "profit_multiple": null,
+      "target_offer_high": null,
+      "target_offer_low": null,
+      "track": "acquisition"
+    },
+    "source": "trustmrr",
+    "title": "Vruum Sales",
+    "url": "https://trustmrr.com/startup/vruum"
   },
   "trustmrr:vsub": {
     "category": "verify",
@@ -32342,7 +32424,7 @@
       "track": "acquisition"
     },
     "source": "trustmrr",
-    "title": "67 Welya, Inc. Welya is developing a B2B SaaS platform to help businesses run in",
+    "title": "66 Welya, Inc. Welya is developing a B2B SaaS platform to help businesses run in",
     "url": "https://trustmrr.com/startup/welya-inc"
   },
   "trustmrr:whis-ai": {
