@@ -3344,6 +3344,58 @@
     "status": "new",
     "updated_at": "2026-11-20"
   },
+  "microns:ai-video-generator-ios-app": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 15000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "AI Video Generator iOS App",
+      "url": "https://www.microns.io/startup-listings/ai-video-generator-ios-app"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
+  },
   "microns:ai-video-score-analyzer-app": {
     "created_at": "2026-11-16",
     "diligence": {
@@ -3760,6 +3812,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-27"
+  },
+  "microns:apify-data-extraction-actors": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 89000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Apify Data Extraction Actors",
+      "url": "https://www.microns.io/startup-listings/apify-data-extraction-actors"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
   },
   "microns:app-blocker-ios-app-79071": {
     "created_at": "2026-11-24",
@@ -4543,6 +4647,58 @@
     "status": "new",
     "updated_at": "2026-11-02"
   },
+  "microns:e-commerce-profit-tracker": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 20000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "E-commerce Profit Tracker",
+      "url": "https://www.microns.io/startup-listings/e-commerce-profit-tracker"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
+  },
   "microns:economic-calendar-android-app": {
     "created_at": "2026-11-27",
     "diligence": {
@@ -4647,6 +4803,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-15"
+  },
+  "microns:exam-platform-for-it-certifications": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 1000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Exam Platform for IT Certifications",
+      "url": "https://www.microns.io/startup-listings/exam-platform-for-it-certifications"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
   },
   "microns:executive-assistant-placement-subscription-agency": {
     "created_at": "2026-10-28",
@@ -8032,6 +8240,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-11-16"
+  },
+  "microns:weight-loss-plan-for-women-over-40": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": null,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": null,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 40000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 0,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "microns",
+      "title": "Weight Loss Plan for Women Over 40",
+      "url": "https://www.microns.io/startup-listings/weight-loss-plan-for-women-over-40"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
   },
   "microns:writing-niche-newsletter": {
     "created_at": "2026-10-13",
@@ -28128,10 +28388,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 11028.0,
+        "annual_revenue_reported": 11388.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 919.0,
+        "monthly_revenue_reported": 949.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-27",
@@ -28528,6 +28788,59 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "trustmrr:anonymous-startup-103": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 360000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 30000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 1500000.0,
+      "screening": {
+        "acquisition_score": 17,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Over asking-price threshold",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Anonymous Startup",
+      "url": "https://trustmrr.com/startup/anonymous-startup-103"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
   },
   "trustmrr:anonymous-startup-40": {
     "created_at": "2026-10-30",
@@ -29201,7 +29514,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "85 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
+      "title": "84 B Based Labs AI FOR SALE AI video tools and community Michael Aubry $28,537 0",
       "url": "https://trustmrr.com/startup/based-labs-ai"
     },
     "review_notes": [],
@@ -29515,12 +29828,64 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "44 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
+      "title": "43 Boothie: AI Photo Editor FOR SALE Boothie is an AI photo app for iOS and Andr",
       "url": "https://trustmrr.com/startup/boothie"
     },
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-10-13"
+  },
+  "trustmrr:boxer-ai": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 48000.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 4000.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 25000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Boxer AI Mobile Apps",
+      "url": "https://trustmrr.com/startup/boxer-ai"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
   },
   "trustmrr:brawler": {
     "created_at": "2026-11-20",
@@ -29568,7 +29933,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "81 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
+      "title": "78 Brawler FOR SALE Your AI boxing coach. Anytime. Anywhere. George Lampropoulos",
       "url": "https://trustmrr.com/startup/brawler"
     },
     "review_notes": [],
@@ -30609,7 +30974,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "45 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
+      "title": "46 Conductor FOR SALE The best QuickBooks Desktop & Enterprise API on the planet",
       "url": "https://trustmrr.com/startup/conductor"
     },
     "review_notes": [],
@@ -31420,7 +31785,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "87 DirectRoles FOR SALE Find jobs not on LinkedIn/Indeed.\nWe find jobs posted on",
+      "title": "85 DirectRoles FOR SALE Find jobs not on LinkedIn/Indeed.\nWe find jobs posted on",
       "url": "https://trustmrr.com/startup/directroles"
     },
     "review_notes": [],
@@ -34572,10 +34937,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 94800.0,
+        "annual_revenue_reported": 92400.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 7900.0,
+        "monthly_revenue_reported": 7700.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-27",
@@ -34735,7 +35100,7 @@
         "monthly_revenue_reported": null,
         "revenue_verified_claim": false
       },
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-27",
       "latest_price": null,
       "screening": {
         "acquisition_score": 17,
@@ -34759,7 +35124,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "96 Launch Club FOR SALE Reddit marketing to improve AI search.  SaaS helping bus",
+      "title": "100 Launch Club FOR SALE Reddit marketing to improve AI search.  SaaS helping bu",
       "url": "https://trustmrr.com/startup/launch-club"
     },
     "review_notes": [],
@@ -36324,7 +36689,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "55 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,236 1 %",
+      "title": "54 Nutria (9e3eaa) FOR SALE AI Calorie Tracker. - $47,236 1 %",
       "url": "https://trustmrr.com/startup/nutria-9e3eaa"
     },
     "review_notes": [],
@@ -36556,10 +36921,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 31200.0,
+        "annual_revenue_reported": 30000.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 2600.0,
+        "monthly_revenue_reported": 2500.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-27",
@@ -37165,6 +37530,58 @@
     "review_notes": [],
     "status": "new",
     "updated_at": "2026-11-13"
+  },
+  "trustmrr:private-enterprise-104": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 31200.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 2600.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 59000.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Private Enterprise",
+      "url": "https://trustmrr.com/startup/private-enterprise-104"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
   },
   "trustmrr:private-enterprise-32": {
     "created_at": "2026-11-13",
@@ -37997,7 +38414,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "20 PROSP FOR SALE Automate your LinkedIn Outreach with AI Yann | Prosp.ai $128,0",
+      "title": "19 PROSP FOR SALE Automate your LinkedIn Outreach with AI Yann | Prosp.ai $128,0",
       "url": "https://trustmrr.com/startup/prosp"
     },
     "review_notes": [],
@@ -39513,6 +39930,58 @@
     "status": "new",
     "updated_at": "2026-11-07"
   },
+  "trustmrr:shredr": {
+    "created_at": "2026-11-27",
+    "diligence": {
+      "code_and_ip": false,
+      "customer_acquisition": false,
+      "m1_m6_m12_retention": false,
+      "organic_traffic": false,
+      "owner_hours": false,
+      "profit_and_expenses": false,
+      "stripe_exports": false,
+      "transferability": false
+    },
+    "evidence_grade": "unverified",
+    "listing": {
+      "category": "verify",
+      "financials": {
+        "annual_revenue_reported": 6756.0,
+        "business_age_months": null,
+        "monthly_profit_reported": null,
+        "monthly_revenue_reported": 563.0,
+        "revenue_verified_claim": false
+      },
+      "last_seen": "2026-11-27",
+      "latest_price": 7500.0,
+      "screening": {
+        "acquisition_score": 27,
+        "annual_cash_yield": null,
+        "confidence": "low",
+        "discount_to_target_pct": null,
+        "flags": [
+          "Profit not verified",
+          "Profit multiple unavailable",
+          "Business age unverified",
+          "Revenue verification required",
+          "Verify organic acquisition, cohort churn, owner hours, and codebase"
+        ],
+        "negotiation_candidate": false,
+        "operator_score": 20,
+        "payback_months": null,
+        "profit_multiple": null,
+        "target_offer_high": null,
+        "target_offer_low": null,
+        "track": "acquisition"
+      },
+      "source": "trustmrr",
+      "title": "Shredr Artificial Intelligence",
+      "url": "https://trustmrr.com/startup/shredr"
+    },
+    "review_notes": [],
+    "status": "new",
+    "updated_at": "2026-11-27"
+  },
   "trustmrr:simeo": {
     "created_at": "2026-11-01",
     "diligence": {
@@ -40757,7 +41226,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,688 3",
+      "title": "23 Livity FOR SALE Health and Wellness fitness app for iOS App Seller $107,764 4",
       "url": "https://trustmrr.com/startup/stealth-venture-15"
     },
     "review_notes": [],
@@ -40967,7 +41436,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "80 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $29,9",
+      "title": "82 Store Stock Checker FOR SALE Realtime Apple Store stock checking. Bryce $29,3",
       "url": "https://trustmrr.com/startup/store-stock-checker"
     },
     "review_notes": [],
@@ -40990,10 +41459,10 @@
     "listing": {
       "category": "verify",
       "financials": {
-        "annual_revenue_reported": 51600.0,
+        "annual_revenue_reported": 52800.0,
         "business_age_months": null,
         "monthly_profit_reported": null,
-        "monthly_revenue_reported": 4300.0,
+        "monthly_revenue_reported": 4400.0,
         "revenue_verified_claim": false
       },
       "last_seen": "2026-11-27",
@@ -42790,7 +43259,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "42 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
+      "title": "40 Vid.AI FOR SALE Turn any idea or script into ready-to-post videos that get vi",
       "url": "https://trustmrr.com/startup/vidai-llc"
     },
     "review_notes": [],
@@ -43418,7 +43887,7 @@
         "track": "acquisition"
       },
       "source": "trustmrr",
-      "title": "43 White Glove Content FOR SALE We provide a subscription-based content producti",
+      "title": "44 White Glove Content FOR SALE We provide a subscription-based content producti",
       "url": "https://trustmrr.com/startup/white-glove-content"
     },
     "review_notes": [],
